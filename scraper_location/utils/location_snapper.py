@@ -1,0 +1,102 @@
+import os
+import requests
+from scraper_location.utils.quota_tracker import QuotaTracker
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+MAJOR_AREAS = ["Surabaya", "Sidoarjo", "Kertosono", "Gresik"]
+
+tracker = QuotaTracker()
+
+def is_area(location_name: str) -> bool:
+    if not location_name:
+        return False
+    for area in MAJOR_AREAS:
+        if area.lower() in location_name.lower():
+            return True
+    return False
+
+def snap_to_major_road(location_name: str, lat: float, lng: float) -> dict:
+    """
+    Snap area luas ke simpang besar.
+    Nearby Search kalau quota cukup.
+    """
+    if not tracker.can_use():
+        print("[QuotaTracker] Limit Places API TERCAPAI. Fallback to original.")
+        return {
+            "location": location_name,
+            "lat": lat,
+            "lng": lng,
+            "reason": "limit_exceeded"
+        }
+
+    places_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
+
+    params = {
+        "location": f"{lat},{lng}",
+        "radius": 2000,
+        "keyword": "simpang OR intersection OR exit",
+        "key": GOOGLE_API_KEY
+    }
+
+    try:
+        resp = requests.get(places_url, params=params)
+        resp.raise_for_status()
+        data = resp.json()
+
+        if "results" in data and data["results"]:
+            first_result = data["results"][0]
+            name = first_result["name"]
+            loc = first_result["geometry"]["location"]
+
+            tracker.increment()
+
+            return {
+                "location": name,
+                "lat": loc["lat"],
+                "lng": loc["lng"],
+                "reason": "google_places_snap"
+            }
+
+    except Exception as e:
+        print(f"[snap_to_major_road] Error: {e}")
+
+    return {
+        "location": location_name,
+        "lat": lat,
+        "lng": lng,
+        "reason": "api_error_or_empty"
+    }
+
+def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
+    """
+    Smart snapping:
+    - Kalau from luas & to sempit ➜ snap from ➜ radius pakai to
+    - Kalau to luas & from sempit ➜ snap to ➜ radius pakai from
+    - Kalau dua-duanya luas ➜ snap from ➜ radius pakai from
+    - Kalau dua-duanya sempit ➜ tidak snap
+    """
+    new_from = {"location": from_loc, "lat": from_lat, "lng": from_lng, "reason": "original"}
+    new_to = {"location": to_loc, "lat": to_lat, "lng": to_lng, "reason": "original"}
+
+    from_is_area = is_area(from_loc)
+    to_is_area = is_area(to_loc)
+
+    if from_is_area and not to_is_area and to_lat and to_lng:
+        # Snap FROM pakai radius di TO
+        snapped = snap_to_major_road(from_loc, to_lat, to_lng)
+        new_from.update(snapped)
+
+    elif to_is_area and not from_is_area and from_lat and from_lng:
+        # Snap TO pakai radius di FROM
+        snapped = snap_to_major_road(to_loc, from_lat, from_lng)
+        new_to.update(snapped)
+
+    elif from_is_area and to_is_area and from_lat and from_lng:
+        # Dua-duanya luas ➜ snap FROM pakai titik FROM
+        snapped = snap_to_major_road(from_loc, from_lat, from_lng)
+        new_from.update(snapped)
+
+    # Dua-duanya sempit ➜ biarkan original
+
+    return new_from, new_to
