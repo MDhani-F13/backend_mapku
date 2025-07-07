@@ -1,6 +1,13 @@
+import os, django
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend_mapku.settings")
+django.setup()
+
 from apscheduler.schedulers.blocking import BlockingScheduler
 import asyncio
 from scraper_location.pipeline import run_pipeline
+
+
 
 def job():
     print("🔄 [SCHEDULER] Menjalankan pipeline...")

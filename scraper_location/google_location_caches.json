@@ -3945,5 +3945,482 @@
     ],
     "lat": -7.4428284,
     "lng": 112.686457
+  },
+  "0a2d291e2cc13f91192355788adb6b71": {
+    "input": "suara surabaya",
+    "valid": false,
+    "place_id": "ChIJC6jxToz71y0RhVanOKmZrZE",
+    "name": "Suara Surabaya Centre",
+    "formatted_address": "suara surabaya centre, jl. raya bukit darmo no.22-24, putat gede, kec. sukomanunggal, surabaya, jawa timur 60189, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.288567399999999,
+    "lng": 112.6993234
+  },
+  "b22f5c047f99037fd21656185aa98fe1": {
+    "input": "al pendengar",
+    "valid": false,
+    "place_id": "ChIJUa2PWgD71y0R5lHpsgX7MVU",
+    "name": "Pusat Alat Bantu Dengar - Kasoem Hearing Centre - Surabaya",
+    "formatted_address": "jl. raya prapen no.29, panjang jiwo, kec. tenggilis mejoyo, surabaya, jawa timur 60299, indonesia",
+    "types": [
+      "point_of_interest",
+      "store",
+      "health",
+      "establishment"
+    ],
+    "lat": -7.3081521,
+    "lng": 112.7606818
+  },
+  "364b0e0db0b2a949a13ad3f15be698d4": {
+    "input": "pengendara",
+    "valid": false,
+    "place_id": "ChIJrVnD_Abx1y0R-JsKH1LSh8o",
+    "name": "Rider Lair",
+    "formatted_address": "jl. green semanggi mangrove no.j1-33, wonorejo, rungkut, surabaya, east java 60296, indonesia",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "lat": -7.306725399999999,
+    "lng": 112.8150979
+  },
+  "1dd8303539431fdc5e2dc2a088d470d5": {
+    "input": "sampang",
+    "valid": false,
+    "place_id": "ChIJff5hWeou2C0RkIrN43Z6AgM",
+    "name": "Kabupaten Sampang",
+    "formatted_address": "kabupaten sampang, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ],
+    "lat": -7.0402326,
+    "lng": 113.2394452
+  },
+  "436ddda2cd504f1a3d8ecdf6bfa65286": {
+    "input": "blega",
+    "valid": false,
+    "place_id": "ChIJG47dnach2C0R0IrN43Z6AgQ",
+    "name": "Kec. Blega",
+    "formatted_address": "kec. blega, kabupaten bangkalan, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_3",
+      "political"
+    ],
+    "lat": -7.1270373,
+    "lng": 113.06633
+  },
+  "d076034fc50c31703f08f4053ef01f8a": {
+    "input": "madura",
+    "valid": false,
+    "place_id": "ChIJ0QSHXETT2S0RhM78Hb5RJ1o",
+    "name": "Pulau Madura",
+    "formatted_address": "pulau madura, jawa timur, indonesia",
+    "types": [
+      "natural_feature",
+      "establishment"
+    ],
+    "lat": -7.0777326,
+    "lng": 113.287085
+  },
+  "258e1ee4ece37c481ab4eaa8a69ec9e1": {
+    "input": "tambakoso",
+    "valid": false,
+    "place_id": "ChIJ1flfk_fv1y0RRRVpyqZ1x2A",
+    "name": "Tambakoso",
+    "formatted_address": "tambakoso, kec. waru, kabupaten sidoarjo, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.35128,
+    "lng": 112.8135304
+  },
+  "a69ec3f3030ce5586e350175b623b642": {
+    "input": "sepanjang jalan",
+    "valid": false,
+    "place_id": "ChIJcQ7z_lL91y0RBcSZohcdMIk",
+    "name": "Pasar Sepanjang",
+    "formatted_address": "mm2r+5w9, unnamed road, wonocolo, kec. taman, kabupaten sidoarjo, jawa timur 61257, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.349607300000001,
+    "lng": 112.6924351
+  },
+  "64037b042e5340171822146934b1d60f": {
+    "input": "depo msc",
+    "valid": false,
+    "place_id": "ChIJLQRJ6F3_1y0RQxCOr632bts",
+    "name": "Depo CPC depo MSC Margomulyo 44",
+    "formatted_address": "jl. margomulyo industri vii no.21 blok g, rt.001/rw.01, greges, kec. asem rowo, surabaya, jawa timur 60183, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2345571,
+    "lng": 112.6906144
+  },
+  "698589728304e755461190a52b01e9de": {
+    "valid": false
+  },
+  "c376d74329bd774a62651a310be45baf": {
+    "input": "bus mo",
+    "valid": false,
+    "place_id": "ChIJ31t7Hqr71y0Rk4pdtqTdP8w",
+    "name": "Perum DAMRI / Garasi DAMRI",
+    "formatted_address": "jl. jagir sidoresmo vi no.164, jagir, kec. wonokromo, surabaya, jawa timur 60244, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.305892399999999,
+    "lng": 112.7563939
+  },
+  "c1c3a801fb02a647a18f55db224b5673": {
+    "input": "lajur",
+    "valid": false,
+    "place_id": "ChIJVfODCeE62C0RgrPJ8wYgvkM",
+    "name": "Lajur",
+    "formatted_address": "lajur, olor, kec. banyuates, kabupaten sampang, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_5",
+      "political"
+    ],
+    "lat": -6.977551399999999,
+    "lng": 113.1471338
+  },
+  "b14c83be1c73daceca79574986c2553e": {
+    "input": "tambak osowilangun",
+    "valid": false,
+    "place_id": "ChIJG-D1Vbr_1y0R2UCB3shAdmw",
+    "name": "Tambak Osowilangun",
+    "formatted_address": "tambak osowilangun, kec. benowo, surabaya, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.2187843,
+    "lng": 112.6526416
+  },
+  "3541d2ae4605494a9a9c768899b9ac08": {
+    "input": "cito",
+    "valid": false,
+    "place_id": "ChIJnxwXwqn81y0R3EtSzna8re8",
+    "name": "City of Tomorrow Mall",
+    "formatted_address": "jl. ahmad yani no.288, dukuh menanggal, kec. gayungan, surabaya, jawa timur 60234, indonesia",
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.3453319,
+    "lng": 112.7274935
+  },
+  "336b1eb83fc2a2afb637703c20e8fb81": {
+    "valid": false
+  },
+  "6fbe5bac5b6a84270255692aec7f2f32": {
+    "input": "u-turn",
+    "valid": false,
+    "place_id": "ChIJt-pPCcT71y0RaoGfQJsX_3A",
+    "name": "Pusat Oleh-oleh Bu Rudy",
+    "formatted_address": "jl. dharmahusada no.144, mojo, kec. gubeng, surabaya, jawa timur 60285, indonesia",
+    "types": [
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.267499000000001,
+    "lng": 112.7700864
+  },
+  "c9089f3c9adaf0186f6ffb1ee8d6501c": {
+    "input": "la",
+    "valid": false,
+    "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+    "name": "Los Angeles",
+    "formatted_address": "los angeles, california, amerika serikat",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "lat": 34.0549076,
+    "lng": -118.242643
+  },
+  "caf9b6b99962bf5c2264824231d7a40c": {
+    "input": "info",
+    "valid": false,
+    "place_id": "ChIJL5aWH_P71y0RRM1qygqCw_E",
+    "name": "Info Surabaya",
+    "formatted_address": "jl. jawa, gubeng, kec. gubeng, surabaya, jawa timur 60281, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2728383,
+    "lng": 112.7468026
+  },
+  "a68119ea0122c07a1636afc0103aee3b": {
+    "input": "posisi mobil",
+    "valid": false,
+    "place_id": "ChIJD39HGxz61y0Rlnevskevh7o",
+    "name": "Kec. Mulyorejo",
+    "formatted_address": "kec. mulyorejo, surabaya, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_3",
+      "political"
+    ],
+    "lat": -7.2633794,
+    "lng": 112.7830675
+  },
+  "8b097b8a86f9d6a991357d40d3d58634": {
+    "input": "pengguna",
+    "valid": false,
+    "place_id": "ChIJh0gYWADl1y0R7IC7VBf5n5I",
+    "name": "Pengguna jalan",
+    "formatted_address": "jphh+893, jl. raya aloha, dusun sawo, sawotratap, kec. gedangan, kabupaten sidoarjo, jawa timur 61254, indonesia",
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.371731,
+    "lng": 112.7284319
+  },
+  "cf6cac79fd281b10550238b1e859f906": {
+    "input": "laporan",
+    "valid": false,
+    "place_id": "ChIJ17c557j71y0RrfL7sWpFx-s",
+    "name": "Laporan",
+    "formatted_address": "jl. pakis gn. ii no.2, pakis, kec. sawahan, surabaya, jawa timur 60256, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2889011,
+    "lng": 112.7268784
+  },
+  "892fa6f69869a8ff60eb2bc1cca327db": {
+    "input": "jl. ahmad yani",
+    "valid": true,
+    "place_id": "ChIJr8C4Epj71y0RCGlcNEs5UmE",
+    "name": "Jl. Ahmad Yani",
+    "formatted_address": "jl. ahmad yani, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.320894600000001,
+    "lng": 112.7330452
+  },
+  "5308ecaada22edfc3768843410edf47b": {
+    "input": "jl. gayung kebonsari",
+    "valid": true,
+    "place_id": "ChIJk3jw-l371y0Rxxc8nhV7K_0",
+    "name": "Jl. Gayung Kebonsari",
+    "formatted_address": "jl. gayung kebonsari, kec. gayungan, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.3293025,
+    "lng": 112.7248345
+  },
+  "4eaa36e879e410fa64c07c8134b85fba": {
+    "input": "jl. pahlawan",
+    "valid": true,
+    "place_id": "ChIJpSaceEjh1y0RX0RPreibezc",
+    "name": "Jl. Pahlawan",
+    "formatted_address": "jl. pahlawan, kabupaten sidoarjo, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.4481608,
+    "lng": 112.7020566
+  },
+  "7606d42531703270fae85d7233d1e679": {
+    "input": "jl. kedungdoro",
+    "valid": true,
+    "place_id": "ChIJy34UEln51y0R8n57PxSuYhw",
+    "name": "Jl. Kedung Doro",
+    "formatted_address": "jl. kedung doro, surabaya, jawa timur 60251, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.2635419,
+    "lng": 112.7310601
+  },
+  "55fbff464aeaf47c690989df0030d708": {
+    "input": "jl. mayjen sungkono",
+    "valid": true,
+    "place_id": "ChIJ2exKbIz71y0RkD-ZsoyWRGQ",
+    "name": "Jl. Mayjen Sungkono",
+    "formatted_address": "jl. mayjen sungkono, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.291445599999999,
+    "lng": 112.717254
+  },
+  "acb66f542692fe6c4468872b3e7e7a61": {
+    "input": "jl. bintang diponggo",
+    "valid": true,
+    "place_id": "ChIJS42-F4v71y0RXNkh2sCNCV4",
+    "name": "Jl. Bintang Diponggo",
+    "formatted_address": "jl. bintang diponggo, pakis, kec. sawahan, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.2892565,
+    "lng": 112.7169757
+  },
+  "6516883d6c1cff5d323e9e41ccae2c5e": {
+    "input": "jl. patmosusastro",
+    "valid": true,
+    "place_id": "ChIJndIw3JL71y0RTOF9hDVXzDI",
+    "name": "Jl. Patmosusastro",
+    "formatted_address": "jl. patmosusastro, darmo, kec. wonokromo, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.288795099999999,
+    "lng": 112.7305754
+  },
+  "479c67df7ab7d12d25ef8f9c911d0d8a": {
+    "input": "jl. raya darmo",
+    "valid": true,
+    "place_id": "ChIJczqY8L_71y0R8t0CRCz8ajE",
+    "name": "Jl. Raya Darmo",
+    "formatted_address": "jl. raya darmo, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.287961999999999,
+    "lng": 112.7393952
+  },
+  "c888725c150db3ee7a0ac6f3456c47e2": {
+    "input": "jl. kali rungkut",
+    "valid": true,
+    "place_id": "ChIJzeS_0-b61y0RcVAazwhYgxM",
+    "name": "Jl. Raya Kalirungkut",
+    "formatted_address": "jl. raya kalirungkut, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.319706299999999,
+    "lng": 112.7695729
+  },
+  "4e24d11b271aece3350e1fa43620011e": {
+    "input": "jl. kedung baruk",
+    "valid": true,
+    "place_id": "ChIJsXKpM_r61y0RM7QEkZ6GwE0",
+    "name": "Jl. Raya Kedung Baruk",
+    "formatted_address": "jl. raya kedung baruk, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.3102007,
+    "lng": 112.7754588
+  },
+  "e9443a06687c989d2d8379bfbc39f58f": {
+    "input": "jl. raya waru",
+    "valid": false,
+    "place_id": "ChIJ5efzI7Lk1y0RvwhHiJ-6MHs",
+    "name": "Jl. Raya Waru",
+    "formatted_address": "jl. raya waru, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.3609036,
+    "lng": 112.7291776
+  },
+  "c134373cc64fc022a36662d8ff795d94": {
+    "input": "jl. semarang",
+    "valid": true,
+    "place_id": "ChIJk6c480b51y0RXfrqA4d0r_U",
+    "name": "Jl. Semarang",
+    "formatted_address": "jl. semarang, kec. bubutan, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.2506447,
+    "lng": 112.7298728
+  },
+  "582ad192a58925d8881e6a73c2c1a382": {
+    "input": "jl. kedung cowek",
+    "valid": true,
+    "place_id": "ChIJ99C8gbL51y0RTCrdmBo73aY",
+    "name": "Jl. Kedung Cowek",
+    "formatted_address": "jl. kedung cowek, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.228740699999999,
+    "lng": 112.7743171
+  },
+  "871cbc1a7201a9a38a8c60a3b0801b1e": {
+    "input": "jl. margomulyo",
+    "valid": true,
+    "place_id": "ChIJkUMeJpL-1y0RoGKStH0W-s0",
+    "name": "Jl. Margomulyo",
+    "formatted_address": "jl. margomulyo, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.244170099999999,
+    "lng": 112.682103
+  },
+  "4fd066230e127f0643e542c1d2a7b00f": {
+    "input": "jl. nyamplungan",
+    "valid": true,
+    "place_id": "ChIJ-_AYoh751y0Rt4QAMo1Qsj0",
+    "name": "Jl. Nyamplungan",
+    "formatted_address": "jl. nyamplungan, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.230561199999999,
+    "lng": 112.7450413
+  },
+  "d43cfa8a268e15466cdc5487d04afbaa": {
+    "input": "jln. gunungsari",
+    "valid": true,
+    "place_id": "ChIJX_w0aIP71y0RLy4MPyhWXJI",
+    "name": "Jl. Gunungsari",
+    "formatted_address": "jl. gunungsari, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.3045786,
+    "lng": 112.7250735
+  },
+  "e1ab566d7bff44b97584c69b145f24a4": {
+    "input": "jl. sukomanunggal",
+    "valid": true,
+    "place_id": "ChIJLQvel6L-1y0RLfHZBWi7cTY",
+    "name": "Jl. Sukomanunggal",
+    "formatted_address": "jl. sukomanunggal, kec. sukomanunggal, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.264918199999999,
+    "lng": 112.6973019
+  },
+  "8bfeecaae956b44cfd6fb28544447659": {
+    "input": "jl. kapasan",
+    "valid": true,
+    "place_id": "ChIJqWJMuhH51y0ReawhZCnSgI4",
+    "name": "Jl. Kapasan",
+    "formatted_address": "jl. kapasan, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.239507499999998,
+    "lng": 112.7487299
   }
 }

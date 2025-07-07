@@ -1,6 +1,6 @@
 from celery import shared_task
 import asyncio
-from scraper_location.pipeline import run_pipeline
+from pipeline import run_pipeline
 
 @shared_task
 def scheduled_scraping():

@@ -1,8 +1,8 @@
 import json
 from rule_engine import check_rules, check_rules_step1
-from core.validator import LocationValidator
-from config.config_loader import ConfigLoader
-from core.logger import setup_logger
+from scraper_location.core.validator import LocationValidator
+from scraper_location.config.config_loader import ConfigLoader
+from scraper_location.core.logger import setup_logger
 
 # === Konfigurasi
 INPUT_FILE = "output/structured_tweets_v21.json"

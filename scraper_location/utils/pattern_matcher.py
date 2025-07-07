@@ -12,8 +12,8 @@ def extract_from_to(sentence: str, locs: list):
     if "dari" in words and "ke" in words:
         dari_idx = words.index("dari")
         ke_idx = words.index("ke")
-        from_loc = _nearest_loc(words, dari_idx, locs)
-        to_loc = _nearest_loc(words, ke_idx, locs)
+        from_loc = _next_loc(words, dari_idx, locs) or _nearest_loc(words, dari_idx, locs)
+        to_loc = _next_loc(words, ke_idx, locs) or _nearest_loc(words, ke_idx, locs)
         return {"from": from_loc, "to": to_loc, "reason": "explicit dari-ke"}
 
     for kw in DIRECTION_WORDS[1:]:
@@ -43,6 +43,17 @@ def _nearest_loc(words, idx, locs):
                     min_dist = dist
                     best = loc
     return best
+
+def _next_loc(words, idx, locs):
+    """
+    Ambil lokasi yang muncul setelah keyword.
+    """
+    for i in range(idx+1, len(words)):
+        for loc in locs:
+            for token in loc.lower().split():
+                if token == words[i]:
+                    return loc
+    return None
 
 def handle_single_locations(locs):
     """

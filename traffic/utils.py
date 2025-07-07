@@ -1,8 +1,10 @@
 from datetime import date
 from .models import APICallQuota
+from asgiref.sync import sync_to_async
 
 MAX_DIRECTIONS_CALLS = 5000
 
+@sync_to_async
 def can_make_directions_call():
     obj, _ = APICallQuota.objects.get_or_create(name="directions_api")
     today = date.today()

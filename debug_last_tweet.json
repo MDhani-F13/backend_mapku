@@ -1,0 +1,158 @@
+{
+    "tweet_id": "1828588275742974235",
+    "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
+    "user": "Radio Suara Surabaya",
+    "text": "07.19: Arus lalu lintas di Jalan Setail Surabaya dialihkan karena digunakan untuk titik kumpul salah satu pasangan calon Pilkada 2024.(odp-is)",
+    "cleaned_text": "07.19: Arus lalu lintas di Jalan Setail Surabaya dialihkan karena digunakan untuk titik kumpul salah satu pasangan calon Pilkada 2024.(odp-is)",
+    "created_at": "Wed Aug 28 00:19:53 +0000 2024",
+    "ner_entities": [
+        {
+            "entity": "TIME",
+            "text": "07.19"
+        },
+        {
+            "entity": "LOCATION",
+            "text": "jalan setail surabaya"
+        }
+    ],
+    "pos_tags": [
+        {
+            "word": "07.19",
+            "tag": "NUM"
+        },
+        {
+            "word": ":",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "Arus lalu lintas",
+            "tag": "NOUN"
+        },
+        {
+            "word": "di",
+            "tag": "ADP"
+        },
+        {
+            "word": "Jalan Setail Surabaya",
+            "tag": "PROPN"
+        },
+        {
+            "word": "dialihkan",
+            "tag": "VERB"
+        },
+        {
+            "word": "karena",
+            "tag": "SCONJ"
+        },
+        {
+            "word": "digunakan",
+            "tag": "VERB"
+        },
+        {
+            "word": "untuk",
+            "tag": "ADP"
+        },
+        {
+            "word": "titik kumpul",
+            "tag": "NOUN"
+        },
+        {
+            "word": "salah satu",
+            "tag": "DET"
+        },
+        {
+            "word": "pasangan calon Pilkada",
+            "tag": "NOUN"
+        },
+        {
+            "word": "2024.",
+            "tag": "NUM"
+        },
+        {
+            "word": "(",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "odp-",
+            "tag": "PROPN"
+        },
+        {
+            "word": "is",
+            "tag": "NOUN"
+        },
+        {
+            "word": ")",
+            "tag": "PUNCT"
+        }
+    ],
+    "merged_tags": [
+        [
+            "07.19",
+            "TIME"
+        ],
+        [
+            ":",
+            "PUNCT"
+        ],
+        [
+            "Arus lalu lintas",
+            "NOUN"
+        ],
+        [
+            "di",
+            "ADP"
+        ],
+        [
+            "Jalan Setail Surabaya",
+            "LOCATION"
+        ],
+        [
+            "dialihkan",
+            "VERB"
+        ],
+        [
+            "karena",
+            "SCONJ"
+        ],
+        [
+            "digunakan",
+            "VERB"
+        ],
+        [
+            "untuk",
+            "ADP"
+        ],
+        [
+            "titik kumpul",
+            "NOUN"
+        ],
+        [
+            "salah satu",
+            "DET"
+        ],
+        [
+            "pasangan calon Pilkada",
+            "NOUN"
+        ],
+        [
+            "2024.",
+            "NUM"
+        ],
+        [
+            "(",
+            "PUNCT"
+        ],
+        [
+            "odp-",
+            "PROPN"
+        ],
+        [
+            "is",
+            "NOUN"
+        ],
+        [
+            ")",
+            "PUNCT"
+        ]
+    ]
+}

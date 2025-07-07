@@ -1,5 +1,8 @@
 {
   "month": "2025-07",
-  "daily": {},
-  "monthly_count": 0
+  "daily": {
+    "2025-07-06": 19,
+    "2025-07-07": 69
+  },
+  "monthly_count": 88
 }

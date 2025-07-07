@@ -4,6 +4,7 @@ from scraper_location.utils.pattern_matcher import extract_from_to, handle_singl
 from scraper_location.utils.tag_utils import processing_location_tags
 from scraper_location.utils.merger import merge_adjacents_locations
 from scraper_location.utils.location_snapper import snap_location_pair, is_area
+from scraper_location.utils.nearby_search_place import check_pair_sanity
 from traffic.utils import can_make_directions_call
 from traffic.models import TrafficSegment
 from scraper_location.utils.google_client import get_directions_polyline
@@ -36,7 +37,7 @@ def check_rules_step1(merged_tags, validator, tweet_obj=None):
             if not valid:
                 cleaned.append((w, "O"))
             else:
-                cleaned.append((w, t))
+                cleaned.append((result[0], t))
         else:
             cleaned.append((w, t))
 
@@ -139,11 +140,13 @@ def check_rules_step2(step1_info):
     return output
 
 
-def check_rules_step3(step2_info, validator, auto_fallback=True):
+async def check_rules_step3(step2_info, validator, auto_fallback=True):
     """
     STEP 3 FINAL:
     - Ambil lat/lng dari cache
     - Snap ke simpang kalau area terlalu luas (pakai snap_location_pair)
+    - Cek jarak from-to masuk akal (pair sanity)
+    - Fallback Nearby Search Google ➜ OSM kalau jarak terlalu jauh
     - Buat route polyline pakai Directions API
     - Single: hanya lat/lng, tidak snap
     - Log ke logs/step3_enrich.jsonl
@@ -187,16 +190,24 @@ def check_rules_step3(step2_info, validator, auto_fallback=True):
         lat_from, lng_from = get_coords(seg["from"])
         lat_to, lng_to = get_coords(seg["to"])
 
-        # 💡 SNAP di sini
+        # Snap luas ➜ sempit
         new_from, new_to = snap_location_pair(
             seg["from"], seg["to"],
             lat_from, lng_from,
             lat_to, lng_to
         )
 
+        # Pair sanity check ➜ fallback Nearby jika terlalu jauh
+        new_from, new_to = check_pair_sanity(
+            new_from["location"], new_to["location"],
+            new_from["lat"], new_from["lng"],
+            new_to["lat"], new_to["lng"]
+        )
+
+        # Polyline Directions API
         route_polyline = None
         if new_from["lat"] and new_from["lng"] and new_to["lat"] and new_to["lng"]:
-            if can_make_directions_call():
+            if await can_make_directions_call():
                 route_polyline = get_directions_polyline(
                     new_from["lat"], new_from["lng"],
                     new_to["lat"], new_to["lng"]

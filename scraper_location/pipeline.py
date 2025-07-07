@@ -89,7 +89,7 @@ async def run_pipeline(config_path="config.ini", output_file=None, queries=None)
 
         tweet["step1_info"] = result_step1
         tweet["step2_info"] = result_step2
-        tweet["step3_info"] = result_step3
+        tweet["step3_info"] = await result_step3
 
         final_data.append(tweet)
 

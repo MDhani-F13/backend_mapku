@@ -85,7 +85,6 @@ class LocationValidator:
 
             if ratio >= 85 and sort_ratio >= 85:
                 if (len_diff <= 5 or distance <= 5) and len(overlap) >= 1:
-                    # ✅ Ganti return pakai 'known' dari DB
                     return known, True, f"Fuzzy+Edit OK input='{loc_text}', matched='{known}'(ratio={ratio}, sort={sort_ratio}, dist={distance}, overlap={overlap})"
 
         return loc_text, False, "No match by fuzzy+edit distance"

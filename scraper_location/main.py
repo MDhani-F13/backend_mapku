@@ -1,5 +1,10 @@
+import os, django
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend_mapku.settings")
+django.setup()
+
 import asyncio
-from pipeline import run_pipeline
+from scraper_location.pipeline import run_pipeline
 
 if __name__ == "__main__":
     import multiprocessing

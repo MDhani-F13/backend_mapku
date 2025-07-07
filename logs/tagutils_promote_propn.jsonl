@@ -1,0 +1,281 @@
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T15:54:46.420238"}
+{"word": "PPKM Darurat", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T16:18:56.986847"}
+{"word": "Suara Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From Google API (Valid: False, addr: suara surabaya centre, jl. raya bukit darmo no.22-24, putat gede, kec. sukomanunggal, surabaya, jawa timur 60189, indonesia)", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:52:54.717964"}
+{"word": "Tol Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:52:54.756902"}
+{"word": "Depo MSC", "original_tag": "PROPN", "valid": false, "reason": "From Google API (Valid: False, addr: jl. margomulyo industri vii no.21 blok g, rt.001/rw.01, greges, kec. asem rowo, surabaya, jawa timur 60183, indonesia)", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:52:58.505178"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:52:58.541287"}
+{"word": "Simpang Tiga Puspa Agro", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:01.294424"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:02.339102"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.029930"}
+{"word": "Tol Gunung Sari", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.056834"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.081134"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:03.336660"}
+{"word": "Underpass Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.791033"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.814241"}
+{"word": "Wiyung", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.835625"}
+{"word": "Simpang Wisma Lidah Kulon", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:03.857565"}
+{"word": "Demo Sopir Truk", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:04.448669"}
+{"word": "Dirlantas", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:04.464609"}
+{"word": "Maaf", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:04.488543"}
+{"word": "Tol Gunungsari", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Tol Gunungsari', matched='jln. gunungsari'(ratio=86, sort=86, dist=4, overlap={'gunungsari'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:04.576693"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:04.605054"}
+{"word": "Kawasan Gedangan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:07.689631"}
+{"word": "Tol Dupak", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:07.714928"}
+{"word": "Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:07.734542"}
+{"word": "Berbek Industri", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Berbek Industri', matched='berbek industri'(ratio=100, sort=100, dist=0, overlap={'berbek', 'industri'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:07.747097"}
+{"word": "Raya Gresik", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:08.286714"}
+{"word": "Tol Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:08.310753"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:09.395051"}
+{"word": "Tol Tambak Sumur", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:09.428657"}
+{"word": "U-turn", "original_tag": "PROPN", "valid": false, "reason": "From Google API (Valid: False, addr: jl. dharmahusada no.144, mojo, kec. gubeng, surabaya, jawa timur 60285, indonesia)", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:10.605570"}
+{"word": "La", "original_tag": "PROPN", "valid": false, "reason": "From Google API (Valid: False, addr: los angeles, california, amerika serikat)", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:11.111215"}
+{"word": "Utara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:11.149841"}
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:13.266627"}
+{"word": "Ipda Slamet Purwono Kasubdit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:14.620805"}
+{"word": "Tim", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:14.858404"}
+{"word": "Satlantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:14.884337"}
+{"word": "Ja", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:16.238504"}
+{"word": "Jalan Kabupaten-Jalan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:16.275581"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:16.766784"}
+{"word": "Posko Sriti Lantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:16.791836"}
+{"word": "Banjir", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:17.108460"}
+{"word": "Polsek Mengantri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:17.134659"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:19.745953"}
+{"word": "Jalan Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:19.790525"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:19.827157"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:19.847510"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:20.115662"}
+{"word": "Sandi", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:20.391681"}
+{"word": "Pilwali", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:20.413456"}
+{"word": "odp-", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:20.679473"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:20.903510"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:21.143396"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:21.373594"}
+{"word": "PPKM Darurat", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:21.577996"}
+{"word": "Surabaya DITUTUP TOTAL", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:22.301841"}
+{"word": "", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:22.318444"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:22.615073"}
+{"word": "Tol Sidoarjo", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:24.199934"}
+{"word": "Waru", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:24.223423"}
+{"word": "Kali Rungkut", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Kali Rungkut', matched='jl. kali rungkut'(ratio=100, sort=89, dist=4, overlap={'kali', 'rungkut'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:24.241995"}
+{"word": "Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:24.261109"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:25.311485"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:25.334080"}
+{"word": "PDAM", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:25.356647"}
+{"word": "Tim Khusus Speed La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:25.382692"}
+{"word": "Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:25.405263"}
+{"word": "Tembaan-Pasar Turi", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T18:53:26.061939"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:26.085718"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:26.097066"}
+{"word": "Suara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T18:53:26.744705"}
+{"word": "U-turn", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:20.624594"}
+{"word": "La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:20.652792"}
+{"word": "Utara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:20.677695"}
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:21.096606"}
+{"word": "Ipda Slamet Purwono Kasubdit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:22.842720"}
+{"word": "Tim", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:23.155673"}
+{"word": "Satlantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:23.182743"}
+{"word": "Ja", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:24.507635"}
+{"word": "Jalan Kabupaten-Jalan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:24.536692"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:24.964283"}
+{"word": "Posko Sriti Lantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:24.991722"}
+{"word": "Banjir", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:25.373933"}
+{"word": "Polsek Mengantri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:25.398644"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:27.721692"}
+{"word": "Jalan Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:27.755449"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:27.776845"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:27.797341"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:28.114628"}
+{"word": "Sandi", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:28.444362"}
+{"word": "Pilwali", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:28.470007"}
+{"word": "odp-", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:28.800922"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:29.015589"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:29.272672"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:29.520376"}
+{"word": "Suara Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:29.727999"}
+{"word": "Tol Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:29.769049"}
+{"word": "Depo MSC", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:30.233899"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:30.257480"}
+{"word": "Simpang Tiga Puspa Agro", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:30.669686"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:31.672607"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:32.361795"}
+{"word": "Tol Gunung Sari", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:32.387267"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:32.410929"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:32.657351"}
+{"word": "Underpass Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.075383"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.101105"}
+{"word": "Wiyung", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.123803"}
+{"word": "Simpang Wisma Lidah Kulon", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.151889"}
+{"word": "Demo Sopir Truk", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.719480"}
+{"word": "Dirlantas", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.741101"}
+{"word": "Maaf", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.765999"}
+{"word": "Tol Gunungsari", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Tol Gunungsari', matched='jln. gunungsari'(ratio=86, sort=86, dist=4, overlap={'gunungsari'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:33.871083"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:33.896457"}
+{"word": "Kawasan Gedangan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:37.144573"}
+{"word": "Tol Dupak", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:37.171798"}
+{"word": "Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:37.193285"}
+{"word": "Berbek Industri", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Berbek Industri', matched='berbek industri'(ratio=100, sort=100, dist=0, overlap={'berbek', 'industri'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:37.206419"}
+{"word": "Raya Gresik", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:37.770648"}
+{"word": "Tol Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:37.798538"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:38.856495"}
+{"word": "Tol Tambak Sumur", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:38.882705"}
+{"word": "PPKM Darurat", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:39.134081"}
+{"word": "Surabaya DITUTUP TOTAL", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:39.772202"}
+{"word": "", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:39.786818"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:40.132425"}
+{"word": "Tol Sidoarjo", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:41.610699"}
+{"word": "Waru", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:41.634280"}
+{"word": "Kali Rungkut", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Kali Rungkut', matched='jl. kali rungkut'(ratio=100, sort=89, dist=4, overlap={'kali', 'rungkut'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:41.640496"}
+{"word": "Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:41.661797"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:42.682621"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:42.705317"}
+{"word": "PDAM", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:42.728802"}
+{"word": "Tim Khusus Speed La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:42.769739"}
+{"word": "Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:42.808383"}
+{"word": "Tembaan-Pasar Turi", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-06T22:44:43.609884"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:43.639152"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:43.660891"}
+{"word": "Suara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-06T22:44:44.390605"}
+{"word": "U-turn", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:09.227871"}
+{"word": "La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:09.244162"}
+{"word": "Utara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:09.261480"}
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:09.473344"}
+{"word": "Ipda Slamet Purwono Kasubdit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:11.725089"}
+{"word": "Tim", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:12.224597"}
+{"word": "Satlantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T17:02:12.236665"}
+{"word": "U-turn", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:44.950102"}
+{"word": "La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:44.963612"}
+{"word": "Utara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:44.975956"}
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:45.136963"}
+{"word": "Ipda Slamet Purwono Kasubdit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:46.568577"}
+{"word": "Tim", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:46.663241"}
+{"word": "Satlantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:46.674181"}
+{"word": "Ja", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:50.735268"}
+{"word": "Jalan Kabupaten-Jalan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:50.753456"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:50.940771"}
+{"word": "Posko Sriti Lantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:50.954150"}
+{"word": "Banjir", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:51.101762"}
+{"word": "Polsek Mengantri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:51.111606"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.030677"}
+{"word": "Jalan Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.043621"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.054438"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.064352"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.184920"}
+{"word": "Sandi", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.700988"}
+{"word": "Pilwali", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:52.709783"}
+{"word": "odp-", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:53.146452"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:53.234029"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:53.342018"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:53.440621"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:37:53.552175"}
+{"word": "Tol Sidoarjo", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:37:56.141717"}
+{"word": "Waru", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:37:56.151905"}
+{"word": "Kali Rungkut", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Kali Rungkut', matched='jl. kali rungkut'(ratio=100, sort=89, dist=4, overlap={'rungkut', 'kali'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:37:56.161032"}
+{"word": "Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:37:56.173802"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:02.995471"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:03.004991"}
+{"word": "PDAM", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:03.016491"}
+{"word": "Tim Khusus Speed La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:03.027219"}
+{"word": "Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:03.038992"}
+{"word": "Tembaan-Pasar Turi", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:38:04.045980"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:04.057828"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:04.067577"}
+{"word": "Suara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:05.192906"}
+{"word": "Suara Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:05.309627"}
+{"word": "Tol Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:05.320667"}
+{"word": "Depo MSC", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:05.510537"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:05.520785"}
+{"word": "Simpang Tiga Puspa Agro", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:06.187423"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:06.948469"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:07.480418"}
+{"word": "Tol Gunung Sari", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:07.490947"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:07.501739"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:38:07.740905"}
+{"word": "Underpass Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.201697"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.215082"}
+{"word": "Wiyung", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.226948"}
+{"word": "Simpang Wisma Lidah Kulon", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.241125"}
+{"word": "Demo Sopir Truk", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.982342"}
+{"word": "Dirlantas", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:08.993269"}
+{"word": "Maaf", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:09.007925"}
+{"word": "Tol Gunungsari", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Tol Gunungsari', matched='jln. gunungsari'(ratio=86, sort=86, dist=4, overlap={'gunungsari'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:38:09.049649"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:09.059158"}
+{"word": "Kawasan Gedangan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:17.154718"}
+{"word": "Tol Dupak", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:17.165230"}
+{"word": "Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:17.175619"}
+{"word": "Berbek Industri", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Berbek Industri', matched='berbek industri'(ratio=100, sort=100, dist=0, overlap={'industri', 'berbek'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:38:17.177107"}
+{"word": "Raya Gresik", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:18.726514"}
+{"word": "Tol Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T19:38:18.737377"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:21.528666"}
+{"word": "Tol Tambak Sumur", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:21.540205"}
+{"word": "PPKM Darurat", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:21.660956"}
+{"word": "Surabaya DITUTUP TOTAL", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:22.475134"}
+{"word": "", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T19:38:22.482580"}
+{"word": "PPKM Darurat", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:37.374937"}
+{"word": "Surabaya DITUTUP TOTAL", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:38.627571"}
+{"word": "", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:38.639095"}
+{"word": "Suara Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:38.847117"}
+{"word": "Tol Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:38.864452"}
+{"word": "Depo MSC", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:39.211557"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:39.233408"}
+{"word": "Simpang Tiga Puspa Agro", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:39.581885"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:40.489913"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:41.417883"}
+{"word": "Tol Gunung Sari", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:41.433799"}
+{"word": "Exit Tol Waru", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:41.452991"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:15:41.618759"}
+{"word": "Underpass Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:42.258496"}
+{"word": "Mastrip Kedurus", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:42.279076"}
+{"word": "Wiyung", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:42.298602"}
+{"word": "Simpang Wisma Lidah Kulon", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:42.315785"}
+{"word": "Demo Sopir Truk", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:43.220586"}
+{"word": "Dirlantas", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:43.236886"}
+{"word": "Maaf", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:43.255646"}
+{"word": "Tol Gunungsari", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Tol Gunungsari', matched='jln. gunungsari'(ratio=86, sort=86, dist=4, overlap={'gunungsari'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:15:43.352121"}
+{"word": "KM", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:43.375164"}
+{"word": "Kawasan Gedangan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:52.472744"}
+{"word": "Tol Dupak", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:52.488309"}
+{"word": "Satelit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:52.508621"}
+{"word": "Berbek Industri", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Berbek Industri', matched='berbek industri'(ratio=100, sort=100, dist=0, overlap={'berbek', 'industri'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:15:52.521963"}
+{"word": "Raya Gresik", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:54.676601"}
+{"word": "Tol Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:15:54.690658"}
+{"word": "Ex", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:57.711937"}
+{"word": "Tol Tambak Sumur", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:57.725003"}
+{"word": "Fun Run", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:57.884497"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:58.656661"}
+{"word": "Posko Sriti Lantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:58.673430"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.282394"}
+{"word": "Jalan Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.300872"}
+{"word": "Hutan Baluran", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.319945"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.335311"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.544449"}
+{"word": "odp-tm", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:15:59.700937"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:00.533990"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:00.790486"}
+{"word": "Hari Juang Polri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:00.990228"}
+{"word": "Tol Sidoarjo", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:16:02.575281"}
+{"word": "Waru", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:16:02.588614"}
+{"word": "Kali Rungkut", "original_tag": "PROPN", "valid": true, "reason": "Fuzzy+Edit OK input='Kali Rungkut', matched='jl. kali rungkut'(ratio=100, sort=89, dist=4, overlap={'rungkut', 'kali'})", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:16:02.594878"}
+{"word": "Surabaya", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:16:02.606572"}
+{"word": "Kawan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:07.658902"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:07.673440"}
+{"word": "PDAM", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:07.687090"}
+{"word": "Tim Khusus Speed La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:07.705491"}
+{"word": "Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:07.720566"}
+{"word": "Tembaan-Pasar Turi", "original_tag": "PROPN", "valid": true, "reason": "From cache", "context_hit": true, "result_tag": "LOCATION", "timestamp": "2025-07-07T22:16:08.652244"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:08.667885"}
+{"word": "HINDARI", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:08.680733"}
+{"word": "Suara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.160837"}
+{"word": "U-turn", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.370837"}
+{"word": "La", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.389633"}
+{"word": "Utara", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": true, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.406638"}
+{"word": "Ipda Slamet Purwono Kasubdit", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.576315"}
+{"word": "Tim", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.719225"}
+{"word": "Satlantas Polrestabes Surabaya", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:09.735676"}
+{"word": "Ja", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:13.487135"}
+{"word": "Jalan Kabupaten-Jalan", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:13.501636"}
+{"word": "Banjir", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:13.804868"}
+{"word": "Polsek Mengantri", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:13.836023"}
+{"word": "Sandi", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:14.395708"}
+{"word": "Pilwali", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:14.409261"}
+{"word": "odp-", "original_tag": "PROPN", "valid": false, "reason": "From cache", "context_hit": false, "result_tag": "PROPN", "timestamp": "2025-07-07T22:16:14.560758"}

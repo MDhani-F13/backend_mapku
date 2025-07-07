@@ -109,3 +109,38 @@ def log_step3_enrich_result(entry):
     log_file = "logs/step3_enrich.jsonl"
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+def log_snapper(result: dict):
+    """
+    Log hasil snap_to_major_road ke logs/snapper.jsonl
+    """
+    os.makedirs("logs", exist_ok=True)
+    log_file = "logs/snapper.jsonl"
+
+    with open(log_file, "a", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False)
+        f.write("\n")
+
+def log_pair_sanity(data: dict):
+    os.makedirs("logs", exist_ok=True)
+    log_data = {
+        "initial_from_location": data.get("from_loc_before"),
+        "initial_to_location": data.get("to_loc_before"),
+        "from_loc_after": data.get("from_loc_after"),
+        "to_loc_after": data.get("to_loc_after"),
+        "from_lat_before": data.get("from_lat_before"),
+        "from_lng_before": data.get("from_lng_before"),
+        "to_lat_before": data.get("to_lat_before"),
+        "to_lng_before": data.get("to_lng_before"),
+        "from_lat_after": data.get("from_lat_after"),
+        "from_lng_after": data.get("from_lng_after"),
+        "to_lat_after": data.get("to_lat_after"),
+        "to_lng_after": data.get("to_lng_after"),
+        "initial_distance_km": data.get("initial_distance_km"),
+        "final_distance_km": data.get("latest_distance_km"),
+        "timestamp": datetime.datetime.now().isoformat()
+    }
+
+    log_path = "logs/pair_sanity.jsonl"
+    with open(log_path, "a", encoding="utf-8") as f:
+        f.write(json.dumps(log_data, ensure_ascii=False) + "\n")

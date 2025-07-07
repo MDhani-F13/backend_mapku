@@ -1,5 +1,1607 @@
 [
   {
+    "tweet_id": "1412654592429490177",
+    "query": "from:e100ss (akses OR ruas) AND (ditutup OR tidak bisa dilewati) surabaya -rapat -acara",
+    "user": "Radio Suara Surabaya",
+    "text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021).\n\nSedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm) https://t.co/MYvUKcZAjg",
+    "cleaned_text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)",
+    "created_at": "Wed Jul 07 06:07:55 +0000 2021",
+    "ner_entities": [
+      {
+        "entity": "TIME",
+        "text": "rabu ( 7 / 7 / 2021 )"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "bundaran warua. yanifrontage road surabaya"
+      },
+      {
+        "entity": "ORGANIZATION",
+        "text": "polda jatim"
+      },
+      {
+        "entity": "TIME",
+        "text": "( 3 - 6 / 7 / 2021 )"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "surabaya"
+      },
+      {
+        "entity": "TIME",
+        "text": ")"
+      }
+    ],
+    "pos_tags": [
+      {
+        "word": "Hari",
+        "tag": "NOUN"
+      },
+      {
+        "word": "ini",
+        "tag": "DET"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Rabu",
+        "tag": "PROPN"
+      },
+      {
+        "word": "(7",
+        "tag": "NUM"
+      },
+      {
+        "word": "/7/",
+        "tag": "PROPN"
+      },
+      {
+        "word": "2021",
+        "tag": "NUM"
+      },
+      {
+        "word": ")",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "akses",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Bundaran Waru",
+        "tag": "PROPN"
+      },
+      {
+        "word": "ke",
+        "tag": "ADP"
+      },
+      {
+        "word": "A. Yani",
+        "tag": "PROPN"
+      },
+      {
+        "word": "dan",
+        "tag": "CCONJ"
+      },
+      {
+        "word": "Frontage Road Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "ditutup",
+        "tag": "VERB"
+      },
+      {
+        "word": "total",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Penutupan",
+        "tag": "NOUN"
+      },
+      {
+        "word": "ini",
+        "tag": "DET"
+      },
+      {
+        "word": "merupakan",
+        "tag": "VERB"
+      },
+      {
+        "word": "evaluasi",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Polda Jatim",
+        "tag": "PROPN"
+      },
+      {
+        "word": "pada",
+        "tag": "ADP"
+      },
+      {
+        "word": "PPKM Darurat",
+        "tag": "PROPN"
+      },
+      {
+        "word": "yang",
+        "tag": "PRON"
+      },
+      {
+        "word": "sudah",
+        "tag": "ADV"
+      },
+      {
+        "word": "berjalan",
+        "tag": "VERB"
+      },
+      {
+        "word": "empat",
+        "tag": "NUM"
+      },
+      {
+        "word": "hari",
+        "tag": "NOUN"
+      },
+      {
+        "word": "(3-6",
+        "tag": "NUM"
+      },
+      {
+        "word": "/7/",
+        "tag": "PROPN"
+      },
+      {
+        "word": "2021",
+        "tag": "NUM"
+      },
+      {
+        "word": ").",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Sedangkan",
+        "tag": "SCONJ"
+      },
+      {
+        "word": "untuk",
+        "tag": "ADP"
+      },
+      {
+        "word": "akses tol",
+        "tag": "NOUN"
+      },
+      {
+        "word": "mengarah",
+        "tag": "VERB"
+      },
+      {
+        "word": "ke",
+        "tag": "ADP"
+      },
+      {
+        "word": "Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "masih bisa",
+        "tag": "ADV"
+      },
+      {
+        "word": "dilewati",
+        "tag": "VERB"
+      },
+      {
+        "word": ". (",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "hm",
+        "tag": "NOUN"
+      },
+      {
+        "word": ")",
+        "tag": "PUNCT"
+      }
+    ],
+    "merged_tags": [
+      [
+        "Hari",
+        "NOUN"
+      ],
+      [
+        "ini",
+        "DET"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "Rabu",
+        "TIME"
+      ],
+      [
+        "(7",
+        "TIME"
+      ],
+      [
+        "/7/",
+        "TIME"
+      ],
+      [
+        "2021",
+        "TIME"
+      ],
+      [
+        ")",
+        "TIME"
+      ],
+      [
+        "akses",
+        "NOUN"
+      ],
+      [
+        "Bundaran Waru",
+        "LOCATION"
+      ],
+      [
+        "ke",
+        "ADP"
+      ],
+      [
+        "A. Yani",
+        "LOCATION"
+      ],
+      [
+        "dan",
+        "CCONJ"
+      ],
+      [
+        "Frontage Road Surabaya",
+        "LOCATION"
+      ],
+      [
+        "ditutup",
+        "VERB"
+      ],
+      [
+        "total",
+        "ADJ"
+      ],
+      [
+        ".",
+        "LOCATION"
+      ],
+      [
+        "Penutupan",
+        "NOUN"
+      ],
+      [
+        "ini",
+        "DET"
+      ],
+      [
+        "merupakan",
+        "VERB"
+      ],
+      [
+        "evaluasi",
+        "NOUN"
+      ],
+      [
+        "Polda Jatim",
+        "ORGANIZATION"
+      ],
+      [
+        "pada",
+        "ADP"
+      ],
+      [
+        "PPKM Darurat",
+        "PROPN"
+      ],
+      [
+        "yang",
+        "PRON"
+      ],
+      [
+        "sudah",
+        "ADV"
+      ],
+      [
+        "berjalan",
+        "VERB"
+      ],
+      [
+        "empat",
+        "NUM"
+      ],
+      [
+        "hari",
+        "NOUN"
+      ],
+      [
+        "(3-6",
+        "TIME"
+      ],
+      [
+        "/7/",
+        "TIME"
+      ],
+      [
+        "2021",
+        "TIME"
+      ],
+      [
+        ").",
+        "TIME"
+      ],
+      [
+        "Sedangkan",
+        "SCONJ"
+      ],
+      [
+        "untuk",
+        "ADP"
+      ],
+      [
+        "akses tol",
+        "NOUN"
+      ],
+      [
+        "mengarah",
+        "VERB"
+      ],
+      [
+        "ke",
+        "ADP"
+      ],
+      [
+        "Surabaya",
+        "LOCATION"
+      ],
+      [
+        "masih bisa",
+        "ADV"
+      ],
+      [
+        "dilewati",
+        "VERB"
+      ],
+      [
+        ". (",
+        "PUNCT"
+      ],
+      [
+        "hm",
+        "NOUN"
+      ],
+      [
+        ")",
+        "TIME"
+      ]
+    ],
+    "step1_info": {
+      "tweet_text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)",
+      "time": "06.07",
+      "locations": [
+        "Bundaran Waru",
+        "a. yani",
+        "Frontage Road Surabaya",
+        "Surabaya"
+      ],
+      "sentences": [
+        {
+          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  a. yani dan Frontage Road Surabaya ditutup total .",
+          "locations": [
+            "Bundaran Waru",
+            "a. yani",
+            "Frontage Road Surabaya"
+          ],
+          "original_sentence": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)"
+        },
+        {
+          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )",
+          "locations": [
+            "Surabaya"
+          ],
+          "original_sentence": ""
+        }
+      ]
+    },
+    "step2_info": {
+      "segments": [
+        {
+          "from": "a. yani",
+          "to": "Bundaran Waru",
+          "reason": "matched ke",
+          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  a. yani dan Frontage Road Surabaya ditutup total ."
+        }
+      ],
+      "single_locations": [
+        {
+          "location": "Surabaya",
+          "reason": "single location fallback",
+          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )"
+        }
+      ]
+    },
+    "step3_info": {
+      "segments": [
+        {
+          "from": "a. yani",
+          "to": "Exit Tol Masjid AJT",
+          "reason": "matched ke",
+          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  a. yani dan Frontage Road Surabaya ditutup total .",
+          "from_lat": -7.3370772,
+          "from_lng": 112.7290235,
+          "to_lat": -7.3366669,
+          "to_lng": 112.7138639,
+          "route_polyline": "r_xk@mk`oT@UMA_AKoEo@i@m@m@IoDm@s@KmEo@wF_AuJoAaD_@y@@YDk@Vy@JuATw@F_BB[KiAq@mBuAiAi@eASkC]{NiBcFm@aBQYI_AIs@MaAKoC]oIgAsIeA}RmCmH}@[nCUdCMnBId@GJQXCPOz@K|@]zCAjAHr@Vd@l@lAUp@a@`Be@dBs@zBQj@}@nBuAvCc@fAK^c@xB{@~CWdAIVCFDFV\\fAvA\\`@Tf@h@bBl@~BB`@HdANrBLrDDrBCv@]@u@FSFOBeDFKL[^VbD@hA?dBDhCAp@Gj@o@vDCX?lBBx@DXRp@R`@p@|@xE`Fx@x@LHKNs@fAgAdBYh@k@nA_@bAY`AQv@[dBa@xBAl@FXJTPNRJTB\\C^SXa@R_@NMV_BnAyGXkA\\oAL_@f@wANa@x@eBn@iAt@gAf@q@fByBrBmBlIiH`BkA|@o@`B_AvBaArAe@dBe@vBYvAG`BAbCDtBNfBRhG~@xGdAzKxAjKtA`QjBLKr@HtAJpDXbJt@jHh@zHr@xDd@"
+        }
+      ],
+      "single_locations": [
+        {
+          "location": "Surabaya",
+          "reason": "single location fallback",
+          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )",
+          "lat": -7.2574719,
+          "lng": 112.7520883
+        }
+      ]
+    }
+  },
+  {
+    "tweet_id": "1412623910449803265",
+    "query": "from:e100ss (akses OR ruas) AND (ditutup OR tidak bisa dilewati) surabaya -rapat -acara",
+    "user": "Radio Suara Surabaya",
+    "text": "11.05:\n1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati;\n2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
+    "cleaned_text": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati; 2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
+    "created_at": "Wed Jul 07 04:06:00 +0000 2021",
+    "ner_entities": [
+      {
+        "entity": "TIME",
+        "text": "11. 05 : 1"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "bundaran warusurabayajalan tambaksari"
+      }
+    ],
+    "pos_tags": [
+      {
+        "word": "11.05",
+        "tag": "NUM"
+      },
+      {
+        "word": ":",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "1.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Bundaran Waru",
+        "tag": "PROPN"
+      },
+      {
+        "word": "menuju",
+        "tag": "VERB"
+      },
+      {
+        "word": "ke",
+        "tag": "ADP"
+      },
+      {
+        "word": "Surabaya DITUTUP TOTAL",
+        "tag": "PROPN"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "silakan",
+        "tag": "ADV"
+      },
+      {
+        "word": "lewati",
+        "tag": "VERB"
+      },
+      {
+        "word": "jalur",
+        "tag": "NOUN"
+      },
+      {
+        "word": "alternatif lain",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Sementara",
+        "tag": "SCONJ"
+      },
+      {
+        "word": "akses tol",
+        "tag": "NOUN"
+      },
+      {
+        "word": "masih bisa",
+        "tag": "ADV"
+      },
+      {
+        "word": "dilewati",
+        "tag": "VERB"
+      },
+      {
+        "word": ";",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "2.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Jalan Tambaksari",
+        "tag": "PROPN"
+      },
+      {
+        "word": "dan",
+        "tag": "CCONJ"
+      },
+      {
+        "word": "jalur mangarah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "ke",
+        "tag": "ADP"
+      },
+      {
+        "word": "sana",
+        "tag": "NOUN"
+      },
+      {
+        "word": "juga masih",
+        "tag": "ADV"
+      },
+      {
+        "word": "MACET",
+        "tag": "PROPN"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Sudah",
+        "tag": "ADV"
+      },
+      {
+        "word": "ada",
+        "tag": "VERB"
+      },
+      {
+        "word": "petugas",
+        "tag": "NOUN"
+      },
+      {
+        "word": "di",
+        "tag": "ADP"
+      },
+      {
+        "word": "lokasi",
+        "tag": "NOUN"
+      },
+      {
+        "word": ". (",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "hm",
+        "tag": "NOUN"
+      },
+      {
+        "word": ")",
+        "tag": "PUNCT"
+      }
+    ],
+    "merged_tags": [
+      [
+        "11.05",
+        "TIME"
+      ],
+      [
+        ":",
+        "TIME"
+      ],
+      [
+        "1.",
+        "TIME"
+      ],
+      [
+        "Bundaran Waru",
+        "LOCATION"
+      ],
+      [
+        "menuju",
+        "VERB"
+      ],
+      [
+        "ke",
+        "ADP"
+      ],
+      [
+        "Surabaya DITUTUP TOTAL",
+        "PROPN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "silakan",
+        "ADV"
+      ],
+      [
+        "lewati",
+        "VERB"
+      ],
+      [
+        "jalur",
+        "NOUN"
+      ],
+      [
+        "alternatif lain",
+        "ADJ"
+      ],
+      [
+        ".",
+        "TIME"
+      ],
+      [
+        "Sementara",
+        "SCONJ"
+      ],
+      [
+        "akses tol",
+        "NOUN"
+      ],
+      [
+        "masih bisa",
+        "ADV"
+      ],
+      [
+        "dilewati",
+        "VERB"
+      ],
+      [
+        ";",
+        "PUNCT"
+      ],
+      [
+        "2.",
+        "NUM"
+      ],
+      [
+        "Jalan Tambaksari",
+        "LOCATION"
+      ],
+      [
+        "dan",
+        "CCONJ"
+      ],
+      [
+        "jalur mangarah",
+        "NOUN"
+      ],
+      [
+        "ke",
+        "ADP"
+      ],
+      [
+        "sana",
+        "NOUN"
+      ],
+      [
+        "juga masih",
+        "ADV"
+      ],
+      [
+        "MACET",
+        "PROPN"
+      ],
+      [
+        ".",
+        "TIME"
+      ],
+      [
+        "Sudah",
+        "ADV"
+      ],
+      [
+        "ada",
+        "VERB"
+      ],
+      [
+        "petugas",
+        "NOUN"
+      ],
+      [
+        "di",
+        "ADP"
+      ],
+      [
+        "lokasi",
+        "NOUN"
+      ],
+      [
+        ". (",
+        "PUNCT"
+      ],
+      [
+        "hm",
+        "NOUN"
+      ],
+      [
+        ")",
+        "PUNCT"
+      ]
+    ],
+    "step1_info": {
+      "tweet_text": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati; 2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
+      "time": "11.05",
+      "locations": [
+        "Bundaran Waru",
+        "jl. tambaksari"
+      ],
+      "sentences": [
+        {
+          "sentence": "11.05 : 1. Bundaran Waru menuju  ke  Surabaya DITUTUP TOTAL , silakan lewati jalur alternatif lain .",
+          "locations": [
+            "Bundaran Waru"
+          ],
+          "original_sentence": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati"
+        },
+        {
+          "sentence": "Sementara akses tol masih bisa dilewati ;",
+          "locations": [],
+          "original_sentence": "2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)"
+        },
+        {
+          "sentence": "2. jl. tambaksari dan jalur mangarah ke  sana juga masih MACET  .",
+          "locations": [
+            "jl. tambaksari"
+          ],
+          "original_sentence": ""
+        },
+        {
+          "sentence": "Sudah ada petugas di lokasi . ( hm )",
+          "locations": [],
+          "original_sentence": ""
+        }
+      ]
+    },
+    "step2_info": {
+      "segments": [],
+      "single_locations": []
+    },
+    "step3_info": {
+      "segments": [],
+      "single_locations": []
+    }
+  },
+  {
+    "tweet_id": "1940745503274398058",
+    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
+    "user": "Radio Suara Surabaya",
+    "text": "19.90:\n1. Sampang arah Blega,Madura, macet;\n2. Tambakoso arah Surabaya padat. Rizal pendengar Suara Surabaya mengabarkan ada truk mogok di kawasan tersebut, sehingga pengendara harus lewat secara bergantian.\n3. Tol Satelit arah Waru padat. (SS-AL)",
+    "cleaned_text": "19.90: 1. Sampang arah Blega,Madura, macet; 2. Tambakoso arah Surabaya padat. Rizal pendengar Suara Surabaya mengabarkan ada truk mogok di kawasan tersebut, sehingga pengendara harus lewat secara bergantian. 3. Tol Satelit arah Waru padat. ()",
+    "created_at": "Thu Jul 03 12:12:39 +0000 2025",
+    "ner_entities": [
+      {
+        "entity": "QUANTITY",
+        "text": "19. 90 : 1"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "sampangblegamaduratambakososurabaya"
+      },
+      {
+        "entity": "PERSON",
+        "text": "rizal"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "surabayawaru"
+      }
+    ],
+    "pos_tags": [
+      {
+        "word": "19.90",
+        "tag": "NUM"
+      },
+      {
+        "word": ":",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "1.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Sampang",
+        "tag": "PROPN"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Blega",
+        "tag": "PROPN"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Madura",
+        "tag": "PROPN"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "macet",
+        "tag": "ADJ"
+      },
+      {
+        "word": ";",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "2.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Tambakoso",
+        "tag": "PROPN"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "padat",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Riz",
+        "tag": "PROPN"
+      },
+      {
+        "word": "al pendengar",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Suara Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "mengabarkan ada",
+        "tag": "VERB"
+      },
+      {
+        "word": "truk",
+        "tag": "NOUN"
+      },
+      {
+        "word": "mogok",
+        "tag": "VERB"
+      },
+      {
+        "word": "di",
+        "tag": "ADP"
+      },
+      {
+        "word": "kawasan",
+        "tag": "NOUN"
+      },
+      {
+        "word": "tersebut",
+        "tag": "DET"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "sehingga",
+        "tag": "SCONJ"
+      },
+      {
+        "word": "pengendara",
+        "tag": "NOUN"
+      },
+      {
+        "word": "harus",
+        "tag": "ADV"
+      },
+      {
+        "word": "lewat",
+        "tag": "VERB"
+      },
+      {
+        "word": "secara",
+        "tag": "ADP"
+      },
+      {
+        "word": "bergantian",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "3.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Tol Satelit",
+        "tag": "PROPN"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Waru",
+        "tag": "PROPN"
+      },
+      {
+        "word": "padat",
+        "tag": "ADJ"
+      },
+      {
+        "word": ". ()",
+        "tag": "PUNCT"
+      }
+    ],
+    "merged_tags": [
+      [
+        "19.90",
+        "QUANTITY"
+      ],
+      [
+        ":",
+        "QUANTITY"
+      ],
+      [
+        "1.",
+        "NUM"
+      ],
+      [
+        "Sampang",
+        "LOCATION"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Blega",
+        "LOCATION"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "Madura",
+        "LOCATION"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "macet",
+        "ADJ"
+      ],
+      [
+        ";",
+        "PUNCT"
+      ],
+      [
+        "2.",
+        "NUM"
+      ],
+      [
+        "Tambakoso",
+        "LOCATION"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Surabaya",
+        "LOCATION"
+      ],
+      [
+        "padat",
+        "ADJ"
+      ],
+      [
+        ".",
+        "QUANTITY"
+      ],
+      [
+        "Riz",
+        "PERSON"
+      ],
+      [
+        "al pendengar",
+        "NOUN"
+      ],
+      [
+        "Suara Surabaya",
+        "PROPN"
+      ],
+      [
+        "mengabarkan ada",
+        "VERB"
+      ],
+      [
+        "truk",
+        "NOUN"
+      ],
+      [
+        "mogok",
+        "VERB"
+      ],
+      [
+        "di",
+        "ADP"
+      ],
+      [
+        "kawasan",
+        "NOUN"
+      ],
+      [
+        "tersebut",
+        "DET"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "sehingga",
+        "SCONJ"
+      ],
+      [
+        "pengendara",
+        "NOUN"
+      ],
+      [
+        "harus",
+        "ADV"
+      ],
+      [
+        "lewat",
+        "VERB"
+      ],
+      [
+        "secara",
+        "ADP"
+      ],
+      [
+        "bergantian",
+        "ADJ"
+      ],
+      [
+        ".",
+        "QUANTITY"
+      ],
+      [
+        "3.",
+        "NUM"
+      ],
+      [
+        "Tol Satelit",
+        "PROPN"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Waru",
+        "LOCATION"
+      ],
+      [
+        "padat",
+        "ADJ"
+      ],
+      [
+        ". ()",
+        "PUNCT"
+      ]
+    ],
+    "step1_info": {
+      "tweet_text": "19.90: 1. Sampang arah Blega,Madura, macet; 2. Tambakoso arah Surabaya padat. Rizal pendengar Suara Surabaya mengabarkan ada truk mogok di kawasan tersebut, sehingga pengendara harus lewat secara bergantian. 3. Tol Satelit arah Waru padat. ()",
+      "time": "12.12",
+      "locations": [
+        "Surabaya",
+        "Waru"
+      ],
+      "sentences": [
+        {
+          "sentence": "19.90 : 1. Sampang arah  Blega , Madura , macet  ;",
+          "locations": [],
+          "original_sentence": "19.90: 1. Sampang arah Blega,Madura, macet"
+        },
+        {
+          "sentence": "2. Tambakoso arah  Surabaya padat  .",
+          "locations": [
+            "Surabaya"
+          ],
+          "original_sentence": "2. Tambakoso arah Surabaya padat. Rizal pendengar Suara Surabaya mengabarkan ada truk mogok di kawasan tersebut, sehingga pengendara harus lewat secara bergantian. 3. Tol Satelit arah Waru padat. ()"
+        },
+        {
+          "sentence": "Riz al pendengar Suara Surabaya mengabarkan ada truk mogok di kawasan tersebut , sehingga pengendara harus lewat secara bergantian .",
+          "locations": [],
+          "original_sentence": ""
+        },
+        {
+          "sentence": "3. Tol Satelit arah  Waru padat  . ()",
+          "locations": [
+            "Waru"
+          ],
+          "original_sentence": ""
+        }
+      ]
+    },
+    "step2_info": {
+      "segments": [],
+      "single_locations": [
+        {
+          "location": "Surabaya",
+          "reason": "single location fallback",
+          "sentence": "2. Tambakoso arah  Surabaya padat  ."
+        }
+      ]
+    },
+    "step3_info": {
+      "segments": [],
+      "single_locations": [
+        {
+          "location": "Surabaya",
+          "reason": "single location fallback",
+          "sentence": "2. Tambakoso arah  Surabaya padat  .",
+          "lat": -7.2574719,
+          "lng": 112.7520883
+        }
+      ]
+    }
+  },
+  {
+    "tweet_id": "1940702401469833712",
+    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
+    "user": "Radio Suara Surabaya",
+    "text": "16.19: \n1. Margomulyo arah Tambak Osowilangun macet. Fikriya pendengar Suara Surabaya mengabarkan ada antrean trailer di sepanjang jalan, tepat depan Depo MSC;\n2. Exit Tol Waru arah Cito padat. Marina pendengar Suara Surabaya mengabarkan ada bus mogok di lajur kanan. \n\nBagaimana https://t.co/2o5KWUgsJp",
+    "cleaned_text": "16.19: 1. Margomulyo arah Tambak Osowilangun macet. Fikriya pendengar Suara Surabaya mengabarkan ada antrean trailer di sepanjang jalan, tepat depan Depo MSC; 2. Exit Tol Waru arah Cito padat. Marina pendengar Suara Surabaya mengabarkan ada bus mogok di lajur kanan. Bagaimana",
+    "created_at": "Thu Jul 03 09:21:23 +0000 2025",
+    "ner_entities": [
+      {
+        "entity": "TIME",
+        "text": "16"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "margomulyotambak osowilangun"
+      },
+      {
+        "entity": "PERSON",
+        "text": "fikri"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "surabayatol warucito"
+      },
+      {
+        "entity": "PERSON",
+        "text": "marina"
+      },
+      {
+        "entity": "LOCATION",
+        "text": "surabaya"
+      }
+    ],
+    "pos_tags": [
+      {
+        "word": "16.19",
+        "tag": "NUM"
+      },
+      {
+        "word": ":",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "1.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Margomulyo",
+        "tag": "PROPN"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Tambak Osowilangun",
+        "tag": "PROPN"
+      },
+      {
+        "word": "macet",
+        "tag": "VERB"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Fikriya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "pendengar",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Suara Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "mengabarkan ada",
+        "tag": "VERB"
+      },
+      {
+        "word": "antrean trailer",
+        "tag": "NOUN"
+      },
+      {
+        "word": "di",
+        "tag": "ADP"
+      },
+      {
+        "word": "sepanjang jalan",
+        "tag": "NOUN"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "tepat",
+        "tag": "ADJ"
+      },
+      {
+        "word": "depan",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Depo MSC",
+        "tag": "PROPN"
+      },
+      {
+        "word": ";",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "2.",
+        "tag": "NUM"
+      },
+      {
+        "word": "Exit Tol Waru",
+        "tag": "PROPN"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Cito",
+        "tag": "PROPN"
+      },
+      {
+        "word": "padat",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Marina",
+        "tag": "PROPN"
+      },
+      {
+        "word": "pendengar",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Suara Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "mengabarkan ada",
+        "tag": "VERB"
+      },
+      {
+        "word": "bus mo",
+        "tag": "NOUN"
+      },
+      {
+        "word": "gok",
+        "tag": "VERB"
+      },
+      {
+        "word": "di",
+        "tag": "ADP"
+      },
+      {
+        "word": "lajur",
+        "tag": "NOUN"
+      },
+      {
+        "word": "kanan",
+        "tag": "ADJ"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Bagaimana",
+        "tag": "ADV"
+      }
+    ],
+    "merged_tags": [
+      [
+        "16.19",
+        "TIME"
+      ],
+      [
+        ":",
+        "PUNCT"
+      ],
+      [
+        "1.",
+        "NUM"
+      ],
+      [
+        "Margomulyo",
+        "LOCATION"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Tambak Osowilangun",
+        "LOCATION"
+      ],
+      [
+        "macet",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Fikriya",
+        "PERSON"
+      ],
+      [
+        "pendengar",
+        "NOUN"
+      ],
+      [
+        "Suara Surabaya",
+        "LOCATION"
+      ],
+      [
+        "mengabarkan ada",
+        "VERB"
+      ],
+      [
+        "antrean trailer",
+        "NOUN"
+      ],
+      [
+        "di",
+        "ADP"
+      ],
+      [
+        "sepanjang jalan",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "tepat",
+        "ADJ"
+      ],
+      [
+        "depan",
+        "NOUN"
+      ],
+      [
+        "Depo MSC",
+        "PROPN"
+      ],
+      [
+        ";",
+        "PUNCT"
+      ],
+      [
+        "2.",
+        "NUM"
+      ],
+      [
+        "Exit Tol Waru",
+        "PROPN"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Cito",
+        "LOCATION"
+      ],
+      [
+        "padat",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Marina",
+        "PERSON"
+      ],
+      [
+        "pendengar",
+        "NOUN"
+      ],
+      [
+        "Suara Surabaya",
+        "LOCATION"
+      ],
+      [
+        "mengabarkan ada",
+        "VERB"
+      ],
+      [
+        "bus mo",
+        "NOUN"
+      ],
+      [
+        "gok",
+        "VERB"
+      ],
+      [
+        "di",
+        "ADP"
+      ],
+      [
+        "lajur",
+        "NOUN"
+      ],
+      [
+        "kanan",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Bagaimana",
+        "ADV"
+      ]
+    ],
+    "step1_info": {
+      "tweet_text": "16.19: 1. Margomulyo arah Tambak Osowilangun macet. Fikriya pendengar Suara Surabaya mengabarkan ada antrean trailer di sepanjang jalan, tepat depan Depo MSC; 2. Exit Tol Waru arah Cito padat. Marina pendengar Suara Surabaya mengabarkan ada bus mogok di lajur kanan. Bagaimana",
+      "time": "16.19",
+      "locations": [
+        "jl. margomulyo"
+      ],
+      "sentences": [
+        {
+          "sentence": "16.19 : 1. jl. margomulyo arah  Tambak Osowilangun macet  .",
+          "locations": [
+            "jl. margomulyo"
+          ],
+          "original_sentence": "16.19: 1. Margomulyo arah Tambak Osowilangun macet. Fikriya pendengar Suara Surabaya mengabarkan ada antrean trailer di sepanjang jalan, tepat depan Depo MSC"
+        },
+        {
+          "sentence": "Fikriya pendengar Suara Surabaya mengabarkan ada antrean trailer di sepanjang jalan , tepat depan Depo MSC ;",
+          "locations": [],
+          "original_sentence": "2. Exit Tol Waru arah Cito padat. Marina pendengar Suara Surabaya mengabarkan ada bus mogok di lajur kanan. Bagaimana"
+        },
+        {
+          "sentence": "2. Exit Tol Waru arah  Cito padat  .",
+          "locations": [],
+          "original_sentence": ""
+        },
+        {
+          "sentence": "Marina pendengar Suara Surabaya mengabarkan ada bus mo gok di lajur kanan .",
+          "locations": [],
+          "original_sentence": ""
+        },
+        {
+          "sentence": "Bagaimana",
+          "locations": [],
+          "original_sentence": ""
+        }
+      ]
+    },
+    "step2_info": {
+      "segments": [],
+      "single_locations": [
+        {
+          "location": "jl. margomulyo",
+          "reason": "single location fallback",
+          "sentence": "16.19 : 1. jl. margomulyo arah  Tambak Osowilangun macet  ."
+        }
+      ]
+    },
+    "step3_info": {
+      "segments": [],
+      "single_locations": [
+        {
+          "location": "jl. margomulyo",
+          "reason": "single location fallback",
+          "sentence": "16.19 : 1. jl. margomulyo arah  Tambak Osowilangun macet  .",
+          "lat": -7.244170099999999,
+          "lng": 112.682103
+        }
+      ]
+    }
+  },
+  {
+    "tweet_id": "1938239407078949278",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "21.13:\n1. Jalan Nyamplungan, Surabaya padat;\n2. Simpang Tiga Puspa Agro, Trosobo arah Krian macet.(SS-AL)",
@@ -159,15 +1761,15 @@
       "tweet_text": "21.13: 1. Jalan Nyamplungan, Surabaya padat; 2. Simpang Tiga Puspa Agro, Trosobo arah Krian macet.()",
       "time": "14.14",
       "locations": [
-        "Jalan Nyamplungan",
+        "jl. nyamplungan",
         "Surabaya",
         "Krian"
       ],
       "sentences": [
         {
-          "sentence": "21.13 : 1. Jalan Nyamplungan , Surabaya padat  ;",
+          "sentence": "21.13 : 1. jl. nyamplungan , Surabaya padat  ;",
           "locations": [
-            "Jalan Nyamplungan",
+            "jl. nyamplungan",
             "Surabaya"
           ],
           "original_sentence": "21.13: 1. Jalan Nyamplungan, Surabaya padat"
@@ -184,45 +1786,33 @@
     "step2_info": {
       "segments": [
         {
-          "from": "Jalan Nyamplungan",
+          "from": "jl. nyamplungan",
           "to": "Surabaya",
           "reason": "fallback pair",
-          "sentence": "21.13 : 1. Jalan Nyamplungan , Surabaya padat  ;"
+          "sentence": "21.13 : 1. jl. nyamplungan , Surabaya padat  ;"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Krian",
-          "reason": "single location fallback",
-          "sentence": "2. Simpang Tiga Puspa Agro , Trosobo arah  Krian mac et .()"
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [
         {
-          "from": "Jalan Nyamplungan",
+          "from": "Halte Simpang Dukuh",
           "to": "Surabaya",
           "reason": "fallback pair",
-          "sentence": "21.13 : 1. Jalan Nyamplungan , Surabaya padat  ;",
-          "from_lat": -7.230561199999999,
-          "from_lng": 112.7450413,
+          "sentence": "21.13 : 1. jl. nyamplungan , Surabaya padat  ;",
+          "from_lat": -7.2629239,
+          "from_lng": 112.7418576,
           "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lng": 112.7520883,
+          "route_polyline": "|pik@k{boTtB}HvA}ETcAp@oBE]OWaGcAoCk@{@_@_GmAHe@RaAr@gEH_@SEWGwGcAuFq@]NcD^yGr@NyJhKqAKoBmBPAgC"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Krian",
-          "reason": "single location fallback",
-          "sentence": "2. Simpang Tiga Puspa Agro , Trosobo arah  Krian mac et .()",
-          "lat": -7.40299,
-          "lng": 112.5873906
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1938183396645351444",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "1. KM 628 600 Kertosono arah Surabaya ada truk yang terbakar. Sudah ada petugas di lokasi. Informasi lengkap belum diketahui;\n2. Jalan Ahmad Yani arah Bundaran Waru padat;\n2. Jalan Randegansari arah Lakar Santri macet. (SS-AL) https://t.co/IlbdUoqSbE",
@@ -527,7 +2117,7 @@
       "time": "10.31",
       "locations": [
         "Surabaya",
-        "Jalan Ahmad Yani",
+        "jl. ahmad yani",
         "Bundaran Waru"
       ],
       "sentences": [
@@ -549,9 +2139,9 @@
           "original_sentence": "2. Jalan Randegansari arah Lakar Santri macet. ()"
         },
         {
-          "sentence": "2. Jalan Ahmad Yani arah  Bundaran Waru padat  ;",
+          "sentence": "2. jl. ahmad yani arah  Bundaran Waru padat  ;",
           "locations": [
-            "Jalan Ahmad Yani",
+            "jl. ahmad yani",
             "Bundaran Waru"
           ],
           "original_sentence": ""
@@ -567,9 +2157,9 @@
       "segments": [
         {
           "from": "Bundaran Waru",
-          "to": "Jalan Ahmad Yani",
+          "to": "jl. ahmad yani",
           "reason": "matched arah",
-          "sentence": "2. Jalan Ahmad Yani arah  Bundaran Waru padat  ;"
+          "sentence": "2. jl. ahmad yani arah  Bundaran Waru padat  ;"
         }
       ],
       "single_locations": [
@@ -583,14 +2173,15 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Bundaran Waru",
-          "to": "Jalan Ahmad Yani",
+          "from": "Simpang Tenggilis Barat A",
+          "to": "jl. ahmad yani",
           "reason": "matched arah",
-          "sentence": "2. Jalan Ahmad Yani arah  Bundaran Waru padat  ;",
-          "from_lat": -7.3470103,
-          "from_lng": 112.7275417,
-          "to_lat": -7.447324399999999,
-          "to_lng": 112.7185741
+          "sentence": "2. jl. ahmad yani arah  Bundaran Waru padat  ;",
+          "from_lat": -7.321029999999999,
+          "from_lng": 112.74916,
+          "to_lat": -7.320894600000001,
+          "to_lng": 112.7330452,
+          "route_polyline": "r{tk@gidoTCyBC_@g@RiBx@a@NiCpAUJJPxAxCtEzJ|AjD|CrG`A~Bz@`BhBvDvAvCzCxGrBfEbGjMbBnDL?d@K^OH?LBLD\\JKv@[bDE^?nABnBF~BAf@If@]rAKv@dFl@@HFLBVCPONQLQDuATw@F_BB[KiAq@SsAQg@CEWMwCe@eDe@wMeBoBS{Dk@uAUcAGkC]qEo@BWnNnBh@F"
         }
       ],
       "single_locations": [
@@ -605,6 +2196,7 @@
     }
   },
   {
+    "tweet_id": "1938163706212589669",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "16.12:\n1. Exit Tol Gunung Sari macet;\n2. Exit Tol Waru arah Medaeng padat;\n3. Jalan Raya Surabaya arah Malang. (SS-AL)",
@@ -821,11 +2413,6 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Medaeng",
-          "reason": "single location fallback",
-          "sentence": "2. Exit Tol Waru arah  Medaeng padat  ;"
-        },
-        {
           "location": "Jalan Raya Surabaya",
           "reason": "single location fallback",
           "sentence": "3. Jalan Raya Surabaya arah  Malang . ()"
@@ -835,13 +2422,6 @@
     "step3_info": {
       "segments": [],
       "single_locations": [
-        {
-          "location": "Medaeng",
-          "reason": "single location fallback",
-          "sentence": "2. Exit Tol Waru arah  Medaeng padat  ;",
-          "lat": -7.355177899999998,
-          "lng": 112.7167022
-        },
         {
           "location": "Jalan Raya Surabaya",
           "reason": "single location fallback",
@@ -853,6 +2433,7 @@
     }
   },
   {
+    "tweet_id": "1938033832374243511",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "07.37: \n1. Raya Waru arah Surabaya merambat imbas volume;\n2. Jalan Lidah Kulon arah Lidah Wetan padat lancar;\n3. Mastrip Kedurus arah Gunungsari padat. (SS-TM)",
@@ -1044,14 +2625,16 @@
       "tweet_text": "07.37: 1. Raya Waru arah Surabaya merambat imbas volume; 2. Jalan Lidah Kulon arah Lidah Wetan padat lancar; 3. Mastrip Kedurus arah Gunungsari padat. ()",
       "time": "07.37",
       "locations": [
+        "jl. raya waru",
         "Surabaya",
         "Jalan Lidah Kulon",
         "Mastrip Kedurus"
       ],
       "sentences": [
         {
-          "sentence": "07.37 : 1. Raya Waru arah  Surabaya merambat imbas volume ;",
+          "sentence": "07.37 : 1. jl. raya waru arah  Surabaya merambat imbas volume ;",
           "locations": [
+            "jl. raya waru",
             "Surabaya"
           ],
           "original_sentence": "07.37: 1. Raya Waru arah Surabaya merambat imbas volume"
@@ -1073,53 +2656,35 @@
       ]
     },
     "step2_info": {
-      "segments": [],
-      "single_locations": [
+      "segments": [
         {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "07.37 : 1. Raya Waru arah  Surabaya merambat imbas volume ;"
-        },
-        {
-          "location": "Jalan Lidah Kulon",
-          "reason": "single location fallback",
-          "sentence": "2. Jalan Lidah Kulon arah  Lidah Wetan lancar padat ;"
-        },
-        {
-          "location": "Mastrip Kedurus",
-          "reason": "single location fallback",
-          "sentence": "3. Mastrip Kedurus arah  Gunungsari padat  . ()"
+          "from": "Surabaya",
+          "to": "jl. raya waru",
+          "reason": "matched arah",
+          "sentence": "07.37 : 1. jl. raya waru arah  Surabaya merambat imbas volume ;"
         }
-      ]
+      ],
+      "single_locations": []
     },
     "step3_info": {
-      "segments": [],
-      "single_locations": [
+      "segments": [
         {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "07.37 : 1. Raya Waru arah  Surabaya merambat imbas volume ;",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        },
-        {
-          "location": "Jalan Lidah Kulon",
-          "reason": "single location fallback",
-          "sentence": "2. Jalan Lidah Kulon arah  Lidah Wetan lancar padat ;",
-          "lat": -7.3056863,
-          "lng": 112.6551971
-        },
-        {
-          "location": "Mastrip Kedurus",
-          "reason": "single location fallback",
-          "sentence": "3. Mastrip Kedurus arah  Gunungsari padat  . ()",
-          "lat": -7.340530100000001,
-          "lng": 112.6968952
+          "from": "Surabaya",
+          "to": "Halte Simpang Dukuh",
+          "reason": "matched arah",
+          "sentence": "07.37 : 1. jl. raya waru arah  Surabaya merambat imbas volume ;",
+          "from_lat": -7.2574719,
+          "from_lng": 112.7520883,
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "rmhk@q{doT@fClBQJnBhBQzBUbAItF]hEYd@KXWZ]TSVIVChA@zGHhEPhBHf@P^VHNHZAz@q@fEc@vBKh@YfAY`Ai@lBk@~BsAxEa@`BBPJPBDxBh@XFFHFF`Cp@rBl@pBh@zA|@WrAi@|Ai@`B{@xC[fAWdAQj@{BPo@Fw@?qCQsAI_ACeAL{AZYJMESMGMAMAKXu@XaA@C"
         }
-      ]
+      ],
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1936004937219182698",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "17.15: \n1. Underpass Satelit padat dua arah;\n2. Mastrip Kedurus dan Wiyung arah Gunungsari merambat;\n3. Lidah Kulon arah Simpang Wisma Lidah Kulon merambat;\n4. Jalan Ahmad Yani arah Waru macet;\n5. Raya Waru arah Surabaya juga macet. (SS-TM)",
@@ -1444,8 +3009,9 @@
       "time": "17.15",
       "locations": [
         "Lidah Kulon",
-        "Jalan Ahmad Yani",
+        "jl. ahmad yani",
         "Waru",
+        "jl. raya waru",
         "Surabaya"
       ],
       "sentences": [
@@ -1467,16 +3033,17 @@
           "original_sentence": "3. Lidah Kulon arah Simpang Wisma Lidah Kulon merambat"
         },
         {
-          "sentence": "4. Jalan Ahmad Yani arah  Waru mac et ;",
+          "sentence": "4. jl. ahmad yani arah  Waru mac et ;",
           "locations": [
-            "Jalan Ahmad Yani",
+            "jl. ahmad yani",
             "Waru"
           ],
           "original_sentence": "4. Jalan Ahmad Yani arah Waru macet"
         },
         {
-          "sentence": "5. Raya Waru arah  Surabaya juga mac et . ()",
+          "sentence": "5. jl. raya waru arah  Surabaya juga mac et . ()",
           "locations": [
+            "jl. raya waru",
             "Surabaya"
           ],
           "original_sentence": "5. Raya Waru arah Surabaya juga macet. ()"
@@ -1487,56 +3054,49 @@
       "segments": [
         {
           "from": "Waru",
-          "to": "Jalan Ahmad Yani",
+          "to": "jl. ahmad yani",
           "reason": "matched arah",
-          "sentence": "4. Jalan Ahmad Yani arah  Waru mac et ;"
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Lidah Kulon",
-          "reason": "single location fallback",
-          "sentence": "3. Lidah Kulon arah  Simpang Wisma Lidah Kulon merambat ;"
+          "sentence": "4. jl. ahmad yani arah  Waru mac et ;"
         },
         {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "5. Raya Waru arah  Surabaya juga mac et . ()"
+          "from": "Surabaya",
+          "to": "jl. raya waru",
+          "reason": "matched arah",
+          "sentence": "5. jl. raya waru arah  Surabaya juga mac et . ()"
         }
-      ]
+      ],
+      "single_locations": []
     },
     "step3_info": {
       "segments": [
         {
-          "from": "Waru",
-          "to": "Jalan Ahmad Yani",
+          "from": "Simpang Tenggilis Barat A",
+          "to": "jl. ahmad yani",
           "reason": "matched arah",
-          "sentence": "4. Jalan Ahmad Yani arah  Waru mac et ;",
-          "from_lat": -7.3503078,
-          "from_lng": 112.7674661,
-          "to_lat": -7.447324399999999,
-          "to_lng": 112.7185741
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Lidah Kulon",
-          "reason": "single location fallback",
-          "sentence": "3. Lidah Kulon arah  Simpang Wisma Lidah Kulon merambat ;",
-          "lat": -7.3040734,
-          "lng": 112.6586009
+          "sentence": "4. jl. ahmad yani arah  Waru mac et ;",
+          "from_lat": -7.321029999999999,
+          "from_lng": 112.74916,
+          "to_lat": -7.320894600000001,
+          "to_lng": 112.7330452,
+          "route_polyline": "r{tk@gidoTCyBC_@g@RiBx@a@NiCpAUJJPxAxCtEzJ|AjD|CrG`A~Bz@`BhBvDvAvCzCxGrBfEbGjMbBnDL?d@K^OH?LBLD\\JKv@[bDE^?nABnBF~BAf@If@]rAKv@dFl@@HFLBVCPONQLQDuATw@F_BB[KiAq@SsAQg@CEWMwCe@eDe@wMeBoBS{Dk@uAUcAGkC]qEo@BWnNnBh@F"
         },
         {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "5. Raya Waru arah  Surabaya juga mac et . ()",
-          "lat": -7.2574719,
-          "lng": 112.7520883
+          "from": "Surabaya",
+          "to": "Halte Simpang Dukuh",
+          "reason": "matched arah",
+          "sentence": "5. jl. raya waru arah  Surabaya juga mac et . ()",
+          "from_lat": -7.2574719,
+          "from_lng": 112.7520883,
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "rmhk@q{doT@fClBQJnBhBQzBUbAItF]hEYd@KXWZ]TSVIVChA@zGHhEPhBHf@P^VHNHZAz@q@fEc@vBKh@YfAY`Ai@lBk@~BsAxEa@`BBPJPBDxBh@XFFHFF`Cp@rBl@pBh@zA|@WrAi@|Ai@`B{@xC[fAWdAQj@{BPo@Fw@?qCQsAI_ACeAL{AZYJMESMGMAMAKXu@XaA@C"
         }
-      ]
+      ],
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1935624489049673940",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "Demo Sopir Truk Buat Akses Masuk Surabaya Tersendat, Dirlantas Mohon Maaf ke Masyarakat\n\nhttps://t.co/SEID5VBKFl",
@@ -1662,6 +3222,7 @@
     }
   },
   {
+    "tweet_id": "1935572305155129572",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "12.33: \n1. Tol Gunungsari arah Waru macet sejak KM 12;\n2. Bundaran Waru arah Surabaya macet, ekor kemacetan sejak di depan Terminal Purabaya. (SS-TM) https://t.co/EZMQjvmEeV",
@@ -1869,16 +3430,16 @@
       "tweet_text": "12.33: 1. Tol Gunungsari arah Waru macet sejak KM 12; 2. Bundaran Waru arah Surabaya macet, ekor kemacetan sejak di depan Terminal Purabaya. ()",
       "time": "12.33",
       "locations": [
-        "Tol Gunungsari",
+        "jln. gunungsari",
         "Waru",
         "Bundaran Waru",
         "Surabaya"
       ],
       "sentences": [
         {
-          "sentence": "12.33 : 1. Tol Gunungsari arah  Waru macet  sejak KM 12 ;",
+          "sentence": "12.33 : 1. jln. gunungsari arah  Waru macet  sejak KM 12 ;",
           "locations": [
-            "Tol Gunungsari",
+            "jln. gunungsari",
             "Waru"
           ],
           "original_sentence": "12.33: 1. Tol Gunungsari arah Waru macet sejak KM 12"
@@ -1897,9 +3458,9 @@
       "segments": [
         {
           "from": "Waru",
-          "to": "Tol Gunungsari",
+          "to": "jln. gunungsari",
           "reason": "matched arah",
-          "sentence": "12.33 : 1. Tol Gunungsari arah  Waru macet  sejak KM 12 ;"
+          "sentence": "12.33 : 1. jln. gunungsari arah  Waru macet  sejak KM 12 ;"
         },
         {
           "from": "Surabaya",
@@ -1913,30 +3474,33 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Waru",
-          "to": "Tol Gunungsari",
+          "from": "RedDoorz near Exit Toll Gunungsari",
+          "to": "jln. gunungsari",
           "reason": "matched arah",
-          "sentence": "12.33 : 1. Tol Gunungsari arah  Waru macet  sejak KM 12 ;",
-          "from_lat": -7.3503078,
-          "from_lng": 112.7674661,
-          "to_lat": -7.309851300000001,
-          "to_lng": 112.7079818
+          "sentence": "12.33 : 1. jln. gunungsari arah  Waru macet  sejak KM 12 ;",
+          "from_lat": -7.3156108,
+          "from_lng": 112.7095534,
+          "to_lat": -7.3045786,
+          "to_lng": 112.7250735,
+          "route_polyline": "pysk@gr|nTiDPwCByBEqBKo@Gy@Qw@WaBs@}Aw@uBu@oCkAWOm@_@y@q@{FiGmAqAWi@Os@GuAAoBB[r@qEB{@GmCKmDUqDc@oGKeDQoDGe@o@iBcBaEm@_Ak@q@uA{A_Aw@oAy@"
         },
         {
           "from": "Surabaya",
-          "to": "Bundaran Waru",
+          "to": "Halte Simpang Dukuh",
           "reason": "matched arah",
           "sentence": "2. Bundaran Waru arah  Surabaya macet  , ekor kemacetan sejak di depan Terminal Purabaya . ()",
           "from_lat": -7.2574719,
           "from_lng": 112.7520883,
-          "to_lat": -7.3470103,
-          "to_lng": 112.7275417
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "rmhk@q{doT@fClBQJnBhBQzBUbAItF]hEYd@KXWZ]TSVIVChA@zGHhEPhBHf@P^VHNHZAz@q@fEc@vBKh@YfAY`Ai@lBk@~BsAxEa@`BBPJPBDxBh@XFFHFF`Cp@rBl@pBh@zA|@WrAi@|Ai@`B{@xC[fAWdAQj@{BPo@Fw@?qCQsAI_ACeAL{AZYJMESMGMAMAKXu@XaA@C"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1932960232634003881",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "07.36: \n1. Jalan Manukan Kulon arah Sukomanunggal padat merambat;\n2. Raya waru Sidoarjo arah Surabaya merambat. (SS-TM)",
@@ -2081,15 +3645,15 @@
       "time": "07.36",
       "locations": [
         "Jalan Manukan Kulon",
-        "Sukomanunggal",
+        "jl. sukomanunggal",
         "Surabaya"
       ],
       "sentences": [
         {
-          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  Sukomanunggal padat  merambat ;",
+          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  jl. sukomanunggal padat  merambat ;",
           "locations": [
             "Jalan Manukan Kulon",
-            "Sukomanunggal"
+            "jl. sukomanunggal"
           ],
           "original_sentence": "07.36: 1. Jalan Manukan Kulon arah Sukomanunggal padat merambat"
         },
@@ -2105,10 +3669,10 @@
     "step2_info": {
       "segments": [
         {
-          "from": "Sukomanunggal",
+          "from": "jl. sukomanunggal",
           "to": "Jalan Manukan Kulon",
           "reason": "matched arah",
-          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  Sukomanunggal padat  merambat ;"
+          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  jl. sukomanunggal padat  merambat ;"
         }
       ],
       "single_locations": [
@@ -2122,14 +3686,15 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Sukomanunggal",
-          "to": "Jalan Manukan Kulon",
+          "from": "SPX Express Service Point Simpang Darmo Permai Utara",
+          "to": "Pasar Simpang Darmo permai",
           "reason": "matched arah",
-          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  Sukomanunggal padat  merambat ;",
-          "from_lat": -7.268923,
-          "from_lng": 112.6934576,
-          "to_lat": -7.2560619,
-          "to_lng": 112.6640988
+          "sentence": "07.36 : 1. Jalan Manukan Kulon arah  jl. sukomanunggal padat  merambat ;",
+          "from_lat": -7.277304699999999,
+          "from_lng": 112.6837229,
+          "to_lat": -7.2760874,
+          "to_lng": 112.6841557,
+          "route_polyline": "zilk@apwnTaAgAIa@w@EeBA"
         }
       ],
       "single_locations": [
@@ -2144,6 +3709,7 @@
     }
   },
   {
+    "tweet_id": "1931671669736878167",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "18.16: \n1. Ada kendaraan L300 bermasalah di KM 751 Tol Sidoarjo arah Waru. Chairudin pendengar SS mengabarkan, kendaraan itu berhenti di bahu jalan dan tidak ada penanda;\n2. Medaeng arah Bungurasih macet;\n3. Blega Bangkalan arah Surabaya padat merambat;\n4. Ada mobil elf mogok di",
@@ -2566,7 +4132,7 @@
         "KM 751 Tol Sidoarjo",
         "Waru",
         "Medaeng",
-        "Bungurasih",
+        "bungurasih",
         "Surabaya"
       ],
       "sentences": [
@@ -2584,10 +4150,10 @@
           "original_sentence": "2. Medaeng arah Bungurasih macet"
         },
         {
-          "sentence": "2. Medaeng arah  Bungurasih mac et ;",
+          "sentence": "2. Medaeng arah  bungurasih mac et ;",
           "locations": [
             "Medaeng",
-            "Bungurasih"
+            "bungurasih"
           ],
           "original_sentence": "3. Blega Bangkalan arah Surabaya padat merambat"
         },
@@ -2614,10 +4180,10 @@
           "sentence": "18.16 : 1. Ada kendaraan L 300 ber masalah di KM 751 Tol Sidoarjo arah  Waru ."
         },
         {
-          "from": "Bungurasih",
+          "from": "bungurasih",
           "to": "Medaeng",
           "reason": "matched arah",
-          "sentence": "2. Medaeng arah  Bungurasih mac et ;"
+          "sentence": "2. Medaeng arah  bungurasih mac et ;"
         }
       ],
       "single_locations": [
@@ -2631,24 +4197,26 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Waru",
-          "to": "KM 751 Tol Sidoarjo",
+          "from": "Simpang Empat Rungkut",
+          "to": "TOKO SIMPANG TIGA",
           "reason": "matched arah",
           "sentence": "18.16 : 1. Ada kendaraan L 300 ber masalah di KM 751 Tol Sidoarjo arah  Waru .",
-          "from_lat": -7.3503078,
-          "from_lng": 112.7674661,
-          "to_lat": -7.4258355,
-          "to_lng": 112.6935859
+          "from_lat": -7.3309573,
+          "from_lng": 112.7687359,
+          "to_lat": -7.442159,
+          "to_lng": 112.6935279,
+          "route_polyline": "lyvk@schoTDbD?rD?`DG|CCv@FlAIlBN?f@@\\@zCJ|BFfCLj@HZNNLTh@pADtFRpBNKrCC`AMlEe@dOU~EExBKhCO~CM|ClCz@n@VRHnA}@n@i@v@m@nCuB`@MR?jBVhQlCxBRx@Lp@PTB@?R@HFHPDRWnBSzCKtAQpA_@~EYxDKN?|CHnC|@lMb@bD`@~Bj@tCjApGbBtIpA~GN`AF~@AxAQjCc@tGCX?pBFt@b@vBj@xAz@vA~AbChAnBp@xAf@jBPfBFlA@tE?bBAjJAfGIpEEbBKrAUdBMr@_@tB[rBExAFtAZjCHtAB`EKjCDNARKtAW~BOz@Gr@Bt@H^N`@h@z@h@v@h@hAFf@Ev@Q`AiAzEc@~BKfAG~@BXHZLP`@LvANhBVb@Hp@Tl@b@^ZPL~@f@xEn@`@DdBRpIfAvLxA|Ez@`@HfH~AxDbA`D~@jCz@pG|BbFxBfErBlCtAzCdBbF`DtH|E|AdAxEtCzEdC|BdAxB~@dFjB`FbBfBh@hGzAzGpAfEp@`Fh@vIt@~RvAvQvAlJ~@rTjC|M~AfDd@|C\\pCXL@vFZ|ENvDHnIAfGMxEW|Ho@jGk@dFa@fESxIKhFDxCDzENrDP|Gn@zC`@lDf@hGhApJnBlCd@jC\\vARh@D|CV|CLtF?vBEfBI~Ea@nB[fB_@`GyAzJyCnLsDfD_A|Cs@~A]fEu@z@OxEq@fBQrCWDEJCRGnAQxEe@z@IbAOh@QnAcA~AcB\\UhAa@vA]f@C~Am@Za@nA}@jAu@lAm@\\QLOlAmBJGDEL?TJFXsB`JUz@[jA@BBP@NWhB_@jBq@fCMLA?KXb@JCLe@xBELG?UGCACHQt@g@lBCHwDe@[EiGo@}AOUGGEKT?NGJEJIPa@dAYt@k@lB"
         },
         {
-          "from": "Bungurasih",
-          "to": "Medaeng",
+          "from": "Exit Tol Masjid AJT",
+          "to": "Exit Tol Masjid AJT",
           "reason": "matched arah",
-          "sentence": "2. Medaeng arah  Bungurasih mac et ;",
-          "from_lat": -7.3474587,
-          "from_lng": 112.7196817,
-          "to_lat": -7.355177899999998,
-          "to_lng": 112.7167022
+          "sentence": "2. Medaeng arah  bungurasih mac et ;",
+          "from_lat": -7.3366669,
+          "from_lng": 112.7138639,
+          "to_lat": -7.3366669,
+          "to_lng": 112.7138639,
+          "route_polyline": "b}wk@ml}nT"
         }
       ],
       "single_locations": [
@@ -2663,6 +4231,7 @@
     }
   },
   {
+    "tweet_id": "1930566908065271844",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "17.06: \n1. Jalan Pakal arah Terminal Benowo macet;\n2. Kawasan Gedangan arah Surabaya padat;\n3. KM 5 200 Tol Dupak arah Satelit macet;\n4. Jalan Kendangsari arah Berbek Industri macet. (SS-AL)",
@@ -2946,7 +4515,7 @@
         "Terminal Benowo",
         "Surabaya",
         "Jalan Kendangsari",
-        "Berbek Industri"
+        "berbek industri"
       ],
       "sentences": [
         {
@@ -2970,10 +4539,10 @@
           "original_sentence": "3. KM 5 200 Tol Dupak arah Satelit macet"
         },
         {
-          "sentence": "4. Jalan Kendangsari arah  Berbek Industri mac et . ()",
+          "sentence": "4. Jalan Kendangsari arah  berbek industri mac et . ()",
           "locations": [
             "Jalan Kendangsari",
-            "Berbek Industri"
+            "berbek industri"
           ],
           "original_sentence": "4. Jalan Kendangsari arah Berbek Industri macet. ()"
         }
@@ -2988,10 +4557,10 @@
           "sentence": "17.06 : 1. Jalan Pakal arah  Terminal Benowo mac et ;"
         },
         {
-          "from": "Berbek Industri",
+          "from": "berbek industri",
           "to": "Jalan Kendangsari",
           "reason": "matched arah",
-          "sentence": "4. Jalan Kendangsari arah  Berbek Industri mac et . ()"
+          "sentence": "4. Jalan Kendangsari arah  berbek industri mac et . ()"
         }
       ],
       "single_locations": [
@@ -3005,24 +4574,26 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Terminal Benowo",
-          "to": "Jalan Pakal",
+          "from": "GRAHA SURYANATA",
+          "to": "GRAHA SURYANATA",
           "reason": "matched arah",
           "sentence": "17.06 : 1. Jalan Pakal arah  Terminal Benowo mac et ;",
-          "from_lat": -7.235583300000001,
-          "from_lng": 112.6079826,
-          "to_lat": -7.237204,
-          "to_lng": 112.6186601
+          "from_lat": -7.226828299999999,
+          "from_lng": 112.6066852,
+          "to_lat": -7.226828299999999,
+          "to_lng": 112.6066852,
+          "route_polyline": "tnbk@ynhnT"
         },
         {
-          "from": "Berbek Industri",
-          "to": "Jalan Kendangsari",
+          "from": "berbek industri",
+          "to": "Simpang Tenggilis Barat A",
           "reason": "matched arah",
-          "sentence": "4. Jalan Kendangsari arah  Berbek Industri mac et . ()",
+          "sentence": "4. Jalan Kendangsari arah  berbek industri mac et . ()",
           "from_lat": null,
           "from_lng": null,
-          "to_lat": -7.323015399999999,
-          "to_lng": 112.7499837
+          "to_lat": -7.321029999999999,
+          "to_lng": 112.74916,
+          "route_polyline": null
         }
       ],
       "single_locations": [
@@ -3037,6 +4608,7 @@
     }
   },
   {
+    "tweet_id": "1930562695306297527",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "16.48: \n1. Jalan Raya Gresik arah Lamongan padat. Darwati pendengar SS melaporkan ada kepala truk yang masuk selokan;\n2. KM 6 200 Tol Surabaya arah Sidoarjo macet. Alfian pendengar SS melaporkan ada mobil mogok. (SS-AL)",
@@ -3363,6 +4935,7 @@
     }
   },
   {
+    "tweet_id": "1930201040584094093",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "16.52: \n1. Jalan Kapasan arah Kenjeran merambat;\n2. Raya Darmo arah Wonokromo padat;\n3. Raya Waru arah Surabaya merambat. (SS-TM)",
@@ -3546,32 +5119,34 @@
       "tweet_text": "16.52: 1. Jalan Kapasan arah Kenjeran merambat; 2. Raya Darmo arah Wonokromo padat; 3. Raya Waru arah Surabaya merambat. ()",
       "time": "16.52",
       "locations": [
-        "Jalan Kapasan",
+        "jl. kapasan",
         "Kenjeran",
-        "Raya Darmo",
+        "jl. raya darmo",
         "Wonokromo",
+        "jl. raya waru",
         "Surabaya"
       ],
       "sentences": [
         {
-          "sentence": "16.52 : 1. Jalan Kapasan arah  Kenjeran merambat ;",
+          "sentence": "16.52 : 1. jl. kapasan arah  Kenjeran merambat ;",
           "locations": [
-            "Jalan Kapasan",
+            "jl. kapasan",
             "Kenjeran"
           ],
           "original_sentence": "16.52: 1. Jalan Kapasan arah Kenjeran merambat"
         },
         {
-          "sentence": "2. Raya Darmo arah  Wonokromo padat  ;",
+          "sentence": "2. jl. raya darmo arah  Wonokromo padat  ;",
           "locations": [
-            "Raya Darmo",
+            "jl. raya darmo",
             "Wonokromo"
           ],
           "original_sentence": "2. Raya Darmo arah Wonokromo padat"
         },
         {
-          "sentence": "3. Raya Waru arah  Surabaya merambat . ()",
+          "sentence": "3. jl. raya waru arah  Surabaya merambat . ()",
           "locations": [
+            "jl. raya waru",
             "Surabaya"
           ],
           "original_sentence": "3. Raya Waru arah Surabaya merambat. ()"
@@ -3582,60 +5157,66 @@
       "segments": [
         {
           "from": "Kenjeran",
-          "to": "Jalan Kapasan",
+          "to": "jl. kapasan",
           "reason": "matched arah",
-          "sentence": "16.52 : 1. Jalan Kapasan arah  Kenjeran merambat ;"
+          "sentence": "16.52 : 1. jl. kapasan arah  Kenjeran merambat ;"
         },
         {
           "from": "Wonokromo",
-          "to": "Raya Darmo",
+          "to": "jl. raya darmo",
           "reason": "matched arah",
-          "sentence": "2. Raya Darmo arah  Wonokromo padat  ;"
+          "sentence": "2. jl. raya darmo arah  Wonokromo padat  ;"
+        },
+        {
+          "from": "Surabaya",
+          "to": "jl. raya waru",
+          "reason": "matched arah",
+          "sentence": "3. jl. raya waru arah  Surabaya merambat . ()"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "3. Raya Waru arah  Surabaya merambat . ()"
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [
         {
-          "from": "Kenjeran",
-          "to": "Jalan Kapasan",
+          "from": "Nasi goreng pak kacong",
+          "to": "Simpang Nyamplungan 1 - Nyamplungan Raya",
           "reason": "matched arah",
-          "sentence": "16.52 : 1. Jalan Kapasan arah  Kenjeran merambat ;",
-          "from_lat": -7.221841,
-          "from_lng": 112.7685418,
-          "to_lat": -7.239507499999998,
-          "to_lng": 112.7487299
+          "sentence": "16.52 : 1. jl. kapasan arah  Kenjeran merambat ;",
+          "from_lat": -7.2395081,
+          "from_lng": 112.7610736,
+          "to_lat": -7.230252999999998,
+          "to_lng": 112.745172,
+          "route_polyline": "l}dk@usfoT@PMv@YpBoA|IARdFl@vDl@tFt@p@uDrB{KTFk@bDKp@iA`Gi@lCg@xBaB`IoBzIc@jB_@fC_A`FwBhKkAvGkAfGgAbFIj@p@ErAK`AIv@Kh@Op@Uf@O~Bs@r@UfA]`@n@UT]JsD|@[Jk@L_Bl@WJ_APq@JgBV[JwAh@m@R_Ab@m@^y@`@oAx@iAn@s@Ny@DwADaAJi@L}Al@[Jm@K{B{@eAg@mAs@oBuAsByAoA}@wAiAu@g@"
         },
         {
-          "from": "Wonokromo",
-          "to": "Raya Darmo",
+          "from": "OJOL SIMPANG 5 BRATANG",
+          "to": "OJOL SIMPANG 5 BRATANG",
           "reason": "matched arah",
-          "sentence": "2. Raya Darmo arah  Wonokromo padat  ;",
-          "from_lat": -7.3007208,
-          "from_lng": 112.7397631,
-          "to_lat": -7.287961999999999,
-          "to_lng": 112.7393952
+          "sentence": "2. jl. raya darmo arah  Wonokromo padat  ;",
+          "from_lat": -7.2982071,
+          "from_lng": 112.7538742,
+          "to_lat": -7.2982071,
+          "to_lng": 112.7538742,
+          "route_polyline": "rlpk@ageoT"
+        },
+        {
+          "from": "Surabaya",
+          "to": "Halte Simpang Dukuh",
+          "reason": "matched arah",
+          "sentence": "3. jl. raya waru arah  Surabaya merambat . ()",
+          "from_lat": -7.2574719,
+          "from_lng": 112.7520883,
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "rmhk@q{doT@fClBQJnBhBQzBUbAItF]hEYd@KXWZ]TSVIVChA@zGHhEPhBHf@P^VHNHZAz@q@fEc@vBKh@YfAY`Ai@lBk@~BsAxEa@`BBPJPBDxBh@XFFHFF`Cp@rBl@pBh@zA|@WrAi@|Ai@`B{@xC[fAWdAQj@{BPo@Fw@?qCQsAI_ACeAL{AZYJMESMGMAMAKXu@XaA@C"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "3. Raya Waru arah  Surabaya merambat . ()",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1927153697580081505",
     "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
     "text": "07.03:\n1. Mayjen Yono Suwoyo arah simpang empat HR Muhammad padat merambat;\n2. Waspadai, ada tumpahan oli memenuhi jalan di Raya Kendangsari. Riyan pendengar SS mengabarkan sudah ditutupi pasir;\n3. Exit Tol Tambak Sumur arah Surabaya padat merambat. Agus pendengar SS mengabarkan, https://t.co/Sa5IslhA93",
@@ -3979,7 +5560,7 @@
       "tweet_text": "07.03: 1. Mayjen Yono Suwoyo arah simpang empat HR Muhammad padat merambat; 2. Waspadai, ada tumpahan oli memenuhi jalan di Raya Kendangsari. Riyan  mengabarkan sudah ditutupi pasir; 3. Exit Tol Tambak Sumur arah Surabaya padat merambat. Agus  mengabarkan,",
       "time": "07.03",
       "locations": [
-        "Raya Kendangsari",
+        "jl. raya kendangsari",
         "Surabaya"
       ],
       "sentences": [
@@ -3989,9 +5570,9 @@
           "original_sentence": "07.03: 1. Mayjen Yono Suwoyo arah simpang empat HR Muhammad padat merambat"
         },
         {
-          "sentence": "2. Waspadai , ada tumpahan oli memenuhi jalan di Raya Kendangsari .",
+          "sentence": "2. Waspadai , ada tumpahan oli memenuhi jalan di jl. raya kendangsari .",
           "locations": [
-            "Raya Kendangsari"
+            "jl. raya kendangsari"
           ],
           "original_sentence": "2. Waspadai, ada tumpahan oli memenuhi jalan di Raya Kendangsari. Riyan  mengabarkan sudah ditutupi pasir"
         },
@@ -4018,11 +5599,6 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Raya Kendangsari",
-          "reason": "single location fallback",
-          "sentence": "2. Waspadai , ada tumpahan oli memenuhi jalan di Raya Kendangsari ."
-        },
-        {
           "location": "Surabaya",
           "reason": "single location fallback",
           "sentence": "3. Ex it Tol Tambak Sumur arah  Surabaya padat  merambat ."
@@ -4032,13 +5608,6 @@
     "step3_info": {
       "segments": [],
       "single_locations": [
-        {
-          "location": "Raya Kendangsari",
-          "reason": "single location fallback",
-          "sentence": "2. Waspadai , ada tumpahan oli memenuhi jalan di Raya Kendangsari .",
-          "lat": -7.323015399999999,
-          "lng": 112.7499837
-        },
         {
           "location": "Surabaya",
           "reason": "single location fallback",
@@ -4050,870 +5619,7 @@
     }
   },
   {
-    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
-    "user": "Radio Suara Surabaya",
-    "text": "10.01:\n1. Ada truk pecah ban di KM 8.800 Tol Satelit arah Perak. Posisi truk ada di lajur kiri. Kondisi lalu lintas padat. Petugas Jasa Marga mengabarkan, saat ini masih dalam proses penggantian ban;\n2. Ada mobil mogok di FO Juanda arah Surabaya. Imam pendengar SS mengabarkan",
-    "cleaned_text": "10.01: 1. Ada truk pecah ban di KM 8.800 Tol Satelit arah Perak. Posisi truk ada di lajur kiri. Kondisi lalu lintas padat. Petugas Jasa Marga mengabarkan, saat ini masih dalam proses penggantian ban; 2. Ada mobil mogok di FO Juanda arah Surabaya. Imam  mengabarkan",
-    "created_at": "Mon May 26 03:02:47 +0000 2025",
-    "ner_entities": [
-      {
-        "entity": "TIME",
-        "text": "10. 01 : 1"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "km 8. 800 tol satelitperak"
-      },
-      {
-        "entity": "ORGANIZATION",
-        "text": "jasa marga"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "fo juandasurabaya"
-      },
-      {
-        "entity": "PERSON",
-        "text": "imam"
-      }
-    ],
-    "pos_tags": [
-      {
-        "word": "10.01",
-        "tag": "NUM"
-      },
-      {
-        "word": ":",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "1.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "truk",
-        "tag": "NOUN"
-      },
-      {
-        "word": "pecah",
-        "tag": "VERB"
-      },
-      {
-        "word": "ban",
-        "tag": "NOUN"
-      },
-      {
-        "word": "di",
-        "tag": "ADP"
-      },
-      {
-        "word": "KM",
-        "tag": "PROPN"
-      },
-      {
-        "word": "8.800",
-        "tag": "NUM"
-      },
-      {
-        "word": "Tol Satelit",
-        "tag": "PROPN"
-      },
-      {
-        "word": "arah",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Perak",
-        "tag": "PROPN"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Posisi truk",
-        "tag": "NOUN"
-      },
-      {
-        "word": "ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "di",
-        "tag": "ADP"
-      },
-      {
-        "word": "lajur kiri",
-        "tag": "NOUN"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Kondisi lalu lintas",
-        "tag": "NOUN"
-      },
-      {
-        "word": "padat",
-        "tag": "ADJ"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Petugas",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Jasa Marga",
-        "tag": "PROPN"
-      },
-      {
-        "word": "mengabarkan",
-        "tag": "VERB"
-      },
-      {
-        "word": ",",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "saat",
-        "tag": "NOUN"
-      },
-      {
-        "word": "ini",
-        "tag": "DET"
-      },
-      {
-        "word": "masih",
-        "tag": "ADV"
-      },
-      {
-        "word": "dalam",
-        "tag": "ADP"
-      },
-      {
-        "word": "proses penggantian ban",
-        "tag": "NOUN"
-      },
-      {
-        "word": ";",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "2.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "mobil",
-        "tag": "NOUN"
-      },
-      {
-        "word": "mogok",
-        "tag": "VERB"
-      },
-      {
-        "word": "di",
-        "tag": "ADP"
-      },
-      {
-        "word": "FO Juanda",
-        "tag": "PROPN"
-      },
-      {
-        "word": "arah",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Surabaya",
-        "tag": "PROPN"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Imam",
-        "tag": "PROPN"
-      },
-      {
-        "word": "mengabarkan",
-        "tag": "VERB"
-      }
-    ],
-    "merged_tags": [
-      [
-        "10.01",
-        "TIME"
-      ],
-      [
-        ":",
-        "TIME"
-      ],
-      [
-        "1.",
-        "NUM"
-      ],
-      [
-        "Ada",
-        "VERB"
-      ],
-      [
-        "truk",
-        "NOUN"
-      ],
-      [
-        "pecah",
-        "VERB"
-      ],
-      [
-        "ban",
-        "NOUN"
-      ],
-      [
-        "di",
-        "ADP"
-      ],
-      [
-        "KM",
-        "LOCATION"
-      ],
-      [
-        "8.800",
-        "LOCATION"
-      ],
-      [
-        "Tol Satelit",
-        "LOCATION"
-      ],
-      [
-        "arah",
-        "NOUN"
-      ],
-      [
-        "Perak",
-        "LOCATION"
-      ],
-      [
-        ".",
-        "TIME"
-      ],
-      [
-        "Posisi truk",
-        "NOUN"
-      ],
-      [
-        "ada",
-        "VERB"
-      ],
-      [
-        "di",
-        "ADP"
-      ],
-      [
-        "lajur kiri",
-        "NOUN"
-      ],
-      [
-        ".",
-        "TIME"
-      ],
-      [
-        "Kondisi lalu lintas",
-        "NOUN"
-      ],
-      [
-        "padat",
-        "ADJ"
-      ],
-      [
-        ".",
-        "TIME"
-      ],
-      [
-        "Petugas",
-        "NOUN"
-      ],
-      [
-        "Jasa Marga",
-        "ORGANIZATION"
-      ],
-      [
-        "mengabarkan",
-        "VERB"
-      ],
-      [
-        ",",
-        "PUNCT"
-      ],
-      [
-        "saat",
-        "NOUN"
-      ],
-      [
-        "ini",
-        "DET"
-      ],
-      [
-        "masih",
-        "ADV"
-      ],
-      [
-        "dalam",
-        "ADP"
-      ],
-      [
-        "proses penggantian ban",
-        "NOUN"
-      ],
-      [
-        ";",
-        "PUNCT"
-      ],
-      [
-        "2.",
-        "NUM"
-      ],
-      [
-        "Ada",
-        "VERB"
-      ],
-      [
-        "mobil",
-        "NOUN"
-      ],
-      [
-        "mogok",
-        "VERB"
-      ],
-      [
-        "di",
-        "ADP"
-      ],
-      [
-        "FO Juanda",
-        "LOCATION"
-      ],
-      [
-        "arah",
-        "NOUN"
-      ],
-      [
-        "Surabaya",
-        "LOCATION"
-      ],
-      [
-        ".",
-        "TIME"
-      ],
-      [
-        "Imam",
-        "PERSON"
-      ],
-      [
-        "mengabarkan",
-        "VERB"
-      ]
-    ],
-    "step1_info": {
-      "tweet_text": "10.01: 1. Ada truk pecah ban di KM 8.800 Tol Satelit arah Perak. Posisi truk ada di lajur kiri. Kondisi lalu lintas padat. Petugas Jasa Marga mengabarkan, saat ini masih dalam proses penggantian ban; 2. Ada mobil mogok di FO Juanda arah Surabaya. Imam  mengabarkan",
-      "time": "10.01",
-      "locations": [
-        "Surabaya"
-      ],
-      "sentences": [
-        {
-          "sentence": "10.01 : 1. Ada truk pecah ban di KM 8.800 Tol Satelit arah  Perak .",
-          "locations": [],
-          "original_sentence": "10.01: 1. Ada truk pecah ban di KM 8.800 Tol Satelit arah Perak. Posisi truk ada di lajur kiri. Kondisi lalu lintas padat. Petugas Jasa Marga mengabarkan, saat ini masih dalam proses penggantian ban"
-        },
-        {
-          "sentence": "Posisi truk ada di lajur kiri .",
-          "locations": [],
-          "original_sentence": "2. Ada mobil mogok di FO Juanda arah Surabaya. Imam  mengabarkan"
-        },
-        {
-          "sentence": "Kondisi lalu lintas padat  .",
-          "locations": [],
-          "original_sentence": ""
-        },
-        {
-          "sentence": "Petugas Jasa Marga mengabarkan , saat ini masih dalam proses penggantian ban ;",
-          "locations": [],
-          "original_sentence": ""
-        },
-        {
-          "sentence": "2. Ada mobil mogok di FO Juanda arah  Surabaya .",
-          "locations": [
-            "Surabaya"
-          ],
-          "original_sentence": ""
-        },
-        {
-          "sentence": "Imam mengabarkan",
-          "locations": [],
-          "original_sentence": ""
-        }
-      ]
-    },
-    "step2_info": {
-      "segments": [],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "2. Ada mobil mogok di FO Juanda arah  Surabaya ."
-        }
-      ]
-    },
-    "step3_info": {
-      "segments": [],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "2. Ada mobil mogok di FO Juanda arah  Surabaya .",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        }
-      ]
-    }
-  },
-  {
-    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
-    "user": "Radio Suara Surabaya",
-    "text": "20.59:\n1. Jalan Gubeng Pojok dan Jalan Pemuda merambat;\n2. Waspadai, ada truk patah as di Kemantren arah Surabaya. Nur pendengar SS mengabarkan, posisi truk di lajur kiri dan tidak ada penanda;\n3. Jalan Gemblongan arah Tunjungan padat merambat (SS-RN)",
-    "cleaned_text": "20.59: 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat; 2. Waspadai, ada truk patah as di Kemantren arah Surabaya. Nur  mengabarkan, posisi truk di lajur kiri dan tidak ada penanda; 3. Jalan Gemblongan arah Tunjungan padat merambat ()",
-    "created_at": "Sat May 24 13:59:53 +0000 2025",
-    "ner_entities": [
-      {
-        "entity": "QUANTITY",
-        "text": "20. 59 : 1"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "jalan gubeng pojokjalan pemudakemantrensurabaya"
-      },
-      {
-        "entity": "PERSON",
-        "text": "nur"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "jalan gemblongantunjungan"
-      }
-    ],
-    "pos_tags": [
-      {
-        "word": "20.59",
-        "tag": "NUM"
-      },
-      {
-        "word": ":",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "1.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Jalan Gubeng Pojok",
-        "tag": "PROPN"
-      },
-      {
-        "word": "dan",
-        "tag": "CCONJ"
-      },
-      {
-        "word": "Jalan Pemuda",
-        "tag": "PROPN"
-      },
-      {
-        "word": "merambat",
-        "tag": "VERB"
-      },
-      {
-        "word": ";",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "2.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Waspadai",
-        "tag": "VERB"
-      },
-      {
-        "word": ",",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "truk",
-        "tag": "NOUN"
-      },
-      {
-        "word": "patah",
-        "tag": "ADJ"
-      },
-      {
-        "word": "as",
-        "tag": "NOUN"
-      },
-      {
-        "word": "di",
-        "tag": "ADP"
-      },
-      {
-        "word": "Kemantren",
-        "tag": "PROPN"
-      },
-      {
-        "word": "arah",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Surabaya",
-        "tag": "PROPN"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Nur",
-        "tag": "PROPN"
-      },
-      {
-        "word": "mengabarkan",
-        "tag": "VERB"
-      },
-      {
-        "word": ",",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "posisi truk",
-        "tag": "NOUN"
-      },
-      {
-        "word": "di",
-        "tag": "ADP"
-      },
-      {
-        "word": "lajur kiri",
-        "tag": "NOUN"
-      },
-      {
-        "word": "dan",
-        "tag": "CCONJ"
-      },
-      {
-        "word": "tidak",
-        "tag": "PART"
-      },
-      {
-        "word": "ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "penanda",
-        "tag": "NOUN"
-      },
-      {
-        "word": ";",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "3.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Jalan Gemblongan",
-        "tag": "PROPN"
-      },
-      {
-        "word": "arah",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Tunjungan",
-        "tag": "PROPN"
-      },
-      {
-        "word": "padat",
-        "tag": "ADJ"
-      },
-      {
-        "word": "merambat",
-        "tag": "VERB"
-      },
-      {
-        "word": "()",
-        "tag": "PUNCT"
-      }
-    ],
-    "merged_tags": [
-      [
-        "20.59",
-        "QUANTITY"
-      ],
-      [
-        ":",
-        "QUANTITY"
-      ],
-      [
-        "1.",
-        "NUM"
-      ],
-      [
-        "Jalan Gubeng Pojok",
-        "LOCATION"
-      ],
-      [
-        "dan",
-        "CCONJ"
-      ],
-      [
-        "Jalan Pemuda",
-        "LOCATION"
-      ],
-      [
-        "merambat",
-        "VERB"
-      ],
-      [
-        ";",
-        "PUNCT"
-      ],
-      [
-        "2.",
-        "NUM"
-      ],
-      [
-        "Waspadai",
-        "VERB"
-      ],
-      [
-        ",",
-        "PUNCT"
-      ],
-      [
-        "ada",
-        "VERB"
-      ],
-      [
-        "truk",
-        "NOUN"
-      ],
-      [
-        "patah",
-        "ADJ"
-      ],
-      [
-        "as",
-        "NOUN"
-      ],
-      [
-        "di",
-        "ADP"
-      ],
-      [
-        "Kemantren",
-        "LOCATION"
-      ],
-      [
-        "arah",
-        "NOUN"
-      ],
-      [
-        "Surabaya",
-        "LOCATION"
-      ],
-      [
-        ".",
-        "QUANTITY"
-      ],
-      [
-        "Nur",
-        "PERSON"
-      ],
-      [
-        "mengabarkan",
-        "VERB"
-      ],
-      [
-        ",",
-        "PUNCT"
-      ],
-      [
-        "posisi truk",
-        "NOUN"
-      ],
-      [
-        "di",
-        "ADP"
-      ],
-      [
-        "lajur kiri",
-        "NOUN"
-      ],
-      [
-        "dan",
-        "CCONJ"
-      ],
-      [
-        "tidak",
-        "PART"
-      ],
-      [
-        "ada",
-        "VERB"
-      ],
-      [
-        "penanda",
-        "NOUN"
-      ],
-      [
-        ";",
-        "PUNCT"
-      ],
-      [
-        "3.",
-        "NUM"
-      ],
-      [
-        "Jalan Gemblongan",
-        "LOCATION"
-      ],
-      [
-        "arah",
-        "NOUN"
-      ],
-      [
-        "Tunjungan",
-        "LOCATION"
-      ],
-      [
-        "padat",
-        "ADJ"
-      ],
-      [
-        "merambat",
-        "VERB"
-      ],
-      [
-        "()",
-        "PUNCT"
-      ]
-    ],
-    "step1_info": {
-      "tweet_text": "20.59: 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat; 2. Waspadai, ada truk patah as di Kemantren arah Surabaya. Nur  mengabarkan, posisi truk di lajur kiri dan tidak ada penanda; 3. Jalan Gemblongan arah Tunjungan padat merambat ()",
-      "time": "13.59",
-      "locations": [
-        "Jalan Gubeng Pojok",
-        "Jalan Pemuda",
-        "Surabaya",
-        "Jalan Gemblongan"
-      ],
-      "sentences": [
-        {
-          "sentence": "20.59 : 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat ;",
-          "locations": [
-            "Jalan Gubeng Pojok",
-            "Jalan Pemuda"
-          ],
-          "original_sentence": "20.59: 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat"
-        },
-        {
-          "sentence": "2. Waspadai , ada truk patah as di Kemantren arah  Surabaya .",
-          "locations": [
-            "Surabaya"
-          ],
-          "original_sentence": "2. Waspadai, ada truk patah as di Kemantren arah Surabaya. Nur  mengabarkan, posisi truk di lajur kiri dan tidak ada penanda"
-        },
-        {
-          "sentence": "Nur mengabarkan , posisi truk di lajur kiri dan tidak ada penanda ;",
-          "locations": [],
-          "original_sentence": "3. Jalan Gemblongan arah Tunjungan padat merambat ()"
-        },
-        {
-          "sentence": "3. Jalan Gemblongan arah  Tunjungan padat  merambat ()",
-          "locations": [
-            "Jalan Gemblongan"
-          ],
-          "original_sentence": ""
-        }
-      ]
-    },
-    "step2_info": {
-      "segments": [
-        {
-          "from": "Jalan Gubeng Pojok",
-          "to": "Jalan Pemuda",
-          "reason": "fallback pair",
-          "sentence": "20.59 : 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat ;"
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "2. Waspadai , ada truk patah as di Kemantren arah  Surabaya ."
-        },
-        {
-          "location": "Jalan Gemblongan",
-          "reason": "single location fallback",
-          "sentence": "3. Jalan Gemblongan arah  Tunjungan padat  merambat ()"
-        }
-      ]
-    },
-    "step3_info": {
-      "segments": [
-        {
-          "from": "Jalan Gubeng Pojok",
-          "to": "Jalan Pemuda",
-          "reason": "fallback pair",
-          "sentence": "20.59 : 1. Jalan Gubeng Pojok dan Jalan Pemuda merambat ;",
-          "from_lat": -7.2638386,
-          "from_lng": 112.7507949,
-          "to_lat": -7.444313900000001,
-          "to_lng": 112.6807842
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "2. Waspadai , ada truk patah as di Kemantren arah  Surabaya .",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        },
-        {
-          "location": "Jalan Gemblongan",
-          "reason": "single location fallback",
-          "sentence": "3. Jalan Gemblongan arah  Tunjungan padat  merambat ()",
-          "lat": -7.4235964,
-          "lng": 112.7637673
-        }
-      ]
-    }
-  },
-  {
+    "tweet_id": "1935936615182221516",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "12.41: Ada kegiatan Fun Run titik start dan finishnya di Kantor Polda Jatim, Jalan Ahmad Yani, Surabaya pada Minggu, (22/6/2025) pukul 03.00-08.00 WIB. \n\nBerikut pengalihan arus lalu lintasnya:\n1. dari Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari \n2. dari Jalan https://t.co/BGpkuZQk4D",
@@ -5249,25 +5955,25 @@
       "tweet_text": "12.41: Ada kegiatan Fun Run titik start dan finishnya di Kantor Polda Jatim, Jalan Ahmad Yani, Surabaya pada Minggu, (22/6/2025) pukul 03.00-08.00 WIB. Berikut pengalihan arus lalu lintasnya: 1. dari Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari 2. dari Jalan",
       "time": "12.41",
       "locations": [
-        "Jalan Ahmad Yani",
+        "jl. ahmad yani",
         "Surabaya",
-        "Jalan Ahmad Yani",
-        "Jalan Gayung Kebonsari"
+        "jl. ahmad yani",
+        "jl. gayung kebonsari"
       ],
       "sentences": [
         {
-          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , Jalan Ahmad Yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB .",
+          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , jl. ahmad yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB .",
           "locations": [
-            "Jalan Ahmad Yani",
+            "jl. ahmad yani",
             "Surabaya"
           ],
           "original_sentence": "12.41: Ada kegiatan Fun Run titik start dan finishnya di Kantor Polda Jatim, Jalan Ahmad Yani, Surabaya pada Minggu, (22/6/2025) pukul 03.00-08.00 WIB. Berikut pengalihan arus lalu lintasnya: 1. dari Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari 2. dari Jalan"
         },
         {
-          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari 2. dari  Jalan",
+          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  jl. ahmad yani dialihkan melalui jl. gayung kebonsari 2. dari  Jalan",
           "locations": [
-            "Jalan Ahmad Yani",
-            "Jalan Gayung Kebonsari"
+            "jl. ahmad yani",
+            "jl. gayung kebonsari"
           ],
           "original_sentence": ""
         }
@@ -5276,16 +5982,16 @@
     "step2_info": {
       "segments": [
         {
-          "from": "Jalan Ahmad Yani",
+          "from": "jl. ahmad yani",
           "to": "Surabaya",
           "reason": "fallback pair",
-          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , Jalan Ahmad Yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB ."
+          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , jl. ahmad yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB ."
         },
         {
-          "from": "Jalan Ahmad Yani",
-          "to": "Jalan Gayung Kebonsari",
+          "from": "jl. ahmad yani",
+          "to": "jl. gayung kebonsari",
           "reason": "fallback pair",
-          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari 2. dari  Jalan"
+          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  jl. ahmad yani dialihkan melalui jl. gayung kebonsari 2. dari  Jalan"
         }
       ],
       "single_locations": []
@@ -5293,30 +5999,33 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Jalan Ahmad Yani",
+          "from": "jl. ahmad yani",
           "to": "Surabaya",
           "reason": "fallback pair",
-          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , Jalan Ahmad Yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB .",
-          "from_lat": -7.447324399999999,
-          "from_lng": 112.7185741,
+          "sentence": "12.41 : Ada kegiatan Fun Run titik start dan finish nya di Kantor Polda Jatim , jl. ahmad yani , Surabaya pada Minggu , (22 /6 /2025) pukul 03.00-08.00 WIB .",
+          "from_lat": -7.320894600000001,
+          "from_lng": 112.7330452,
           "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lng": 112.7520883,
+          "route_polyline": "pztk@qdaoT|MhBtPrBdC`@zATdFl@@HFLBVCPONQLQDuATw@F_BB[Ko@_@gCgBiAi@eASeJkAkJkAyC]aBQYI_AIs@MaAK{Fu@uMcBaBQuBYcNkBc@GeAKOo@sEk@sC_@cFi@i@Co@JKJCJQDeBd@yADaBg@yDkC}@g@w@e@i@YmDaCkCsB_BmA}DqCmBgB_@Y{@k@i@MuC][KUKIW[WaAmAk@q@oAqAw@q@cAc@yA]kAUsAMgAIsAOaC]kBOmEEaBIoEi@U?aASi@Oo@UYQMMe@QwBkA{BcBwAeAs@i@aCgBs@o@Y[yDuCcDoBkBu@wA[{@Iu@EeAAaA?{@DcBVkD`AqAb@WJc@JeCb@eATuCbA_ClAsBjAo@T_AFgCMo@KU@[Lg@}Ae@iAk@i@oFcAkA[{CaA{DyAm@g@KSWm@m@oA_AwAs@_AW[mAuAaD}Cm@i@WM[GUBoCd@eANq@S_Ak@[I}@WoAWcAMg@Ek@U_@QEA]SSI_@Ic@CaGOi@CeHGo@?YLeA`AKFc@FaGd@{BRoA@uAHcBPqEf@CSlBWKoBmBPAgC"
         },
         {
-          "from": "Jalan Ahmad Yani",
-          "to": "Jalan Gayung Kebonsari",
+          "from": "jl. ahmad yani",
+          "to": "Simpang Tenggilis Barat A",
           "reason": "fallback pair",
-          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  Jalan Ahmad Yani dialihkan melalui Jalan Gayung Kebonsari 2. dari  Jalan",
-          "from_lat": -7.447324399999999,
-          "from_lng": 112.7185741,
-          "to_lat": -7.3293025,
-          "to_lng": 112.7248345
+          "sentence": "Berikut pengalihan arus lalu lintas nya : 1. dari  jl. ahmad yani dialihkan melalui jl. gayung kebonsari 2. dari  Jalan",
+          "from_lat": -7.320894600000001,
+          "from_lng": 112.7330452,
+          "to_lat": -7.321029999999999,
+          "to_lng": 112.74916,
+          "route_polyline": "pztk@qdaoT|MhBtPrBdC`@lARF_@Lm@Jg@PgA@[A}@GiAEuEFaA`@cD^aC?S\\sC`AsHj@kEbBwNBQJ]LwAHoAJwF?Qy@E}AGqFSaH]wIc@eDMwBOa@IGGWYuAyBy@aBmAuCIUEWGyH"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1902554925563011345",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "09.56: Bagi Anda yang hendak melewati Jalan Gubernur Suryo Surabaya atau depan Gedung Grahadi, harap melewati jalur lain Kawan.\n\nBerdasarkan Informasi Posko Sriti Lantas Polrestabes Surabaya, mulai pukul 10.00-16.00 WIB, Jalan Gubernur Suryo akan ditutup total.\n\nPenutupan",
@@ -5661,6 +6370,7 @@
     }
   },
   {
+    "tweet_id": "1886419701020217663",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "21.18: Lalu lintas di Jalan Raya Mlandingan, Situbondo lumpuh total akibat meluapnya air sungai dan tanggul jebol sejak pukul 20.30 WIB. Polisi setempat melakukan rekayasa lalu lintas dengan mengarahkan kendaraan kecil dari arah Banyuwangi atau arah Surabaya diputar ke arah https://t.co/O1xIBCZTzD",
@@ -6042,13 +6752,15 @@
           "from_lat": -7.2574719,
           "from_lng": 112.7520883,
           "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lng": 112.7520883,
+          "route_polyline": "rmhk@q{doT"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1882351039107719431",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "Hutan Baluran, Situbondo, banjir pada Kamis (23/1/2025). Akibatnya lalu lintas di Jalan Hutan Baluran baik arah Surabaya maupun arah ke Ketapang, macet dua arah karena rekayasa buka-tutup lalu lintas\n\nBagi Anda yang melintas di Hutan Baluran, tetap berhati-hati, Kawan! https://t.co/AeTCZWO5YD",
@@ -6456,6 +7168,7 @@
     }
   },
   {
+    "tweet_id": "1831153964022378593",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "#SSInfo: Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB.\n\nDSDABM Surabaya melalui unggahannya menyebut, lalu lintas diberlakukan contraflow selama periode tersebut. (odp-tm) https://t.co/G8oztAF0oS",
@@ -6743,13 +7456,13 @@
       "tweet_text": ": Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB. DSDABM Surabaya melalui unggahannya menyebut, lalu lintas diberlakukan contraflow selama periode tersebut. (odp-tm)",
       "time": "22.00-05.00",
       "locations": [
-        "Jalan Mayjen Sungkono"
+        "jl. mayjen sungkono"
       ],
       "sentences": [
         {
-          "sentence": ": Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB .",
+          "sentence": ": Ada rekayasa lalu lintas di jl. mayjen sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB .",
           "locations": [
-            "Jalan Mayjen Sungkono"
+            "jl. mayjen sungkono"
           ],
           "original_sentence": ": Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB. DSDABM Surabaya melalui unggahannya menyebut, lalu lintas diberlakukan contraflow selama periode tersebut. (odp-tm)"
         },
@@ -6764,9 +7477,9 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Mayjen Sungkono",
+          "location": "jl. mayjen sungkono",
           "reason": "single location fallback",
-          "sentence": ": Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB ."
+          "sentence": ": Ada rekayasa lalu lintas di jl. mayjen sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB ."
         }
       ]
     },
@@ -6774,9 +7487,9 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Mayjen Sungkono",
+          "location": "jl. mayjen sungkono",
           "reason": "single location fallback",
-          "sentence": ": Ada rekayasa lalu lintas di Jalan Mayjen Sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB .",
+          "sentence": ": Ada rekayasa lalu lintas di jl. mayjen sungkono karena ada pekerjaan crossing saluran mulai tanggal 4-13 September 2024 pukul 22.00-05.00 WIB .",
           "lat": -7.291445599999999,
           "lng": 112.717254
         }
@@ -6784,6 +7497,7 @@
     }
   },
   {
+    "tweet_id": "1828632446927298665",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "10.15: Jalan Pakis, Jalan Patmosusastro, dan Jalan Indragiri macet cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya. (odp-tm)",
@@ -6960,16 +7674,16 @@
       "time": "10.15",
       "locations": [
         "Jalan Pakis",
-        "Jalan Patmosusastro",
-        "Jalan Indragiri"
+        "jl. patmosusastro",
+        "jl. indragiri"
       ],
       "sentences": [
         {
-          "sentence": "10.15 : Jalan Pakis , Jalan Patmosusastro , dan Jalan Indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )",
+          "sentence": "10.15 : Jalan Pakis , jl. patmosusastro , dan jl. indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )",
           "locations": [
             "Jalan Pakis",
-            "Jalan Patmosusastro",
-            "Jalan Indragiri"
+            "jl. patmosusastro",
+            "jl. indragiri"
           ],
           "original_sentence": "10.15: Jalan Pakis, Jalan Patmosusastro, dan Jalan Indragiri macet cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya. (odp-tm)"
         }
@@ -6979,9 +7693,9 @@
       "segments": [
         {
           "from": "Jalan Pakis",
-          "to": "Jalan Patmosusastro",
+          "to": "jl. patmosusastro",
           "reason": "fallback pair",
-          "sentence": "10.15 : Jalan Pakis , Jalan Patmosusastro , dan Jalan Indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )"
+          "sentence": "10.15 : Jalan Pakis , jl. patmosusastro , dan jl. indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )"
         }
       ],
       "single_locations": []
@@ -6989,20 +7703,22 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Jalan Pakis",
-          "to": "Jalan Patmosusastro",
+          "from": "Resto Padang Simpang Raya",
+          "to": "jl. patmosusastro",
           "reason": "fallback pair",
-          "sentence": "10.15 : Jalan Pakis , Jalan Patmosusastro , dan Jalan Indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )",
-          "from_lat": -7.2875964,
-          "from_lng": 112.7283358,
+          "sentence": "10.15 : Jalan Pakis , jl. patmosusastro , dan jl. indragiri mac et cenderung tidak bergerak imbas pengalihan arus lalu lintas di depan Kantor KPU Surabaya . ( odp-tm )",
+          "from_lat": -7.2809825,
+          "from_lng": 112.7464732,
           "to_lat": -7.288795099999999,
-          "to_lng": 112.7305754
+          "to_lng": 112.7305754,
+          "route_polyline": "`amk@yxcoT_B\\kBj@y@^iB~@eBdAw@ZWFw@DqAGe@Cs@IWVKLDLz@lC^vAPz@H`At@E}@lHOdAp@HdCXvFp@bIv@fHj@dIbAhJdAtEh@zCXtHx@~@HEb@E|A?lAFlALbBz@dDLb@r@|An@nAjAjB|@dAzBrBjCfChBbBzAlApBtAXPmA`Bo@z@o@z@qAdB{@nASMu@g@wEsCcEiB]MUKE@G@q@Mm@jEgBa@}@C"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1825333972953678119",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "07.39: Gladi bersih upacara Hari Juang Polri di depan Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya  kembali digelar hari ini, Senin (19/8/2024) mulai pukul 08.00-10.00 WIB.\n\nOleh karena itu, ada rekayasa lalu lintas untuk mengantisipasi kemacetan lalu lintas di",
@@ -7317,6 +8033,7 @@
     }
   },
   {
+    "tweet_id": "1825186529251324023",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "#SSInfo: Simulasi upacara Hari Juang Polri di depan Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya rencananya kembali digelar besok, Senin (19/8/2024) pagi sekitar pk. 06.00/07.00 WIB sampai selesai.\n\nOleh karena itu, ada rekayasa lalu lintas untuk mengantisipasi",
@@ -7603,6 +8320,7 @@
     }
   },
   {
+    "tweet_id": "1825118031057740073",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "#SSInfo: Simulasi upacara Hari Juang Polri di depan Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya rencananya kembali digelar besok, Senin (19/8/2024) pagi sekitar pk. 06.00/07.00 WIB sampai selesai.\n\nOleh karena itu, ada rekayasa lalu lintas untuk mengantisipasi",
@@ -7889,6 +8607,7 @@
     }
   },
   {
+    "tweet_id": "1824231613208858840",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "06.47: Update informasi pengalihan arus di sekitar Jalan Darmo.\n\nAKP Satriyono KBO Lantas Polrestabes Surabaya mengabarkan, hari ini (16/8/2024) akan diadakan simulasi upacara mulai pukul 07.00-selesai. \n\nSudah ada petugas di beberapa titik untuk mengatur pola rekayasa lalu",
@@ -8220,28 +8939,15 @@
     },
     "step2_info": {
       "segments": [],
-      "single_locations": [
-        {
-          "location": "Jalan Darmo",
-          "reason": "single location fallback",
-          "sentence": "06.47 : Update informasi pengalihan arus di sekitar Jalan Darmo ."
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [],
-      "single_locations": [
-        {
-          "location": "Jalan Darmo",
-          "reason": "single location fallback",
-          "sentence": "06.47 : Update informasi pengalihan arus di sekitar Jalan Darmo .",
-          "lat": -7.287961999999999,
-          "lng": 112.7393952
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1823875774417658031",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "07.13: Ada simulasi rekayasa lalu lintas di Jalan Darmo berlangsung sekitar 40 menit. AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan, rekayasa dilakukan di Raya Darmo sisi timur atau utara ke selatan akan dialihkan ke Dinoyo dan dari selatan ke Majapahit atau Diponegoro.",
@@ -8558,8 +9264,8 @@
       "time": "07.13",
       "locations": [
         "Jalan Darmo",
-        "Raya Darmo",
-        "Diponegoro"
+        "jl. raya darmo",
+        "jl. diponegoro"
       ],
       "sentences": [
         {
@@ -8570,10 +9276,10 @@
           "original_sentence": "07.13: Ada simulasi rekayasa lalu lintas di Jalan Darmo berlangsung sekitar 40 menit. AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan, rekayasa dilakukan di Raya Darmo sisi timur atau utara ke selatan akan dialihkan ke Dinoyo dan dari selatan ke Majapahit atau Diponegoro."
         },
         {
-          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di Raya Darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau Diponegoro .",
+          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di jl. raya darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau jl. diponegoro .",
           "locations": [
-            "Raya Darmo",
-            "Diponegoro"
+            "jl. raya darmo",
+            "jl. diponegoro"
           ],
           "original_sentence": ""
         }
@@ -8582,45 +9288,33 @@
     "step2_info": {
       "segments": [
         {
-          "from": "Diponegoro",
-          "to": "Raya Darmo",
+          "from": "jl. raya darmo",
+          "to": "jl. raya darmo",
           "reason": "explicit dari-ke",
-          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di Raya Darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau Diponegoro ."
+          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di jl. raya darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau jl. diponegoro ."
         }
       ],
-      "single_locations": [
-        {
-          "location": "Jalan Darmo",
-          "reason": "single location fallback",
-          "sentence": "07.13 : Ada simulasi rekayasa lalu lintas di Jalan Darmo berlangsung sekitar 40 menit ."
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [
         {
-          "from": "Diponegoro",
-          "to": "Raya Darmo",
+          "from": "OJOL SIMPANG 5 BRATANG",
+          "to": "OJOL SIMPANG 5 BRATANG",
           "reason": "explicit dari-ke",
-          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di Raya Darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau Diponegoro .",
-          "from_lat": -7.4522289,
-          "from_lng": 112.7149353,
-          "to_lat": -7.287961999999999,
-          "to_lng": 112.7393952
+          "sentence": "AKBP Arif Kasatlantas Polrestabes Surabaya mengabarkan , rekayasa dilakukan di jl. raya darmo sisi timur atau utara ke  selatan akan dialihkan ke  Dinoyo dan dari  selatan ke  Majapahit atau jl. diponegoro .",
+          "from_lat": -7.2982071,
+          "from_lng": 112.7538742,
+          "to_lat": -7.2982071,
+          "to_lng": 112.7538742,
+          "route_polyline": "rlpk@ageoT"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Jalan Darmo",
-          "reason": "single location fallback",
-          "sentence": "07.13 : Ada simulasi rekayasa lalu lintas di Jalan Darmo berlangsung sekitar 40 menit .",
-          "lat": -7.287961999999999,
-          "lng": 112.7393952
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1812654230496485712",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "08.02:\n1. Tol Sidoarjo arah Waru MACET, ada #kecelakaan di KM 755.800. Satu mobil masih di lajur kanan dan lainnya di lajur kiri dengan kondisi ringsek;\n2. Jalan Kedung Baruk arah simpang Kali Rungkut MACET, ada penutupan jalan;\n3. Raya Waru arah Surabaya MACET, imbas volume.",
@@ -8974,8 +9668,9 @@
       "locations": [
         "Tol Sidoarjo",
         "Waru",
-        "Jalan Kedung Baruk",
-        "Kali Rungkut",
+        "jl. kedung baruk",
+        "jl. kali rungkut",
+        "jl. raya waru",
         "Surabaya"
       ],
       "sentences": [
@@ -8993,16 +9688,17 @@
           "original_sentence": "2. Jalan Kedung Baruk arah simpang Kali Rungkut MACET, ada penutupan jalan"
         },
         {
-          "sentence": "2. Jalan Kedung Baruk arah simpang MACET Kali Rungkut , ada penutupan jalan ;",
+          "sentence": "2. jl. kedung baruk arah simpang MACET jl. kali rungkut , ada penutupan jalan ;",
           "locations": [
-            "Jalan Kedung Baruk",
-            "Kali Rungkut"
+            "jl. kedung baruk",
+            "jl. kali rungkut"
           ],
           "original_sentence": "3. Raya Waru arah Surabaya MACET, imbas volume."
         },
         {
-          "sentence": "3. Raya Waru arah  MACET Surabaya , imbas volume .",
+          "sentence": "3. jl. raya waru arah  MACET Surabaya , imbas volume .",
           "locations": [
+            "jl. raya waru",
             "Surabaya"
           ],
           "original_sentence": ""
@@ -9018,55 +9714,61 @@
           "sentence": "08.02 : 1. Tol Sidoarjo arah  MACET Waru , ada di KM 755.800 ."
         },
         {
-          "from": "Kali Rungkut",
-          "to": "Jalan Kedung Baruk",
+          "from": "jl. kali rungkut",
+          "to": "jl. kedung baruk",
           "reason": "matched arah",
-          "sentence": "2. Jalan Kedung Baruk arah simpang MACET Kali Rungkut , ada penutupan jalan ;"
+          "sentence": "2. jl. kedung baruk arah simpang MACET jl. kali rungkut , ada penutupan jalan ;"
+        },
+        {
+          "from": "Surabaya",
+          "to": "jl. raya waru",
+          "reason": "matched arah",
+          "sentence": "3. jl. raya waru arah  MACET Surabaya , imbas volume ."
         }
       ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "3. Raya Waru arah  MACET Surabaya , imbas volume ."
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [
         {
-          "from": "Waru",
-          "to": "Tol Sidoarjo",
+          "from": "Simpang Empat Rungkut",
+          "to": "Halte Exit Tol Sidoarjo",
           "reason": "matched arah",
           "sentence": "08.02 : 1. Tol Sidoarjo arah  MACET Waru , ada di KM 755.800 .",
-          "from_lat": -7.3503078,
-          "from_lng": 112.7674661,
-          "to_lat": -7.447523399999999,
-          "to_lng": 112.7002352
+          "from_lat": -7.3309573,
+          "from_lng": 112.7687359,
+          "to_lat": -7.447333899999999,
+          "to_lng": 112.7006142,
+          "route_polyline": "lyvk@schoTDbD?rD?`DG|CCv@FlAIlBN?f@@\\@zCJ|BFfCLj@HZNNLTh@pADtFRpBNKrCC`AMlEe@dOU~EExBKhCO~CM|ClCz@n@VRHnA}@n@i@v@m@nCuB`@MR?jBVhQlCxBRx@Lp@PTB@?R@HFHPDRWnBSzCKtAQpA_@~EYxDKN?|CHnC|@lMb@bD`@~Bj@tCjApGbBtIpA~GN`AF~@AxAQjCc@tGCX?pBFt@b@vBj@xAz@vA~AbChAnBp@xAf@jBPfBFlA@tE?bBAjJAfGIpEEbBKrAUdBMr@_@tB[rBExAFtAZjCHtAB`EKjCDNARKtAW~BOz@Gr@Bt@H^N`@h@z@h@v@h@hAFf@Ev@Q`AiAzEc@~BKfAG~@BXHZLP`@LvANhBVb@Hp@Tl@b@^ZPL~@f@xEn@`@DdBRpIfAvLxA|Ez@`@HfH~AxDbA`D~@jCz@pG|BbFxBfErBlCtAzCdBbF`DtH|E|AdAxEtCzEdC|BdAxB~@dFjB`FbBfBh@hGzAzGpAfEp@`Fh@vIt@~RvAvQvAlJ~@rTjC|M~AfDd@|C\\pCXL@vFZ|ENvDHnIAfGMxEW|Ho@jGk@dFa@fESxIKhFDxCDzENrDP|Gn@zC`@lDf@hGhApJnBlCd@jC\\vARh@D|CV|CLtF?vBEfBI~Ea@nB[fB_@`GyAzJyCnLsDfD_A|Cs@~A]fEu@z@OxEq@fBQrCWDEJCRGnAQxEe@z@IbAOh@QnAcA~AcB\\UhAa@vA]f@C~Am@Za@nA}@jAu@lAm@\\QLOd@u@"
         },
         {
-          "from": "Kali Rungkut",
-          "to": "Jalan Kedung Baruk",
+          "from": "Simpang Semolowaru A",
+          "to": "Simpang Semolowaru A",
           "reason": "matched arah",
-          "sentence": "2. Jalan Kedung Baruk arah simpang MACET Kali Rungkut , ada penutupan jalan ;",
-          "from_lat": -7.3235934,
-          "from_lng": 112.7658623,
-          "to_lat": -7.3102007,
-          "to_lng": 112.7754588
+          "sentence": "2. jl. kedung baruk arah simpang MACET jl. kali rungkut , ada penutupan jalan ;",
+          "from_lat": -7.300580000000001,
+          "from_lng": 112.77836,
+          "to_lat": -7.300580000000001,
+          "to_lng": 112.77836,
+          "route_polyline": "x{pk@u_joT"
+        },
+        {
+          "from": "Surabaya",
+          "to": "Halte Simpang Dukuh",
+          "reason": "matched arah",
+          "sentence": "3. jl. raya waru arah  MACET Surabaya , imbas volume .",
+          "from_lat": -7.2574719,
+          "from_lng": 112.7520883,
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "rmhk@q{doT@fClBQJnBhBQzBUbAItF]hEYd@KXWZ]TSVIVChA@zGHhEPhBHf@P^VHNHZAz@q@fEc@vBKh@YfAY`Ai@lBk@~BsAxEa@`BBPJPBDxBh@XFFHFF`Cp@rBl@pBh@zA|@WrAi@|Ai@`B{@xC[fAWdAQj@{BPo@Fw@?qCQsAI_ACeAL{AZYJMESMGMAMAKXu@XaA@C"
         }
       ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "3. Raya Waru arah  MACET Surabaya , imbas volume .",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1810112603332763694",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "07.44: Kawan, sebaiknya HINDARI dulu jalur dari Jalan Wonokromo arah Jalan Darmo. Ada genangan air imbas pipa PDAM yang bocor di area proyek terowongan pejalan kaki Joyoboyo.\n\nBripka Fian Arif petugas Tim Khusus Speed Lantas Polrestabes Surabaya melaporkan pengalihan arus lalu https://t.co/teNoPMj0rv",
@@ -9401,14 +10103,15 @@
     "step3_info": {
       "segments": [
         {
-          "from": "Jalan Darmo",
-          "to": "Jalan Wonokromo",
+          "from": "OJOL SIMPANG 5 BRATANG",
+          "to": "OJOL SIMPANG 5 BRATANG",
           "reason": "matched arah",
           "sentence": "07.44 : Kawan , sebaiknya HINDARI dulu jalur dari  Jalan Wonokromo arah  Jalan Darmo .",
-          "from_lat": -7.287961999999999,
-          "from_lng": 112.7393952,
-          "to_lat": -7.302565,
-          "to_lng": 112.7368231
+          "from_lat": -7.2982071,
+          "from_lng": 112.7538742,
+          "to_lat": -7.2982071,
+          "to_lng": 112.7538742,
+          "route_polyline": "rlpk@ageoT"
         }
       ],
       "single_locations": [
@@ -9423,6 +10126,7 @@
     }
   },
   {
+    "tweet_id": "1806271460450988136",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "17.20:\n1. Simpang empat Jalan Kedung Cowek padat dari segala arah;\n2. Jalan Semarang arah jalan Tembaan-Pasar Turi macet. Ada pengalihan arus;\n3. Medaeng Sidoarjo arah Bungurasih macet;\n4. Jalan Jetak Pandaan Pasuruan arah Surabaya padat, ada perbaikan jembatan. Sebaiknya HINDARI",
@@ -9758,24 +10462,24 @@
       "tweet_text": "17.20: 1. Simpang empat Jalan Kedung Cowek padat dari segala arah; 2. Jalan Semarang arah jalan Tembaan-Pasar Turi macet. Ada pengalihan arus; 3. Medaeng Sidoarjo arah Bungurasih macet; 4. Jalan Jetak Pandaan Pasuruan arah Surabaya padat, ada perbaikan jembatan. Sebaiknya HINDARI",
       "time": "17.20",
       "locations": [
-        "Jalan Kedung Cowek",
-        "Jalan Semarang",
+        "jl. kedung cowek",
+        "jl. semarang",
         "Tembaan-Pasar Turi",
-        "Bungurasih",
+        "bungurasih",
         "Surabaya"
       ],
       "sentences": [
         {
-          "sentence": "17.20 : 1. Simpang empat Jalan Kedung Cowek padat  dari  segala arah  ;",
+          "sentence": "17.20 : 1. Simpang empat jl. kedung cowek padat  dari  segala arah  ;",
           "locations": [
-            "Jalan Kedung Cowek"
+            "jl. kedung cowek"
           ],
           "original_sentence": "17.20: 1. Simpang empat Jalan Kedung Cowek padat dari segala arah"
         },
         {
-          "sentence": "2. Jalan Semarang arah jalan Tembaan-Pasar Turi mac et .",
+          "sentence": "2. jl. semarang arah jalan Tembaan-Pasar Turi mac et .",
           "locations": [
-            "Jalan Semarang",
+            "jl. semarang",
             "Tembaan-Pasar Turi"
           ],
           "original_sentence": "2. Jalan Semarang arah jalan Tembaan-Pasar Turi macet. Ada pengalihan arus"
@@ -9786,9 +10490,9 @@
           "original_sentence": "3. Medaeng Sidoarjo arah Bungurasih macet"
         },
         {
-          "sentence": "3. Medaeng Sidoarjo arah  Bungurasih mac et ;",
+          "sentence": "3. Medaeng Sidoarjo arah  bungurasih mac et ;",
           "locations": [
-            "Bungurasih"
+            "bungurasih"
           ],
           "original_sentence": "4. Jalan Jetak Pandaan Pasuruan arah Surabaya padat, ada perbaikan jembatan. Sebaiknya HINDARI"
         },
@@ -9810,21 +10514,16 @@
       "segments": [
         {
           "from": "Tembaan-Pasar Turi",
-          "to": "Jalan Semarang",
+          "to": "jl. semarang",
           "reason": "matched arah",
-          "sentence": "2. Jalan Semarang arah jalan Tembaan-Pasar Turi mac et ."
+          "sentence": "2. jl. semarang arah jalan Tembaan-Pasar Turi mac et ."
         }
       ],
       "single_locations": [
         {
-          "location": "Jalan Kedung Cowek",
+          "location": "jl. kedung cowek",
           "reason": "single location fallback",
-          "sentence": "17.20 : 1. Simpang empat Jalan Kedung Cowek padat  dari  segala arah  ;"
-        },
-        {
-          "location": "Bungurasih",
-          "reason": "single location fallback",
-          "sentence": "3. Medaeng Sidoarjo arah  Bungurasih mac et ;"
+          "sentence": "17.20 : 1. Simpang empat jl. kedung cowek padat  dari  segala arah  ;"
         },
         {
           "location": "Surabaya",
@@ -9837,29 +10536,23 @@
       "segments": [
         {
           "from": "Tembaan-Pasar Turi",
-          "to": "Jalan Semarang",
+          "to": "jl. semarang",
           "reason": "matched arah",
-          "sentence": "2. Jalan Semarang arah jalan Tembaan-Pasar Turi mac et .",
+          "sentence": "2. jl. semarang arah jalan Tembaan-Pasar Turi mac et .",
           "from_lat": -7.245020599999998,
           "from_lng": 112.7359004,
           "to_lat": -7.2506447,
-          "to_lng": 112.7298728
+          "to_lng": 112.7298728,
+          "route_polyline": "j`fk@kvaoTHAFKPWJSJNRd@lCjIVjAPPj@b@RRLR^LVF`ANzA^n@TPHl@x@fArAv@`AfIlK"
         }
       ],
       "single_locations": [
         {
-          "location": "Jalan Kedung Cowek",
+          "location": "jl. kedung cowek",
           "reason": "single location fallback",
-          "sentence": "17.20 : 1. Simpang empat Jalan Kedung Cowek padat  dari  segala arah  ;",
+          "sentence": "17.20 : 1. Simpang empat jl. kedung cowek padat  dari  segala arah  ;",
           "lat": -7.228740699999999,
           "lng": 112.7743171
-        },
-        {
-          "location": "Bungurasih",
-          "reason": "single location fallback",
-          "sentence": "3. Medaeng Sidoarjo arah  Bungurasih mac et ;",
-          "lat": -7.3474587,
-          "lng": 112.7196817
         },
         {
           "location": "Surabaya",
@@ -9872,6 +10565,7 @@
     }
   },
   {
+    "tweet_id": "1790540069557977151",
     "query": "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
     "user": "Radio Suara Surabaya",
     "text": "Beberapa pendengar SS melaporkan akses untuk kendaraan roda 4 dan roda 2 Perumahan Manyar Tompotika Surabaya ditutup, lalu lintas macet. Command Center Surabaya membenarkan penutupan jalan tersebut, penutupan ditutup oleh pihak perumahan.\n\nBerdasarkan pesan yang diterima Suara https://t.co/SzC0nfRu9Z",
@@ -10171,481 +10865,29 @@
     }
   },
   {
-    "query": "from:e100ss (akses OR ruas) AND (ditutup OR tidak bisa dilewati) surabaya -rapat -acara",
+    "tweet_id": "1941419343168012518",
+    "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
-    "text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021).\n\nSedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm) https://t.co/MYvUKcZAjg",
-    "cleaned_text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)",
-    "created_at": "Wed Jul 07 06:07:55 +0000 2021",
+    "text": "15.50: Info awal #kecelakaan melibatkan mobil di U-turn depan KBS. Posisi mobil naik dan melewati pembatas jalan. Petugas Lantas Polrestabes Surabaya melaporkan, bagi pengguna R4 yang mau putar balik dialihkan lurus ke arah Utara. Berikut laporan selengkapnya dari petugas. https://t.co/fp1LPRKodg",
+    "cleaned_text": "15.50: Info awal melibatkan mobil di U-turn depan KBS. Posisi mobil naik dan melewati pembatas jalan. Petugas Lantas Polrestabes Surabaya melaporkan, bagi pengguna R4 yang mau putar balik dialihkan lurus ke arah Utara. Berikut laporan selengkapnya dari petugas.",
+    "created_at": "Sat Jul 05 08:50:15 +0000 2025",
     "ner_entities": [
       {
         "entity": "TIME",
-        "text": "rabu ( 7 / 7 / 2021 )"
+        "text": "15."
       },
       {
-        "entity": "LOCATION",
-        "text": "bundaran warua. yanifrontage road surabaya"
+        "entity": "QUANTITY",
+        "text": "50"
       },
       {
         "entity": "ORGANIZATION",
-        "text": "polda jatim"
-      },
-      {
-        "entity": "TIME",
-        "text": "( 3 - 6 / 7 / 2021 )"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "surabaya"
-      },
-      {
-        "entity": "TIME",
-        "text": ")"
+        "text": "kbspolrestabes surabaya"
       }
     ],
     "pos_tags": [
       {
-        "word": "Hari",
-        "tag": "NOUN"
-      },
-      {
-        "word": "ini",
-        "tag": "DET"
-      },
-      {
-        "word": ",",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Rabu",
-        "tag": "PROPN"
-      },
-      {
-        "word": "(7",
-        "tag": "NUM"
-      },
-      {
-        "word": "/7/",
-        "tag": "PROPN"
-      },
-      {
-        "word": "2021",
-        "tag": "NUM"
-      },
-      {
-        "word": ")",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "akses",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Bundaran Waru",
-        "tag": "PROPN"
-      },
-      {
-        "word": "ke",
-        "tag": "ADP"
-      },
-      {
-        "word": "A. Yani",
-        "tag": "PROPN"
-      },
-      {
-        "word": "dan",
-        "tag": "CCONJ"
-      },
-      {
-        "word": "Frontage Road Surabaya",
-        "tag": "PROPN"
-      },
-      {
-        "word": "ditutup",
-        "tag": "VERB"
-      },
-      {
-        "word": "total",
-        "tag": "ADJ"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Penutupan",
-        "tag": "NOUN"
-      },
-      {
-        "word": "ini",
-        "tag": "DET"
-      },
-      {
-        "word": "merupakan",
-        "tag": "VERB"
-      },
-      {
-        "word": "evaluasi",
-        "tag": "NOUN"
-      },
-      {
-        "word": "Polda Jatim",
-        "tag": "PROPN"
-      },
-      {
-        "word": "pada",
-        "tag": "ADP"
-      },
-      {
-        "word": "PPKM Darurat",
-        "tag": "PROPN"
-      },
-      {
-        "word": "yang",
-        "tag": "PRON"
-      },
-      {
-        "word": "sudah",
-        "tag": "ADV"
-      },
-      {
-        "word": "berjalan",
-        "tag": "VERB"
-      },
-      {
-        "word": "empat",
-        "tag": "NUM"
-      },
-      {
-        "word": "hari",
-        "tag": "NOUN"
-      },
-      {
-        "word": "(3-6",
-        "tag": "NUM"
-      },
-      {
-        "word": "/7/",
-        "tag": "PROPN"
-      },
-      {
-        "word": "2021",
-        "tag": "NUM"
-      },
-      {
-        "word": ").",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Sedangkan",
-        "tag": "SCONJ"
-      },
-      {
-        "word": "untuk",
-        "tag": "ADP"
-      },
-      {
-        "word": "akses tol",
-        "tag": "NOUN"
-      },
-      {
-        "word": "mengarah",
-        "tag": "VERB"
-      },
-      {
-        "word": "ke",
-        "tag": "ADP"
-      },
-      {
-        "word": "Surabaya",
-        "tag": "PROPN"
-      },
-      {
-        "word": "masih bisa",
-        "tag": "ADV"
-      },
-      {
-        "word": "dilewati",
-        "tag": "VERB"
-      },
-      {
-        "word": ". (",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "hm",
-        "tag": "NOUN"
-      },
-      {
-        "word": ")",
-        "tag": "PUNCT"
-      }
-    ],
-    "merged_tags": [
-      [
-        "Hari",
-        "NOUN"
-      ],
-      [
-        "ini",
-        "DET"
-      ],
-      [
-        ",",
-        "PUNCT"
-      ],
-      [
-        "Rabu",
-        "TIME"
-      ],
-      [
-        "(7",
-        "TIME"
-      ],
-      [
-        "/7/",
-        "TIME"
-      ],
-      [
-        "2021",
-        "TIME"
-      ],
-      [
-        ")",
-        "TIME"
-      ],
-      [
-        "akses",
-        "NOUN"
-      ],
-      [
-        "Bundaran Waru",
-        "LOCATION"
-      ],
-      [
-        "ke",
-        "ADP"
-      ],
-      [
-        "A. Yani",
-        "LOCATION"
-      ],
-      [
-        "dan",
-        "CCONJ"
-      ],
-      [
-        "Frontage Road Surabaya",
-        "LOCATION"
-      ],
-      [
-        "ditutup",
-        "VERB"
-      ],
-      [
-        "total",
-        "ADJ"
-      ],
-      [
-        ".",
-        "LOCATION"
-      ],
-      [
-        "Penutupan",
-        "NOUN"
-      ],
-      [
-        "ini",
-        "DET"
-      ],
-      [
-        "merupakan",
-        "VERB"
-      ],
-      [
-        "evaluasi",
-        "NOUN"
-      ],
-      [
-        "Polda Jatim",
-        "ORGANIZATION"
-      ],
-      [
-        "pada",
-        "ADP"
-      ],
-      [
-        "PPKM Darurat",
-        "PROPN"
-      ],
-      [
-        "yang",
-        "PRON"
-      ],
-      [
-        "sudah",
-        "ADV"
-      ],
-      [
-        "berjalan",
-        "VERB"
-      ],
-      [
-        "empat",
-        "NUM"
-      ],
-      [
-        "hari",
-        "NOUN"
-      ],
-      [
-        "(3-6",
-        "TIME"
-      ],
-      [
-        "/7/",
-        "TIME"
-      ],
-      [
-        "2021",
-        "TIME"
-      ],
-      [
-        ").",
-        "TIME"
-      ],
-      [
-        "Sedangkan",
-        "SCONJ"
-      ],
-      [
-        "untuk",
-        "ADP"
-      ],
-      [
-        "akses tol",
-        "NOUN"
-      ],
-      [
-        "mengarah",
-        "VERB"
-      ],
-      [
-        "ke",
-        "ADP"
-      ],
-      [
-        "Surabaya",
-        "LOCATION"
-      ],
-      [
-        "masih bisa",
-        "ADV"
-      ],
-      [
-        "dilewati",
-        "VERB"
-      ],
-      [
-        ". (",
-        "PUNCT"
-      ],
-      [
-        "hm",
-        "NOUN"
-      ],
-      [
-        ")",
-        "TIME"
-      ]
-    ],
-    "step1_info": {
-      "tweet_text": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)",
-      "time": "06.07",
-      "locations": [
-        "Bundaran Waru",
-        "A. Yani",
-        "Frontage Road Surabaya",
-        "Surabaya"
-      ],
-      "sentences": [
-        {
-          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  A. Yani dan Frontage Road Surabaya ditutup total .",
-          "locations": [
-            "Bundaran Waru",
-            "A. Yani",
-            "Frontage Road Surabaya"
-          ],
-          "original_sentence": "Hari ini, Rabu (7/7/2021) akses Bundaran Waru ke A. Yani dan Frontage Road Surabaya ditutup total. Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6/7/2021). Sedangkan untuk akses tol mengarah ke Surabaya masih bisa dilewati. (hm)"
-        },
-        {
-          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )",
-          "locations": [
-            "Surabaya"
-          ],
-          "original_sentence": ""
-        }
-      ]
-    },
-    "step2_info": {
-      "segments": [
-        {
-          "from": "A. Yani",
-          "to": "Bundaran Waru",
-          "reason": "matched ke",
-          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  A. Yani dan Frontage Road Surabaya ditutup total ."
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )"
-        }
-      ]
-    },
-    "step3_info": {
-      "segments": [
-        {
-          "from": "A. Yani",
-          "to": "Bundaran Waru",
-          "reason": "matched ke",
-          "sentence": "Hari ini , Rabu (7 /7/ 2021 ) akses Bundaran Waru ke  A. Yani dan Frontage Road Surabaya ditutup total .",
-          "from_lat": -7.3370772,
-          "from_lng": 112.7290235,
-          "to_lat": -7.3470103,
-          "to_lng": 112.7275417
-        }
-      ],
-      "single_locations": [
-        {
-          "location": "Surabaya",
-          "reason": "single location fallback",
-          "sentence": "Penutupan ini merupakan evaluasi Polda Jatim pada PPKM Darurat yang sudah berjalan empat hari (3-6 /7/ 2021 ). Sedangkan untuk akses tol mengarah ke  Surabaya masih bisa dilewati . ( hm )",
-          "lat": -7.2574719,
-          "lng": 112.7520883
-        }
-      ]
-    }
-  },
-  {
-    "query": "from:e100ss (akses OR ruas) AND (ditutup OR tidak bisa dilewati) surabaya -rapat -acara",
-    "user": "Radio Suara Surabaya",
-    "text": "11.05:\n1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati;\n2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
-    "cleaned_text": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati; 2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
-    "created_at": "Wed Jul 07 04:06:00 +0000 2021",
-    "ner_entities": [
-      {
-        "entity": "TIME",
-        "text": "11. 05 : 1"
-      },
-      {
-        "entity": "LOCATION",
-        "text": "bundaran warusurabayajalan tambaksari"
-      }
-    ],
-    "pos_tags": [
-      {
-        "word": "11.05",
+        "word": "15.50",
         "tag": "NUM"
       },
       {
@@ -10653,115 +10895,19 @@
         "tag": "PUNCT"
       },
       {
-        "word": "1.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Bundaran Waru",
-        "tag": "PROPN"
-      },
-      {
-        "word": "menuju",
-        "tag": "VERB"
-      },
-      {
-        "word": "ke",
-        "tag": "ADP"
-      },
-      {
-        "word": "Surabaya DITUTUP TOTAL",
-        "tag": "PROPN"
-      },
-      {
-        "word": ",",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "silakan",
-        "tag": "ADV"
-      },
-      {
-        "word": "lewati",
-        "tag": "VERB"
-      },
-      {
-        "word": "jalur",
+        "word": "Info",
         "tag": "NOUN"
       },
       {
-        "word": "alternatif lain",
+        "word": "awal",
         "tag": "ADJ"
       },
       {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Sementara",
-        "tag": "SCONJ"
-      },
-      {
-        "word": "akses tol",
-        "tag": "NOUN"
-      },
-      {
-        "word": "masih bisa",
-        "tag": "ADV"
-      },
-      {
-        "word": "dilewati",
+        "word": "melibatkan",
         "tag": "VERB"
       },
       {
-        "word": ";",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "2.",
-        "tag": "NUM"
-      },
-      {
-        "word": "Jalan Tambaksari",
-        "tag": "PROPN"
-      },
-      {
-        "word": "dan",
-        "tag": "CCONJ"
-      },
-      {
-        "word": "jalur mangarah",
-        "tag": "NOUN"
-      },
-      {
-        "word": "ke",
-        "tag": "ADP"
-      },
-      {
-        "word": "sana",
-        "tag": "NOUN"
-      },
-      {
-        "word": "juga masih",
-        "tag": "ADV"
-      },
-      {
-        "word": "MACET",
-        "tag": "PROPN"
-      },
-      {
-        "word": ".",
-        "tag": "PUNCT"
-      },
-      {
-        "word": "Sudah",
-        "tag": "ADV"
-      },
-      {
-        "word": "ada",
-        "tag": "VERB"
-      },
-      {
-        "word": "petugas",
+        "word": "mobil",
         "tag": "NOUN"
       },
       {
@@ -10769,141 +10915,165 @@
         "tag": "ADP"
       },
       {
-        "word": "lokasi",
+        "word": "U-turn",
+        "tag": "PROPN"
+      },
+      {
+        "word": "depan",
         "tag": "NOUN"
       },
       {
-        "word": ". (",
+        "word": "KBS",
+        "tag": "PROPN"
+      },
+      {
+        "word": ".",
         "tag": "PUNCT"
       },
       {
-        "word": "hm",
+        "word": "Posisi mobil",
         "tag": "NOUN"
       },
       {
-        "word": ")",
+        "word": "naik",
+        "tag": "VERB"
+      },
+      {
+        "word": "dan",
+        "tag": "CCONJ"
+      },
+      {
+        "word": "melewati",
+        "tag": "VERB"
+      },
+      {
+        "word": "pembatas jalan",
+        "tag": "NOUN"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Petugas",
+        "tag": "NOUN"
+      },
+      {
+        "word": "La",
+        "tag": "PROPN"
+      },
+      {
+        "word": "ntas",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Polrestabes Surabaya",
+        "tag": "PROPN"
+      },
+      {
+        "word": "melaporkan",
+        "tag": "VERB"
+      },
+      {
+        "word": ",",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "bagi",
+        "tag": "ADP"
+      },
+      {
+        "word": "pengguna",
+        "tag": "NOUN"
+      },
+      {
+        "word": "R",
+        "tag": "PROPN"
+      },
+      {
+        "word": "4",
+        "tag": "NUM"
+      },
+      {
+        "word": "yang",
+        "tag": "PRON"
+      },
+      {
+        "word": "mau",
+        "tag": "ADV"
+      },
+      {
+        "word": "putar balik dialihkan",
+        "tag": "VERB"
+      },
+      {
+        "word": "lurus",
+        "tag": "ADJ"
+      },
+      {
+        "word": "ke",
+        "tag": "ADP"
+      },
+      {
+        "word": "arah",
+        "tag": "NOUN"
+      },
+      {
+        "word": "Utara",
+        "tag": "PROPN"
+      },
+      {
+        "word": ".",
+        "tag": "PUNCT"
+      },
+      {
+        "word": "Berikut",
+        "tag": "ADV"
+      },
+      {
+        "word": "laporan",
+        "tag": "NOUN"
+      },
+      {
+        "word": "selengkapnya",
+        "tag": "ADJ"
+      },
+      {
+        "word": "dari",
+        "tag": "ADP"
+      },
+      {
+        "word": "petugas",
+        "tag": "NOUN"
+      },
+      {
+        "word": ".",
         "tag": "PUNCT"
       }
     ],
     "merged_tags": [
       [
-        "11.05",
+        "15.50",
         "TIME"
       ],
       [
         ":",
-        "TIME"
-      ],
-      [
-        "1.",
-        "TIME"
-      ],
-      [
-        "Bundaran Waru",
-        "LOCATION"
-      ],
-      [
-        "menuju",
-        "VERB"
-      ],
-      [
-        "ke",
-        "ADP"
-      ],
-      [
-        "Surabaya DITUTUP TOTAL",
-        "PROPN"
-      ],
-      [
-        ",",
         "PUNCT"
       ],
       [
-        "silakan",
-        "ADV"
-      ],
-      [
-        "lewati",
-        "VERB"
-      ],
-      [
-        "jalur",
+        "Info",
         "NOUN"
       ],
       [
-        "alternatif lain",
+        "awal",
         "ADJ"
       ],
       [
-        ".",
-        "TIME"
-      ],
-      [
-        "Sementara",
-        "SCONJ"
-      ],
-      [
-        "akses tol",
-        "NOUN"
-      ],
-      [
-        "masih bisa",
-        "ADV"
-      ],
-      [
-        "dilewati",
+        "melibatkan",
         "VERB"
       ],
       [
-        ";",
-        "PUNCT"
-      ],
-      [
-        "2.",
-        "NUM"
-      ],
-      [
-        "Jalan Tambaksari",
-        "LOCATION"
-      ],
-      [
-        "dan",
-        "CCONJ"
-      ],
-      [
-        "jalur mangarah",
-        "NOUN"
-      ],
-      [
-        "ke",
-        "ADP"
-      ],
-      [
-        "sana",
-        "NOUN"
-      ],
-      [
-        "juga masih",
-        "ADV"
-      ],
-      [
-        "MACET",
-        "PROPN"
-      ],
-      [
-        ".",
-        "TIME"
-      ],
-      [
-        "Sudah",
-        "ADV"
-      ],
-      [
-        "ada",
-        "VERB"
-      ],
-      [
-        "petugas",
+        "mobil",
         "NOUN"
       ],
       [
@@ -10911,51 +11081,164 @@
         "ADP"
       ],
       [
-        "lokasi",
+        "U-turn",
+        "PROPN"
+      ],
+      [
+        "depan",
         "NOUN"
       ],
       [
-        ". (",
-        "PUNCT"
+        "KBS",
+        "ORGANIZATION"
       ],
       [
-        "hm",
+        ".",
+        "TIME"
+      ],
+      [
+        "Posisi mobil",
         "NOUN"
       ],
       [
-        ")",
+        "naik",
+        "VERB"
+      ],
+      [
+        "dan",
+        "CCONJ"
+      ],
+      [
+        "melewati",
+        "VERB"
+      ],
+      [
+        "pembatas jalan",
+        "NOUN"
+      ],
+      [
+        ".",
+        "TIME"
+      ],
+      [
+        "Petugas",
+        "NOUN"
+      ],
+      [
+        "La",
+        "PROPN"
+      ],
+      [
+        "ntas",
+        "NOUN"
+      ],
+      [
+        "Polrestabes Surabaya",
+        "ORGANIZATION"
+      ],
+      [
+        "melaporkan",
+        "VERB"
+      ],
+      [
+        ",",
         "PUNCT"
+      ],
+      [
+        "bagi",
+        "ADP"
+      ],
+      [
+        "pengguna",
+        "NOUN"
+      ],
+      [
+        "R",
+        "ORGANIZATION"
+      ],
+      [
+        "4",
+        "NUM"
+      ],
+      [
+        "yang",
+        "PRON"
+      ],
+      [
+        "mau",
+        "ADV"
+      ],
+      [
+        "putar balik dialihkan",
+        "VERB"
+      ],
+      [
+        "lurus",
+        "ADJ"
+      ],
+      [
+        "ke",
+        "ADP"
+      ],
+      [
+        "arah",
+        "NOUN"
+      ],
+      [
+        "Utara",
+        "PROPN"
+      ],
+      [
+        ".",
+        "TIME"
+      ],
+      [
+        "Berikut",
+        "ADV"
+      ],
+      [
+        "laporan",
+        "NOUN"
+      ],
+      [
+        "selengkapnya",
+        "ADJ"
+      ],
+      [
+        "dari",
+        "ADP"
+      ],
+      [
+        "petugas",
+        "NOUN"
+      ],
+      [
+        ".",
+        "TIME"
       ]
     ],
     "step1_info": {
-      "tweet_text": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati; 2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)",
-      "time": "11.05",
-      "locations": [
-        "Bundaran Waru",
-        "Jalan Tambaksari"
-      ],
+      "tweet_text": "15.50: Info awal melibatkan mobil di U-turn depan KBS. Posisi mobil naik dan melewati pembatas jalan. Petugas Lantas Polrestabes Surabaya melaporkan, bagi pengguna R4 yang mau putar balik dialihkan lurus ke arah Utara. Berikut laporan selengkapnya dari petugas.",
+      "time": "15.50",
+      "locations": [],
       "sentences": [
         {
-          "sentence": "11.05 : 1. Bundaran Waru menuju  ke  Surabaya DITUTUP TOTAL , silakan lewati jalur alternatif lain .",
-          "locations": [
-            "Bundaran Waru"
-          ],
-          "original_sentence": "11.05: 1. Bundaran Waru menuju ke Surabaya DITUTUP TOTAL, silakan lewati jalur alternatif lain. Sementara akses tol masih bisa dilewati"
-        },
-        {
-          "sentence": "Sementara akses tol masih bisa dilewati ;",
+          "sentence": "15.50 : Info awal melibatkan mobil di U-turn depan KBS .",
           "locations": [],
-          "original_sentence": "2. Jalan Tambaksari dan jalur mangarah ke sana juga masih MACET. Sudah ada petugas di lokasi. (hm)"
+          "original_sentence": "15.50: Info awal melibatkan mobil di U-turn depan KBS. Posisi mobil naik dan melewati pembatas jalan. Petugas Lantas Polrestabes Surabaya melaporkan, bagi pengguna R4 yang mau putar balik dialihkan lurus ke arah Utara. Berikut laporan selengkapnya dari petugas."
         },
         {
-          "sentence": "2. Jalan Tambaksari dan jalur mangarah ke  sana juga masih MACET  .",
-          "locations": [
-            "Jalan Tambaksari"
-          ],
+          "sentence": "Posisi mobil naik dan melewati pembatas jalan .",
+          "locations": [],
           "original_sentence": ""
         },
         {
-          "sentence": "Sudah ada petugas di lokasi . ( hm )",
+          "sentence": "Petugas La ntas Polrestabes Surabaya melaporkan , bagi pengguna R 4 yang mau putar balik dialihkan lurus ke  arah  Utara .",
+          "locations": [],
+          "original_sentence": ""
+        },
+        {
+          "sentence": "Berikut laporan selengkapnya dari  petugas .",
           "locations": [],
           "original_sentence": ""
         }
@@ -10963,40 +11246,15 @@
     },
     "step2_info": {
       "segments": [],
-      "single_locations": [
-        {
-          "location": "Bundaran Waru",
-          "reason": "single location fallback",
-          "sentence": "11.05 : 1. Bundaran Waru menuju  ke  Surabaya DITUTUP TOTAL , silakan lewati jalur alternatif lain ."
-        },
-        {
-          "location": "Jalan Tambaksari",
-          "reason": "single location fallback",
-          "sentence": "2. Jalan Tambaksari dan jalur mangarah ke  sana juga masih MACET  ."
-        }
-      ]
+      "single_locations": []
     },
     "step3_info": {
       "segments": [],
-      "single_locations": [
-        {
-          "location": "Bundaran Waru",
-          "reason": "single location fallback",
-          "sentence": "11.05 : 1. Bundaran Waru menuju  ke  Surabaya DITUTUP TOTAL , silakan lewati jalur alternatif lain .",
-          "lat": -7.3470103,
-          "lng": 112.7275417
-        },
-        {
-          "location": "Jalan Tambaksari",
-          "reason": "single location fallback",
-          "sentence": "2. Jalan Tambaksari dan jalur mangarah ke  sana juga masih MACET  .",
-          "lat": -7.4061004,
-          "lng": 112.6696868
-        }
-      ]
+      "single_locations": []
     }
   },
   {
+    "tweet_id": "1935657359189430540",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "18.01: Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan. Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya, Kamis (19/6/2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu. (SS-AL)",
@@ -11268,21 +11526,21 @@
       "tweet_text": "18.01: Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan. Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya, Kamis (19/6/2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu. ()",
       "time": "18.01",
       "locations": [
-        "Jalan Pahlawan",
-        "Jalan Pahlawan"
+        "jl. pahlawan",
+        "jl. pahlawan"
       ],
       "sentences": [
         {
-          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan .",
+          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di jl. pahlawan .",
           "locations": [
-            "Jalan Pahlawan"
+            "jl. pahlawan"
           ],
           "original_sentence": "18.01: Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan. Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya, Kamis (19/6/2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu. ()"
         },
         {
-          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu . ()",
+          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di jl. pahlawan dialihkan untuk sementara waktu . ()",
           "locations": [
-            "Jalan Pahlawan"
+            "jl. pahlawan"
           ],
           "original_sentence": ""
         }
@@ -11292,14 +11550,14 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Pahlawan",
+          "location": "jl. pahlawan",
           "reason": "single location fallback",
-          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan ."
+          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di jl. pahlawan ."
         },
         {
-          "location": "Jalan Pahlawan",
+          "location": "jl. pahlawan",
           "reason": "single location fallback",
-          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu . ()"
+          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di jl. pahlawan dialihkan untuk sementara waktu . ()"
         }
       ]
     },
@@ -11307,16 +11565,16 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Pahlawan",
+          "location": "jl. pahlawan",
           "reason": "single location fallback",
-          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di Jalan Pahlawan .",
+          "sentence": "18.01 : Massa aksi unjuk rasa gabungan sopir truk masih bertahan di jl. pahlawan .",
           "lat": -7.4481608,
           "lng": 112.7020566
         },
         {
-          "location": "Jalan Pahlawan",
+          "location": "jl. pahlawan",
           "reason": "single location fallback",
-          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di Jalan Pahlawan dialihkan untuk sementara waktu . ()",
+          "sentence": "Ipda Slamet Purwono Kasubdit 1 Turjawali Polrestabes Surabaya , Kamis (19 /6 /2025) saat ini lalu lintas yang mengarah di jl. pahlawan dialihkan untuk sementara waktu . ()",
           "lat": -7.4481608,
           "lng": 112.7020566
         }
@@ -11324,6 +11582,7 @@
     }
   },
   {
+    "tweet_id": "1930106302329696412",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "10.36: Ada unjuk rasa di Jalan Kombes. Pol M. Duryat, Surabaya. Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan, arus dari Jalan Basuki Rahmat ke kiri menuju Kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari. (SS-RN)",
@@ -11605,8 +11864,8 @@
       "locations": [
         "Pol M. Duryat",
         "Surabaya",
-        "Jalan Basuki Rahmat",
-        "Kedungdoro",
+        "jalan basuki rahmat",
+        "jl. kedungdoro",
         "Jalan Tegalsari"
       ],
       "sentences": [
@@ -11624,10 +11883,10 @@
           "original_sentence": ""
         },
         {
-          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  Jalan Basuki Rahmat ke  kiri menuju  Kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()",
+          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  jalan basuki rahmat ke  kiri menuju  jl. kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()",
           "locations": [
-            "Jalan Basuki Rahmat",
-            "Kedungdoro",
+            "jalan basuki rahmat",
+            "jl. kedungdoro",
             "Jalan Tegalsari"
           ],
           "original_sentence": ""
@@ -11643,10 +11902,10 @@
           "sentence": "Pol M. Duryat , Surabaya ."
         },
         {
-          "from": "Jalan Basuki Rahmat",
-          "to": "Jalan Basuki Rahmat",
+          "from": "jalan basuki rahmat",
+          "to": "jl. kedungdoro",
           "reason": "explicit dari-ke",
-          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  Jalan Basuki Rahmat ke  kiri menuju  Kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()"
+          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  jalan basuki rahmat ke  kiri menuju  jl. kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()"
         }
       ],
       "single_locations": []
@@ -11655,29 +11914,32 @@
       "segments": [
         {
           "from": "Pol M. Duryat",
-          "to": "Surabaya",
+          "to": "Jl. Kombes Pol. Moh. Duryat",
           "reason": "fallback pair",
           "sentence": "Pol M. Duryat , Surabaya .",
           "from_lat": -7.451450699999999,
           "from_lng": 112.7202744,
-          "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lat": -7.268655000000001,
+          "to_lng": 112.739804,
+          "route_polyline": "pjnl@ut~nTr@eCmAY}Dw@yCm@{AY_@MiFs@mAdHsA~JcSgCsHcA_Fm@aC]wFs@}AOkBWoD_@sBYyD]eBEeBHaBL_AFgBFY?kAOc@Ku@YyCsA}As@u@UaCe@{BW}CYeC]wIeAeWeD{LeB{IkAsRgCqPkBqI_AcE[iGc@yCMcEYuBMcFWaBEiI_@yJW{IWS?{L[oJ[yBK{I_@wDKgFO}BGiEOcBEsCC}KUkIQ}MW}Qg@mEK{GSo@AoCb@aDjAq@RiAPW@aEOwAOa@Gs@Sg@Sc@WiAm@q@WqAi@yKEoQSeIGsC?sBCaCCmFDgC@sDCgD?mCCqB?{G?oA?mEBaFN]D{AFoB@wDOuAAeHIg@@e@Dm@Fi@N}@h@CD@VCd@Kf@Wf@aAbASFq@RiAH_AG}@U[Qe@a@Ye@Oo@Ai@C_@GYMUOQKC}@I}AIy@EwAA{AAy@A}FAcEB}E?oA?wFAsDGcBO_BWcEk@oEw@qEo@{Eu@cBYe@GqFs@iEg@}@Aa@Hi@Tg@DgBZw@FkAB_@C]Ok@]sCqBs@Yk@MiC]sNiBwEi@qC[YI_AIaAOkAMkHaAgNeB}@I{Dk@wJqAyAQOo@wDe@}ASaGq@iAMa@@a@HUAQCQAeA[s@Y[OsC_@eAQuAUeAS{Dm@y@M_D]iDSwDg@qC_@{Ei@mBKc@C]E{@c@aA{@wAiCi@k@a@S{@Sk@Gg@?kABcADiACm@CgCHkEDoGP}EJcADgCDy@CsEo@iGm@qAKwDc@{Go@eSwB}MyAkFo@qDi@y@M{CYcEe@kASiE{@OCm@@k@JkAZyBl@}@JiHLgA@o@@wAHI~@O`BK`AQvAE\\g@E"
         },
         {
-          "from": "Jalan Basuki Rahmat",
-          "to": "Jalan Basuki Rahmat",
+          "from": "jalan basuki rahmat",
+          "to": "Halte Simpang Dukuh",
           "reason": "explicit dari-ke",
-          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  Jalan Basuki Rahmat ke  kiri menuju  Kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()",
+          "sentence": "Aipda Agung Andri Anggota Tim Khusus Satlantas Polrestabes Surabaya melaporkan , arus dari  jalan basuki rahmat ke  kiri menuju  jl. kedungdoro ditutup dan dialihkan melalui Jalan Tegalsari . ()",
           "from_lat": -7.267292299999999,
           "from_lng": 112.7412141,
-          "to_lat": -7.267292299999999,
-          "to_lng": 112.7412141
+          "to_lat": -7.2629239,
+          "to_lng": 112.7418576,
+          "route_polyline": "pkjk@qwboT{ARCASAa@A{BPo@Fw@?yBOy@Eq@E_ACeAL{AZYJMESMI[AKXu@XaA@C"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1909055571464229190",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "#SSInfo: Jalur Pamekasan menuju ke Surabaya dialihkan melalui jalur alternatif karena ada kegiatan Perperan di Raya Bandaran, Tlanakan, Pamekasan, mulai Senin--Selasa, 7-8 April 2025 pukul 15.00-19.00 WIB.\n\nBerikut jalur alternatif yang bisa dilewati: \nJalan Kabupaten-Jalan https://t.co/3R19P3MioS",
@@ -12078,6 +12340,7 @@
     }
   },
   {
+    "tweet_id": "1896082589360013734",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "13.17: Banjir di Jalan Boboh Menganti Gresik dengan tinggi sekitar 75 cm. Apda Abdul Kanit Lantas Polsek Mengantri mengabarkan, lalu lintas  dari arah Boboh ke Surabaya dialihkan ke Bringkang/Legundi. Sebaliknya dari arah Surabaya ke Boboh dialihkan ke Desa Palemwatu. (SS-TM)",
@@ -12469,7 +12732,8 @@
           "from_lat": -7.2574719,
           "from_lng": 112.7520883,
           "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lng": 112.7520883,
+          "route_polyline": "rmhk@q{doT"
         },
         {
           "from": "Surabaya",
@@ -12479,13 +12743,15 @@
           "from_lat": -7.2574719,
           "from_lng": 112.7520883,
           "to_lat": -7.2574719,
-          "to_lng": 112.7520883
+          "to_lng": 112.7520883,
+          "route_polyline": "rmhk@q{doT"
         }
       ],
       "single_locations": []
     }
   },
   {
+    "tweet_id": "1828624895678591318",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "09.45: \n1. Jalan Mayjen Sungkono arah Adityawarman ditutup. Sandi pendengar SS melaporkan, lalu lintas dialihkan di Jalan Bintang Diponggo, ada kegiatan pendaftaran Pilwali di KPU Surabaya;\n2. Jalan Tenggilis arah Kendangsari juga ditutup, ada kegiatan pendaftaran Pilgub di KPU",
@@ -12793,22 +13059,22 @@
       "tweet_text": "09.45: 1. Jalan Mayjen Sungkono arah Adityawarman ditutup. Sandi  melaporkan, lalu lintas dialihkan di Jalan Bintang Diponggo, ada kegiatan pendaftaran Pilwali di KPU Surabaya; 2. Jalan Tenggilis arah Kendangsari juga ditutup, ada kegiatan pendaftaran Pilgub di KPU",
       "time": "09.45",
       "locations": [
-        "Jalan Mayjen Sungkono",
-        "Jalan Bintang Diponggo",
+        "jl. mayjen sungkono",
+        "jl. bintang diponggo",
         "Jalan Tenggilis"
       ],
       "sentences": [
         {
-          "sentence": "09.45 : 1. Jalan Mayjen Sungkono arah  Adityawarman ditutup .",
+          "sentence": "09.45 : 1. jl. mayjen sungkono arah  Adityawarman ditutup .",
           "locations": [
-            "Jalan Mayjen Sungkono"
+            "jl. mayjen sungkono"
           ],
           "original_sentence": "09.45: 1. Jalan Mayjen Sungkono arah Adityawarman ditutup. Sandi  melaporkan, lalu lintas dialihkan di Jalan Bintang Diponggo, ada kegiatan pendaftaran Pilwali di KPU Surabaya"
         },
         {
-          "sentence": "Sandi melaporkan , lalu lintas dialihkan di Jalan Bintang Diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;",
+          "sentence": "Sandi melaporkan , lalu lintas dialihkan di jl. bintang diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;",
           "locations": [
-            "Jalan Bintang Diponggo"
+            "jl. bintang diponggo"
           ],
           "original_sentence": "2. Jalan Tenggilis arah Kendangsari juga ditutup, ada kegiatan pendaftaran Pilgub di KPU"
         },
@@ -12825,14 +13091,14 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Mayjen Sungkono",
+          "location": "jl. mayjen sungkono",
           "reason": "single location fallback",
-          "sentence": "09.45 : 1. Jalan Mayjen Sungkono arah  Adityawarman ditutup ."
+          "sentence": "09.45 : 1. jl. mayjen sungkono arah  Adityawarman ditutup ."
         },
         {
-          "location": "Jalan Bintang Diponggo",
+          "location": "jl. bintang diponggo",
           "reason": "single location fallback",
-          "sentence": "Sandi melaporkan , lalu lintas dialihkan di Jalan Bintang Diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;"
+          "sentence": "Sandi melaporkan , lalu lintas dialihkan di jl. bintang diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;"
         },
         {
           "location": "Jalan Tenggilis",
@@ -12845,16 +13111,16 @@
       "segments": [],
       "single_locations": [
         {
-          "location": "Jalan Mayjen Sungkono",
+          "location": "jl. mayjen sungkono",
           "reason": "single location fallback",
-          "sentence": "09.45 : 1. Jalan Mayjen Sungkono arah  Adityawarman ditutup .",
+          "sentence": "09.45 : 1. jl. mayjen sungkono arah  Adityawarman ditutup .",
           "lat": -7.291445599999999,
           "lng": 112.717254
         },
         {
-          "location": "Jalan Bintang Diponggo",
+          "location": "jl. bintang diponggo",
           "reason": "single location fallback",
-          "sentence": "Sandi melaporkan , lalu lintas dialihkan di Jalan Bintang Diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;",
+          "sentence": "Sandi melaporkan , lalu lintas dialihkan di jl. bintang diponggo , ada kegiatan pendaftaran Pilwali di KPU Surabaya ;",
           "lat": -7.2892565,
           "lng": 112.7169757
         },
@@ -12869,6 +13135,7 @@
     }
   },
   {
+    "tweet_id": "1828588275742974235",
     "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
     "user": "Radio Suara Surabaya",
     "text": "07.19: Arus lalu lintas di Jalan Setail Surabaya dialihkan karena digunakan untuk titik kumpul salah satu pasangan calon Pilkada 2024.(odp-is)",
