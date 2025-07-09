@@ -5,6 +5,7 @@ from scraper_location.utils.tag_utils import processing_location_tags
 from scraper_location.utils.merger import merge_adjacents_locations
 from scraper_location.utils.location_snapper import snap_location_pair, is_area
 from scraper_location.utils.nearby_search_place import check_pair_sanity
+from scraper_location.utils.filter_segment import filter_segments_for_closure_only
 from traffic.utils import can_make_directions_call
 from traffic.models import TrafficSegment
 from scraper_location.utils.google_client import get_directions_polyline

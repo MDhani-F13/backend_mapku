@@ -76,3 +76,55 @@
 {"location": "OJOL SIMPANG 5 BRATANG", "lat": -7.2982071, "lng": 112.7538742, "reason": "google_places_snap"}
 {"location": "OJOL SIMPANG 5 BRATANG", "lat": -7.2982071, "lng": 112.7538742, "reason": "google_places_snap"}
 {"location": "Halte Simpang Dukuh", "lat": -7.2629239, "lng": 112.7418576, "reason": "google_places_snap"}
+{"action": "snap_to", "original": "jl. gayung kebonsari", "new": "Simpang Tiga Jemur", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_from", "original": "Jalan Pakis", "new": "Halte Simpang Prapanca - Dr. Soetomo", "used_lat": -7.288795099999999, "used_lng": 112.7305754}
+{"action": "snap_from_both", "original": "jl. raya darmo", "new": "Simpang Barata Jaya 2"}
+{"action": "snap_to_both", "original": "jl. raya darmo", "new": "Simpang Barata Jaya 2"}
+{"action": "snap_from_both", "original": "Waru", "new": "Simpang Empat Rungkut"}
+{"action": "snap_to_both", "original": "Tol Sidoarjo", "new": "Halte Exit Tol Sidoarjo"}
+{"action": "snap_from_both", "original": "jl. kali rungkut", "new": "Toko Simpang Damai"}
+{"action": "snap_to_both", "original": "jl. kedung baruk", "new": "Simpang Semolowaru A"}
+{"action": "snap_to", "original": "jl. raya waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from_both", "original": "Jalan Darmo", "new": "Simpang Barata Jaya 2"}
+{"action": "snap_to_both", "original": "Jalan Wonokromo", "new": "GAYATRI TREM - ENTRY EXIT UTAMA"}
+{"action": "snap_to", "original": "Bundaran Waru", "new": "Parkir Lancar 1", "used_lat": -7.3370772, "used_lng": 112.7290235}
+{"action": "snap_from", "original": "jl. nyamplungan", "new": "Simpang Gembong Tebasan A", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from", "original": "Bundaran Waru", "new": "Kantor Dinas Perhubungan Jawa Timur", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_to", "original": "jl. raya waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from", "original": "Waru", "new": "Simpang Tenggilis Barat B", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_to", "original": "jl. raya waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from", "original": "Waru", "new": "Wonocolo", "used_lat": -7.3045786, "used_lng": 112.7250735}
+{"action": "snap_to", "original": "Bundaran Waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from_both", "original": "jl. sukomanunggal", "new": "Pasar Simpang Darmo permai"}
+{"action": "snap_to_both", "original": "Jalan Manukan Kulon", "new": "Pasar Simpang Darmo permai"}
+{"action": "snap_from_both", "original": "Waru", "new": "Simpang Empat Rungkut"}
+{"action": "snap_to_both", "original": "KM 751 Tol Sidoarjo", "new": "TOKO SIMPANG TIGA"}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "SIMPANG MEDAENG"}
+{"action": "snap_from_both", "original": "Terminal Benowo", "new": "GRAHA SURYANATA"}
+{"action": "snap_to_both", "original": "Jalan Kendangsari", "new": "Toko Simpang Damai"}
+{"action": "snap_from_both", "original": "Kenjeran", "new": "Nasi goreng pak kacong"}
+{"action": "snap_to_both", "original": "jl. kapasan", "new": "Simpang Nyamplungan 1 - Nyamplungan Raya"}
+{"action": "snap_from_both", "original": "Wonokromo", "new": "OJOL SIMPANG 5 BRATANG"}
+{"action": "snap_to_both", "original": "jl. raya darmo", "new": "Simpang Barata Jaya 2"}
+{"action": "snap_to", "original": "jl. raya waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_to", "original": "jl. kedungdoro", "new": "Simpang Apotik", "used_lat": -7.267292299999999, "used_lng": 112.7412141}
+{"action": "snap_to", "original": "Bundaran Waru", "new": "Parkir Lancar 1", "used_lat": -7.3370772, "used_lng": 112.7290235}
+{"action": "snap_from_both", "original": "Waru", "new": "Simpang Empat Rungkut"}
+{"action": "snap_to_both", "original": "Tol Sidoarjo", "new": "Halte Exit Tol Sidoarjo"}
+{"action": "snap_to", "original": "Exit Tol Waru", "new": "Pintu Keluar Tol Waru", "used_lat": -7.3453319, "used_lng": 112.7274935}
+{"action": "snap_from", "original": "Bundaran Waru", "new": "Kantor Dinas Perhubungan Jawa Timur", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_to_both", "original": "Exit Tol Waru", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_from", "original": "Waru", "new": "Simpang Tenggilis Barat B", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_from", "original": "Waru", "new": "POS POLISI SIMPANG LAYANG WONOKROMO", "used_lat": -7.3045786, "used_lng": 112.7250735}
+{"action": "snap_to", "original": "Bundaran Waru", "new": "Kaliasin", "used_lat": -7.2574719, "used_lng": 112.7520883}
+{"action": "snap_from_both", "original": "Waru", "new": "Simpang Empat Rungkut"}
+{"action": "snap_to_both", "original": "KM 751 Tol Sidoarjo", "new": "TOKO SIMPANG TIGA"}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_from", "original": "Terminal Benowo", "new": "GRAHA SURYANATA", "used_lat": -7.237204, "used_lng": 112.6186601}
+{"action": "snap_from", "original": "berbek industri", "new": "PT. Anugerah Maju Indonesia", "used_lat": -7.323015399999999, "used_lng": 112.7499837}
+{"action": "snap_from", "original": "Kenjeran", "new": "Nasi goreng pak kacong", "used_lat": -7.239507499999998, "used_lng": 112.7487299}
+{"action": "snap_from", "original": "Wonokromo", "new": "POS POLISI SIMPANG LAYANG WONOKROMO", "used_lat": -7.287961999999999, "used_lng": 112.7393952}
+{"action": "snap_to", "original": "Bundaran Waru", "new": "Parkir Lancar 1", "used_lat": -7.3370772, "used_lng": 112.7290235}

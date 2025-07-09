@@ -17,6 +17,8 @@ KELURAHAN_SURABAYA = load_json("daftar_kelurahan_surabaya.json")
 KELURAHAN_SIDOARJO = load_json("daftar_kelurahan_sidoarjo.json")
 
 MAJOR_AREAS = {
+    "kota": ["surabaya", "sidoarjo"],
+
     "surabaya": {
         "kecamatan": KECAMATAN_SURABAYA,
         "kelurahan": KELURAHAN_SURABAYA,

@@ -2411,7 +2411,7 @@
   },
   "313109d05700576584514bd886c109a5": {
     "input": "exit tol waru",
-    "valid": false,
+    "valid": true,
     "place_id": "ChIJ-ffBSFXj1y0RBaXFnjtPqDs",
     "name": "Pintu Keluar Tol Waru",
     "formatted_address": "bungurasih, kec. waru, kabupaten sidoarjo, jawa timur, indonesia",
@@ -4110,7 +4110,7 @@
   },
   "3541d2ae4605494a9a9c768899b9ac08": {
     "input": "cito",
-    "valid": false,
+    "valid": true,
     "place_id": "ChIJnxwXwqn81y0R3EtSzna8re8",
     "name": "City of Tomorrow Mall",
     "formatted_address": "jl. ahmad yani no.288, dukuh menanggal, kec. gayungan, surabaya, jawa timur 60234, indonesia",
@@ -4422,5 +4422,29 @@
     ],
     "lat": -7.239507499999998,
     "lng": 112.7487299
+  },
+  "2a611cf98a392b992a73314f3cc9658f": {
+    "input": "jl. raya kendangsari",
+    "valid": true,
+    "place_id": "ChIJhVfQVBb71y0R8kxC9pN4OOE",
+    "name": "Jl. Raya Kendangsari",
+    "formatted_address": "jl. raya kendangsari, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.323015399999999,
+    "lng": 112.7499837
+  },
+  "73b4d51e3219bbb9a10b85cf7493574d": {
+    "input": "jl. tambaksari",
+    "valid": true,
+    "place_id": "ChIJoyDVb7Pj1y0RiOtRQptxHHY",
+    "name": "Jl. Tambaksari",
+    "formatted_address": "jl. tambaksari, pekarungan, kec. sukodono, kabupaten sidoarjo, jawa timur 61258, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.4061092,
+    "lng": 112.6697227
   }
 }

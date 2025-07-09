@@ -627,3 +627,458 @@
 {"buffer": ["Jalan Tenggilis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tenggilis", "valid": true}], "timestamp": "2025-07-07T22:16:14.490217"}
 {"buffer": ["Kendangsari"], "combined_valid": false, "parts_valid": [{"part": "Kendangsari", "valid": false}], "timestamp": "2025-07-07T22:16:14.513749"}
 {"buffer": ["Jalan Setail Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Setail Surabaya", "valid": true}], "timestamp": "2025-07-07T22:16:14.623951"}
+{"buffer": ["Kantor Polda Jatim"], "combined_valid": false, "parts_valid": [{"part": "Kantor Polda Jatim", "valid": false}], "timestamp": "2025-07-08T12:10:06.141015"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T12:10:06.155792"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:06.194860"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T12:10:06.207373"}
+{"buffer": ["Jalan Gayung Kebonsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gayung Kebonsari", "valid": true}], "timestamp": "2025-07-08T12:10:06.211371"}
+{"buffer": ["Jalan"], "combined_valid": false, "parts_valid": [{"part": "Jalan", "valid": false}], "timestamp": "2025-07-08T12:10:06.248324"}
+{"buffer": ["Jalan Gubernur Suryo Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:07.663104"}
+{"buffer": ["Gedung Grahadi"], "combined_valid": false, "parts_valid": [{"part": "Gedung Grahadi", "valid": false}], "timestamp": "2025-07-08T12:10:07.705511"}
+{"buffer": ["Jalan Gubernur Suryo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo", "valid": true}], "timestamp": "2025-07-08T12:10:07.748976"}
+{"buffer": ["Jalan Raya Mlandingan"], "combined_valid": false, "parts_valid": [{"part": "Jalan Raya Mlandingan", "valid": false}], "timestamp": "2025-07-08T12:10:08.001971"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T12:10:08.041296"}
+{"buffer": ["Banyuwangi"], "combined_valid": false, "parts_valid": [{"part": "Banyuwangi", "valid": false}], "timestamp": "2025-07-08T12:10:08.080812"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:08.119383"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T12:10:08.548919"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:08.590463"}
+{"buffer": ["", "Ketapang"], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}, {"part": "Ketapang", "valid": false}], "timestamp": "2025-07-08T12:10:08.638672"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T12:10:08.896915"}
+{"buffer": ["Jalan Pakis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakis", "valid": true}], "timestamp": "2025-07-08T12:10:09.074906"}
+{"buffer": ["Jalan Patmosusastro"], "combined_valid": true, "parts_valid": [{"part": "Jalan Patmosusastro", "valid": true}], "timestamp": "2025-07-08T12:10:09.084973"}
+{"buffer": ["Jalan Indragiri", "mac", "et"], "combined_valid": false, "parts_valid": [{"part": "Jalan Indragiri", "valid": true}, {"part": "mac", "valid": false}, {"part": "et", "valid": false}], "timestamp": "2025-07-08T12:10:09.151530"}
+{"buffer": ["Kantor KPU Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Kantor KPU Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:09.194793"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:10.202416"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:10.420994"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:10.642963"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T12:10:10.889615"}
+{"buffer": ["Ada"], "combined_valid": false, "parts_valid": [{"part": "Ada", "valid": false}], "timestamp": "2025-07-08T12:10:11.101965"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T12:10:11.142730"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T12:10:11.150431"}
+{"buffer": ["Dinoyo"], "combined_valid": false, "parts_valid": [{"part": "Dinoyo", "valid": false}], "timestamp": "2025-07-08T12:10:11.189899"}
+{"buffer": ["Majapahit"], "combined_valid": false, "parts_valid": [{"part": "Majapahit", "valid": false}], "timestamp": "2025-07-08T12:10:11.227746"}
+{"buffer": ["Diponegoro"], "combined_valid": true, "parts_valid": [{"part": "Diponegoro", "valid": true}], "timestamp": "2025-07-08T12:10:11.246065"}
+{"buffer": ["Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T12:10:12.576337"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T12:10:12.613642"}
+{"buffer": ["Jalan Kedung Baruk"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Baruk", "valid": true}], "timestamp": "2025-07-08T12:10:12.621795"}
+{"buffer": ["Kali Rungkut"], "combined_valid": true, "parts_valid": [{"part": "Kali Rungkut", "valid": true}], "timestamp": "2025-07-08T12:10:12.653619"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T12:10:12.695741"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:12.750005"}
+{"buffer": ["Jalan Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Wonokromo", "valid": true}], "timestamp": "2025-07-08T12:10:18.828347"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T12:10:18.869620"}
+{"buffer": ["Joyoboyo"], "combined_valid": true, "parts_valid": [{"part": "Joyoboyo", "valid": true}], "timestamp": "2025-07-08T12:10:18.911759"}
+{"buffer": ["Jalan Kedung Cowek"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Cowek", "valid": true}], "timestamp": "2025-07-08T12:10:20.008614"}
+{"buffer": ["Jalan Semarang"], "combined_valid": true, "parts_valid": [{"part": "Jalan Semarang", "valid": true}], "timestamp": "2025-07-08T12:10:20.015945"}
+{"buffer": ["Tembaan-Pasar Turi"], "combined_valid": true, "parts_valid": [{"part": "Tembaan-Pasar Turi", "valid": true}], "timestamp": "2025-07-08T12:10:20.058761"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T12:10:20.097140"}
+{"buffer": ["Medaeng Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Medaeng Sidoarjo", "valid": false}], "timestamp": "2025-07-08T12:10:20.140868"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T12:10:20.167899"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T12:10:20.207882"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:20.247187"}
+{"buffer": ["Perumahan Manyar Tompotika Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Perumahan Manyar Tompotika Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:20.800913"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T12:10:21.032671"}
+{"buffer": ["A. Yani"], "combined_valid": true, "parts_valid": [{"part": "A. Yani", "valid": true}], "timestamp": "2025-07-08T12:10:21.061966"}
+{"buffer": ["Frontage Road Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Frontage Road Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:21.105623"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:21.145785"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T12:10:22.139522"}
+{"buffer": ["Jalan Tambaksari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tambaksari", "valid": true}], "timestamp": "2025-07-08T12:10:22.170289"}
+{"buffer": ["Sampang"], "combined_valid": false, "parts_valid": [{"part": "Sampang", "valid": false}], "timestamp": "2025-07-08T12:10:22.384509"}
+{"buffer": ["Blega"], "combined_valid": false, "parts_valid": [{"part": "Blega", "valid": false}], "timestamp": "2025-07-08T12:10:22.423712"}
+{"buffer": ["Madura"], "combined_valid": false, "parts_valid": [{"part": "Madura", "valid": false}], "timestamp": "2025-07-08T12:10:22.461592"}
+{"buffer": ["Tambakoso"], "combined_valid": false, "parts_valid": [{"part": "Tambakoso", "valid": false}], "timestamp": "2025-07-08T12:10:22.500516"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:22.538444"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T12:10:22.578112"}
+{"buffer": ["Margomulyo"], "combined_valid": true, "parts_valid": [{"part": "Margomulyo", "valid": true}], "timestamp": "2025-07-08T12:10:22.879036"}
+{"buffer": ["Tambak Osowilangun"], "combined_valid": false, "parts_valid": [{"part": "Tambak Osowilangun", "valid": false}], "timestamp": "2025-07-08T12:10:22.921923"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:22.962805"}
+{"buffer": ["Cito"], "combined_valid": false, "parts_valid": [{"part": "Cito", "valid": false}], "timestamp": "2025-07-08T12:10:23.001979"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T12:10:23.045708"}
+{"buffer": ["Jalan Nyamplungan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Nyamplungan", "valid": true}], "timestamp": "2025-07-08T12:10:23.127748"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:23.166401"}
+{"buffer": ["Trosobo"], "combined_valid": false, "parts_valid": [{"part": "Trosobo", "valid": false}], "timestamp": "2025-07-08T12:10:23.203033"}
+{"buffer": ["Krian"], "combined_valid": true, "parts_valid": [{"part": "Krian", "valid": true}], "timestamp": "2025-07-08T12:10:23.240722"}
+{"buffer": ["Kertosono"], "combined_valid": false, "parts_valid": [{"part": "Kertosono", "valid": false}], "timestamp": "2025-07-08T12:10:23.886751"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:23.928766"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T12:10:23.942738"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T12:10:23.983873"}
+{"buffer": ["Jalan Randegansari"], "combined_valid": false, "parts_valid": [{"part": "Jalan Randegansari", "valid": false}], "timestamp": "2025-07-08T12:10:24.023680"}
+{"buffer": ["Lakar Santri"], "combined_valid": false, "parts_valid": [{"part": "Lakar Santri", "valid": false}], "timestamp": "2025-07-08T12:10:24.064906"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T12:10:24.614794"}
+{"buffer": ["Jalan Raya Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Raya Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:24.657827"}
+{"buffer": ["Malang"], "combined_valid": false, "parts_valid": [{"part": "Malang", "valid": false}], "timestamp": "2025-07-08T12:10:24.697339"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T12:10:24.855129"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:24.894469"}
+{"buffer": ["Jalan Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T12:10:24.937697"}
+{"buffer": ["Lidah Wetan"], "combined_valid": false, "parts_valid": [{"part": "Lidah Wetan", "valid": false}], "timestamp": "2025-07-08T12:10:24.982619"}
+{"buffer": ["Mastrip Kedurus"], "combined_valid": true, "parts_valid": [{"part": "Mastrip Kedurus", "valid": true}], "timestamp": "2025-07-08T12:10:25.023830"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T12:10:25.061622"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T12:10:25.587316"}
+{"buffer": ["Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T12:10:25.628559"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T12:10:25.641544"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T12:10:25.679201"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T12:10:25.709504"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:25.748207"}
+{"buffer": ["Surabaya Tersendat"], "combined_valid": false, "parts_valid": [{"part": "Surabaya Tersendat", "valid": false}], "timestamp": "2025-07-08T12:10:26.655077"}
+{"buffer": ["Tol Gunungsari"], "combined_valid": true, "parts_valid": [{"part": "Tol Gunungsari", "valid": true}], "timestamp": "2025-07-08T12:10:26.779585"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T12:10:26.826504"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T12:10:26.868080"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:26.907591"}
+{"buffer": ["Terminal Purabaya"], "combined_valid": false, "parts_valid": [{"part": "Terminal Purabaya", "valid": false}], "timestamp": "2025-07-08T12:10:26.950037"}
+{"buffer": ["Jalan Manukan Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Manukan Kulon", "valid": true}], "timestamp": "2025-07-08T12:10:28.040840"}
+{"buffer": ["Sukomanunggal"], "combined_valid": true, "parts_valid": [{"part": "Sukomanunggal", "valid": true}], "timestamp": "2025-07-08T12:10:28.052106"}
+{"buffer": ["Raya waru Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Raya waru Sidoarjo", "valid": false}], "timestamp": "2025-07-08T12:10:28.096363"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:28.135809"}
+{"buffer": ["L"], "combined_valid": false, "parts_valid": [{"part": "L", "valid": false}], "timestamp": "2025-07-08T12:10:29.549345"}
+{"buffer": ["KM", "751", "Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "KM", "valid": false}, {"part": "751", "valid": false}, {"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T12:10:29.629229"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T12:10:29.668796"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T12:10:29.707879"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T12:10:29.733049"}
+{"buffer": ["Blega Bangkalan"], "combined_valid": false, "parts_valid": [{"part": "Blega Bangkalan", "valid": false}], "timestamp": "2025-07-08T12:10:29.779758"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:29.819357"}
+{"buffer": ["Jalan Pakal"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakal", "valid": true}], "timestamp": "2025-07-08T12:10:34.738050"}
+{"buffer": ["Terminal Benowo"], "combined_valid": true, "parts_valid": [{"part": "Terminal Benowo", "valid": true}], "timestamp": "2025-07-08T12:10:34.782692"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:34.821260"}
+{"buffer": ["Jalan Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kendangsari", "valid": true}], "timestamp": "2025-07-08T12:10:34.862428"}
+{"buffer": ["Berbek Industri"], "combined_valid": true, "parts_valid": [{"part": "Berbek Industri", "valid": true}], "timestamp": "2025-07-08T12:10:34.896631"}
+{"buffer": ["Lamongan"], "combined_valid": false, "parts_valid": [{"part": "Lamongan", "valid": false}], "timestamp": "2025-07-08T12:10:36.859004"}
+{"buffer": ["Tol Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Tol Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:36.906245"}
+{"buffer": ["Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Sidoarjo", "valid": false}], "timestamp": "2025-07-08T12:10:36.960389"}
+{"buffer": ["Jalan Kapasan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kapasan", "valid": true}], "timestamp": "2025-07-08T12:10:37.026095"}
+{"buffer": ["Kenjeran"], "combined_valid": true, "parts_valid": [{"part": "Kenjeran", "valid": true}], "timestamp": "2025-07-08T12:10:37.071300"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T12:10:37.081286"}
+{"buffer": ["Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Wonokromo", "valid": true}], "timestamp": "2025-07-08T12:10:37.119459"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T12:10:37.149092"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:37.189493"}
+{"buffer": ["Raya Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Raya Kendangsari", "valid": true}], "timestamp": "2025-07-08T12:10:39.794622"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:39.834146"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T12:10:40.449827"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T12:10:40.481930"}
+{"buffer": ["Jalan Kombes"], "combined_valid": false, "parts_valid": [{"part": "Jalan Kombes", "valid": false}], "timestamp": "2025-07-08T12:10:40.810909"}
+{"buffer": ["Pol M. Duryat"], "combined_valid": true, "parts_valid": [{"part": "Pol M. Duryat", "valid": true}], "timestamp": "2025-07-08T12:10:40.855129"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:40.893791"}
+{"buffer": ["Jalan Basuki Rahmat"], "combined_valid": true, "parts_valid": [{"part": "Jalan Basuki Rahmat", "valid": true}], "timestamp": "2025-07-08T12:10:40.912837"}
+{"buffer": [""], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}], "timestamp": "2025-07-08T12:10:40.934064"}
+{"buffer": ["Kedungdoro"], "combined_valid": true, "parts_valid": [{"part": "Kedungdoro", "valid": true}], "timestamp": "2025-07-08T12:10:40.950228"}
+{"buffer": ["Jalan Tegalsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tegalsari", "valid": true}], "timestamp": "2025-07-08T12:10:41.010782"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T12:10:44.703152"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:44.744520"}
+{"buffer": ["Raya Bandaran"], "combined_valid": false, "parts_valid": [{"part": "Raya Bandaran", "valid": false}], "timestamp": "2025-07-08T12:10:44.785731"}
+{"buffer": ["Tlanakan"], "combined_valid": false, "parts_valid": [{"part": "Tlanakan", "valid": false}], "timestamp": "2025-07-08T12:10:44.823113"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T12:10:44.863102"}
+{"buffer": ["Jalan Boboh Menganti Gresik"], "combined_valid": false, "parts_valid": [{"part": "Jalan Boboh Menganti Gresik", "valid": false}], "timestamp": "2025-07-08T12:10:45.106923"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T12:10:45.144513"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:45.185914"}
+{"buffer": ["Bringkang"], "combined_valid": false, "parts_valid": [{"part": "Bringkang", "valid": false}], "timestamp": "2025-07-08T12:10:45.229743"}
+{"buffer": ["Legundi"], "combined_valid": false, "parts_valid": [{"part": "Legundi", "valid": false}], "timestamp": "2025-07-08T12:10:45.270359"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:45.310193"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T12:10:45.349169"}
+{"buffer": ["Desa Palemwatu"], "combined_valid": false, "parts_valid": [{"part": "Desa Palemwatu", "valid": false}], "timestamp": "2025-07-08T12:10:45.392122"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T12:10:45.962480"}
+{"buffer": ["Jalan Bintang Diponggo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Bintang Diponggo", "valid": true}], "timestamp": "2025-07-08T12:10:46.001257"}
+{"buffer": ["Jalan Tenggilis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tenggilis", "valid": true}], "timestamp": "2025-07-08T12:10:46.042865"}
+{"buffer": ["Kendangsari"], "combined_valid": false, "parts_valid": [{"part": "Kendangsari", "valid": false}], "timestamp": "2025-07-08T12:10:46.083864"}
+{"buffer": ["Jalan Setail Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Setail Surabaya", "valid": true}], "timestamp": "2025-07-08T12:10:46.316822"}
+{"buffer": ["Sampang"], "combined_valid": false, "parts_valid": [{"part": "Sampang", "valid": false}], "timestamp": "2025-07-08T21:26:11.329702"}
+{"buffer": ["Blega"], "combined_valid": false, "parts_valid": [{"part": "Blega", "valid": false}], "timestamp": "2025-07-08T21:26:11.378775"}
+{"buffer": ["Madura"], "combined_valid": false, "parts_valid": [{"part": "Madura", "valid": false}], "timestamp": "2025-07-08T21:26:11.432220"}
+{"buffer": ["Tambakoso"], "combined_valid": false, "parts_valid": [{"part": "Tambakoso", "valid": false}], "timestamp": "2025-07-08T21:26:11.478332"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:11.529069"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:26:11.576405"}
+{"buffer": ["Margomulyo"], "combined_valid": true, "parts_valid": [{"part": "Margomulyo", "valid": true}], "timestamp": "2025-07-08T21:26:11.994604"}
+{"buffer": ["Tambak Osowilangun"], "combined_valid": false, "parts_valid": [{"part": "Tambak Osowilangun", "valid": false}], "timestamp": "2025-07-08T21:26:12.053003"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:12.112134"}
+{"buffer": ["Cito"], "combined_valid": false, "parts_valid": [{"part": "Cito", "valid": false}], "timestamp": "2025-07-08T21:26:12.162959"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:12.224331"}
+{"buffer": ["Jalan Nyamplungan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Nyamplungan", "valid": true}], "timestamp": "2025-07-08T21:26:12.350781"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:12.396124"}
+{"buffer": ["Trosobo"], "combined_valid": false, "parts_valid": [{"part": "Trosobo", "valid": false}], "timestamp": "2025-07-08T21:26:12.445442"}
+{"buffer": ["Krian"], "combined_valid": true, "parts_valid": [{"part": "Krian", "valid": true}], "timestamp": "2025-07-08T21:26:12.493909"}
+{"buffer": ["Kertosono"], "combined_valid": false, "parts_valid": [{"part": "Kertosono", "valid": false}], "timestamp": "2025-07-08T21:26:12.803878"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:12.859894"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:26:12.895822"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:26:12.954348"}
+{"buffer": ["Jalan Randegansari"], "combined_valid": false, "parts_valid": [{"part": "Jalan Randegansari", "valid": false}], "timestamp": "2025-07-08T21:26:13.016326"}
+{"buffer": ["Lakar Santri"], "combined_valid": false, "parts_valid": [{"part": "Lakar Santri", "valid": false}], "timestamp": "2025-07-08T21:26:13.072699"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T21:26:13.334298"}
+{"buffer": ["Jalan Raya Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Raya Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:13.391446"}
+{"buffer": ["Malang"], "combined_valid": false, "parts_valid": [{"part": "Malang", "valid": false}], "timestamp": "2025-07-08T21:26:13.443358"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:26:13.627823"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:13.675564"}
+{"buffer": ["Jalan Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T21:26:13.736375"}
+{"buffer": ["Lidah Wetan"], "combined_valid": false, "parts_valid": [{"part": "Lidah Wetan", "valid": false}], "timestamp": "2025-07-08T21:26:13.795090"}
+{"buffer": ["Mastrip Kedurus"], "combined_valid": true, "parts_valid": [{"part": "Mastrip Kedurus", "valid": true}], "timestamp": "2025-07-08T21:26:13.855671"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T21:26:13.906046"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T21:26:14.233504"}
+{"buffer": ["Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T21:26:14.292077"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:26:14.316455"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:26:14.373587"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:26:14.405181"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:14.467134"}
+{"buffer": ["Surabaya Tersendat"], "combined_valid": false, "parts_valid": [{"part": "Surabaya Tersendat", "valid": false}], "timestamp": "2025-07-08T21:26:14.775254"}
+{"buffer": ["Tol Gunungsari"], "combined_valid": true, "parts_valid": [{"part": "Tol Gunungsari", "valid": true}], "timestamp": "2025-07-08T21:26:14.908397"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:26:14.958213"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:26:15.014045"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:15.081374"}
+{"buffer": ["Terminal Purabaya"], "combined_valid": false, "parts_valid": [{"part": "Terminal Purabaya", "valid": false}], "timestamp": "2025-07-08T21:26:15.143702"}
+{"buffer": ["Jalan Manukan Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Manukan Kulon", "valid": true}], "timestamp": "2025-07-08T21:26:15.331069"}
+{"buffer": ["Sukomanunggal"], "combined_valid": true, "parts_valid": [{"part": "Sukomanunggal", "valid": true}], "timestamp": "2025-07-08T21:26:15.362954"}
+{"buffer": ["Raya waru Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Raya waru Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:26:15.417190"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:15.469046"}
+{"buffer": ["L"], "combined_valid": false, "parts_valid": [{"part": "L", "valid": false}], "timestamp": "2025-07-08T21:26:15.778919"}
+{"buffer": ["KM", "751", "Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "KM", "valid": false}, {"part": "751", "valid": false}, {"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T21:26:15.879704"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:26:15.928056"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T21:26:15.977375"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T21:26:16.002513"}
+{"buffer": ["Blega Bangkalan"], "combined_valid": false, "parts_valid": [{"part": "Blega Bangkalan", "valid": false}], "timestamp": "2025-07-08T21:26:16.059616"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:16.114463"}
+{"buffer": ["Jalan Pakal"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakal", "valid": true}], "timestamp": "2025-07-08T21:26:16.623794"}
+{"buffer": ["Terminal Benowo"], "combined_valid": true, "parts_valid": [{"part": "Terminal Benowo", "valid": true}], "timestamp": "2025-07-08T21:26:16.693505"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:16.763758"}
+{"buffer": ["Jalan Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kendangsari", "valid": true}], "timestamp": "2025-07-08T21:26:16.838522"}
+{"buffer": ["Berbek Industri"], "combined_valid": true, "parts_valid": [{"part": "Berbek Industri", "valid": true}], "timestamp": "2025-07-08T21:26:16.865032"}
+{"buffer": ["Lamongan"], "combined_valid": false, "parts_valid": [{"part": "Lamongan", "valid": false}], "timestamp": "2025-07-08T21:26:17.321232"}
+{"buffer": ["Tol Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Tol Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:17.380224"}
+{"buffer": ["Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:26:17.441077"}
+{"buffer": ["Jalan Kapasan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kapasan", "valid": true}], "timestamp": "2025-07-08T21:26:17.528900"}
+{"buffer": ["Kenjeran"], "combined_valid": true, "parts_valid": [{"part": "Kenjeran", "valid": true}], "timestamp": "2025-07-08T21:26:17.582322"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T21:26:17.619395"}
+{"buffer": ["Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Wonokromo", "valid": true}], "timestamp": "2025-07-08T21:26:17.670044"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:26:17.694439"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:17.744897"}
+{"buffer": ["Raya Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Raya Kendangsari", "valid": true}], "timestamp": "2025-07-08T21:26:18.078786"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:18.127266"}
+{"buffer": ["Kantor Polda Jatim"], "combined_valid": false, "parts_valid": [{"part": "Kantor Polda Jatim", "valid": false}], "timestamp": "2025-07-08T21:26:18.957165"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:26:18.990176"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:19.074887"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:26:19.110896"}
+{"buffer": ["Jalan Gayung Kebonsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gayung Kebonsari", "valid": true}], "timestamp": "2025-07-08T21:26:19.161504"}
+{"buffer": ["Jalan"], "combined_valid": false, "parts_valid": [{"part": "Jalan", "valid": false}], "timestamp": "2025-07-08T21:26:19.231205"}
+{"buffer": ["Jalan Gubernur Suryo Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:19.624539"}
+{"buffer": ["Gedung Grahadi"], "combined_valid": false, "parts_valid": [{"part": "Gedung Grahadi", "valid": false}], "timestamp": "2025-07-08T21:26:19.679249"}
+{"buffer": ["Jalan Gubernur Suryo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo", "valid": true}], "timestamp": "2025-07-08T21:26:19.733642"}
+{"buffer": ["Jalan Raya Mlandingan"], "combined_valid": false, "parts_valid": [{"part": "Jalan Raya Mlandingan", "valid": false}], "timestamp": "2025-07-08T21:26:20.062246"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T21:26:20.112956"}
+{"buffer": ["Banyuwangi"], "combined_valid": false, "parts_valid": [{"part": "Banyuwangi", "valid": false}], "timestamp": "2025-07-08T21:26:20.169145"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:20.223165"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T21:26:20.592343"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:20.650996"}
+{"buffer": ["", "Ketapang"], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}, {"part": "Ketapang", "valid": false}], "timestamp": "2025-07-08T21:26:20.713179"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T21:26:21.014232"}
+{"buffer": ["Jalan Pakis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakis", "valid": true}], "timestamp": "2025-07-08T21:26:21.263977"}
+{"buffer": ["Jalan Patmosusastro"], "combined_valid": true, "parts_valid": [{"part": "Jalan Patmosusastro", "valid": true}], "timestamp": "2025-07-08T21:26:21.288397"}
+{"buffer": ["Jalan Indragiri", "mac", "et"], "combined_valid": false, "parts_valid": [{"part": "Jalan Indragiri", "valid": true}, {"part": "mac", "valid": false}, {"part": "et", "valid": false}], "timestamp": "2025-07-08T21:26:21.383203"}
+{"buffer": ["Kantor KPU Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Kantor KPU Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:21.435813"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:21.814816"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:22.099906"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:22.407361"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:26:22.716398"}
+{"buffer": ["Ada"], "combined_valid": false, "parts_valid": [{"part": "Ada", "valid": false}], "timestamp": "2025-07-08T21:26:22.992459"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:26:23.044280"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T21:26:23.083883"}
+{"buffer": ["Dinoyo"], "combined_valid": false, "parts_valid": [{"part": "Dinoyo", "valid": false}], "timestamp": "2025-07-08T21:26:23.130922"}
+{"buffer": ["Majapahit"], "combined_valid": false, "parts_valid": [{"part": "Majapahit", "valid": false}], "timestamp": "2025-07-08T21:26:23.187812"}
+{"buffer": ["Diponegoro"], "combined_valid": true, "parts_valid": [{"part": "Diponegoro", "valid": true}], "timestamp": "2025-07-08T21:26:23.200273"}
+{"buffer": ["Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T21:26:23.641129"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:26:23.697413"}
+{"buffer": ["Jalan Kedung Baruk"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Baruk", "valid": true}], "timestamp": "2025-07-08T21:26:23.721414"}
+{"buffer": ["Kali Rungkut"], "combined_valid": true, "parts_valid": [{"part": "Kali Rungkut", "valid": true}], "timestamp": "2025-07-08T21:26:23.772255"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:26:23.809995"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:23.868099"}
+{"buffer": ["Jalan Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Wonokromo", "valid": true}], "timestamp": "2025-07-08T21:26:24.774877"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:26:24.826073"}
+{"buffer": ["Joyoboyo"], "combined_valid": true, "parts_valid": [{"part": "Joyoboyo", "valid": true}], "timestamp": "2025-07-08T21:26:24.883103"}
+{"buffer": ["Jalan Kedung Cowek"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Cowek", "valid": true}], "timestamp": "2025-07-08T21:26:25.338532"}
+{"buffer": ["Jalan Semarang"], "combined_valid": true, "parts_valid": [{"part": "Jalan Semarang", "valid": true}], "timestamp": "2025-07-08T21:26:25.369250"}
+{"buffer": ["Tembaan-Pasar Turi"], "combined_valid": true, "parts_valid": [{"part": "Tembaan-Pasar Turi", "valid": true}], "timestamp": "2025-07-08T21:26:25.421380"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T21:26:25.465633"}
+{"buffer": ["Medaeng Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Medaeng Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:26:25.514070"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T21:26:25.537820"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T21:26:25.582357"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:25.630131"}
+{"buffer": ["Perumahan Manyar Tompotika Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Perumahan Manyar Tompotika Surabaya", "valid": false}], "timestamp": "2025-07-08T21:26:26.121208"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:26:26.409363"}
+{"buffer": ["A. Yani"], "combined_valid": true, "parts_valid": [{"part": "A. Yani", "valid": true}], "timestamp": "2025-07-08T21:26:26.416718"}
+{"buffer": ["Frontage Road Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Frontage Road Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:26.474112"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:26.520090"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:26:27.747431"}
+{"buffer": ["Jalan Tambaksari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tambaksari", "valid": true}], "timestamp": "2025-07-08T21:26:27.779306"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T21:26:29.060409"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T21:26:29.086051"}
+{"buffer": ["Jalan Kombes"], "combined_valid": false, "parts_valid": [{"part": "Jalan Kombes", "valid": false}], "timestamp": "2025-07-08T21:26:29.430721"}
+{"buffer": ["Pol M. Duryat"], "combined_valid": true, "parts_valid": [{"part": "Pol M. Duryat", "valid": true}], "timestamp": "2025-07-08T21:26:29.486783"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:29.534682"}
+{"buffer": ["Jalan Basuki Rahmat"], "combined_valid": true, "parts_valid": [{"part": "Jalan Basuki Rahmat", "valid": true}], "timestamp": "2025-07-08T21:26:29.584207"}
+{"buffer": [""], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}], "timestamp": "2025-07-08T21:26:29.611934"}
+{"buffer": ["Kedungdoro"], "combined_valid": true, "parts_valid": [{"part": "Kedungdoro", "valid": true}], "timestamp": "2025-07-08T21:26:29.620297"}
+{"buffer": ["Jalan Tegalsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tegalsari", "valid": true}], "timestamp": "2025-07-08T21:26:29.675094"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T21:26:30.058902"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:30.110669"}
+{"buffer": ["Raya Bandaran"], "combined_valid": false, "parts_valid": [{"part": "Raya Bandaran", "valid": false}], "timestamp": "2025-07-08T21:26:30.167225"}
+{"buffer": ["Tlanakan"], "combined_valid": false, "parts_valid": [{"part": "Tlanakan", "valid": false}], "timestamp": "2025-07-08T21:26:30.219212"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T21:26:30.277914"}
+{"buffer": ["Jalan Boboh Menganti Gresik"], "combined_valid": false, "parts_valid": [{"part": "Jalan Boboh Menganti Gresik", "valid": false}], "timestamp": "2025-07-08T21:26:30.582535"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T21:26:30.632312"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:30.684204"}
+{"buffer": ["Bringkang"], "combined_valid": false, "parts_valid": [{"part": "Bringkang", "valid": false}], "timestamp": "2025-07-08T21:26:30.731090"}
+{"buffer": ["Legundi"], "combined_valid": false, "parts_valid": [{"part": "Legundi", "valid": false}], "timestamp": "2025-07-08T21:26:30.784165"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:30.832208"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T21:26:30.880642"}
+{"buffer": ["Desa Palemwatu"], "combined_valid": false, "parts_valid": [{"part": "Desa Palemwatu", "valid": false}], "timestamp": "2025-07-08T21:26:30.930254"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T21:26:31.287378"}
+{"buffer": ["Jalan Bintang Diponggo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Bintang Diponggo", "valid": true}], "timestamp": "2025-07-08T21:26:31.300276"}
+{"buffer": ["Jalan Tenggilis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tenggilis", "valid": true}], "timestamp": "2025-07-08T21:26:31.363713"}
+{"buffer": ["Kendangsari"], "combined_valid": false, "parts_valid": [{"part": "Kendangsari", "valid": false}], "timestamp": "2025-07-08T21:26:31.436576"}
+{"buffer": ["Jalan Setail Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Setail Surabaya", "valid": true}], "timestamp": "2025-07-08T21:26:31.682626"}
+{"buffer": ["Kantor Polda Jatim"], "combined_valid": false, "parts_valid": [{"part": "Kantor Polda Jatim", "valid": false}], "timestamp": "2025-07-08T21:45:31.380713"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:45:31.414470"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:31.458873"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:45:31.495238"}
+{"buffer": ["Jalan Gayung Kebonsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gayung Kebonsari", "valid": true}], "timestamp": "2025-07-08T21:45:31.516528"}
+{"buffer": ["Jalan"], "combined_valid": false, "parts_valid": [{"part": "Jalan", "valid": false}], "timestamp": "2025-07-08T21:45:31.566553"}
+{"buffer": ["Jalan Gubernur Suryo Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:32.547424"}
+{"buffer": ["Gedung Grahadi"], "combined_valid": false, "parts_valid": [{"part": "Gedung Grahadi", "valid": false}], "timestamp": "2025-07-08T21:45:32.610219"}
+{"buffer": ["Jalan Gubernur Suryo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Gubernur Suryo", "valid": true}], "timestamp": "2025-07-08T21:45:32.668753"}
+{"buffer": ["Jalan Raya Mlandingan"], "combined_valid": false, "parts_valid": [{"part": "Jalan Raya Mlandingan", "valid": false}], "timestamp": "2025-07-08T21:45:32.995359"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T21:45:33.055677"}
+{"buffer": ["Banyuwangi"], "combined_valid": false, "parts_valid": [{"part": "Banyuwangi", "valid": false}], "timestamp": "2025-07-08T21:45:33.118525"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:33.179012"}
+{"buffer": ["Situbondo"], "combined_valid": false, "parts_valid": [{"part": "Situbondo", "valid": false}], "timestamp": "2025-07-08T21:45:33.760922"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:33.808265"}
+{"buffer": ["", "Ketapang"], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}, {"part": "Ketapang", "valid": false}], "timestamp": "2025-07-08T21:45:33.867697"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T21:45:34.189652"}
+{"buffer": ["Jalan Pakis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakis", "valid": true}], "timestamp": "2025-07-08T21:45:34.426148"}
+{"buffer": ["Jalan Patmosusastro"], "combined_valid": true, "parts_valid": [{"part": "Jalan Patmosusastro", "valid": true}], "timestamp": "2025-07-08T21:45:34.456786"}
+{"buffer": ["Jalan Indragiri", "mac", "et"], "combined_valid": false, "parts_valid": [{"part": "Jalan Indragiri", "valid": true}, {"part": "mac", "valid": false}, {"part": "et", "valid": false}], "timestamp": "2025-07-08T21:45:34.550608"}
+{"buffer": ["Kantor KPU Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Kantor KPU Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:34.613105"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:35.252013"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:35.546687"}
+{"buffer": ["Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:35.806206"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:45:36.111370"}
+{"buffer": ["Ada"], "combined_valid": false, "parts_valid": [{"part": "Ada", "valid": false}], "timestamp": "2025-07-08T21:45:36.416041"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:45:36.466197"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T21:45:36.506375"}
+{"buffer": ["Dinoyo"], "combined_valid": false, "parts_valid": [{"part": "Dinoyo", "valid": false}], "timestamp": "2025-07-08T21:45:36.551534"}
+{"buffer": ["Majapahit"], "combined_valid": false, "parts_valid": [{"part": "Majapahit", "valid": false}], "timestamp": "2025-07-08T21:45:36.596698"}
+{"buffer": ["Diponegoro"], "combined_valid": true, "parts_valid": [{"part": "Diponegoro", "valid": true}], "timestamp": "2025-07-08T21:45:36.625071"}
+{"buffer": ["Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T21:45:37.358410"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:45:37.428479"}
+{"buffer": ["Jalan Kedung Baruk"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Baruk", "valid": true}], "timestamp": "2025-07-08T21:45:37.468298"}
+{"buffer": ["Kali Rungkut"], "combined_valid": true, "parts_valid": [{"part": "Kali Rungkut", "valid": true}], "timestamp": "2025-07-08T21:45:37.478820"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:45:37.496892"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:37.545881"}
+{"buffer": ["Jalan Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Wonokromo", "valid": true}], "timestamp": "2025-07-08T21:45:44.667741"}
+{"buffer": ["Jalan Darmo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Darmo", "valid": true}], "timestamp": "2025-07-08T21:45:44.720745"}
+{"buffer": ["Joyoboyo"], "combined_valid": true, "parts_valid": [{"part": "Joyoboyo", "valid": true}], "timestamp": "2025-07-08T21:45:44.770292"}
+{"buffer": ["Jalan Kedung Cowek"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kedung Cowek", "valid": true}], "timestamp": "2025-07-08T21:45:45.501436"}
+{"buffer": ["Jalan Semarang"], "combined_valid": true, "parts_valid": [{"part": "Jalan Semarang", "valid": true}], "timestamp": "2025-07-08T21:45:45.516943"}
+{"buffer": ["Tembaan-Pasar Turi"], "combined_valid": true, "parts_valid": [{"part": "Tembaan-Pasar Turi", "valid": true}], "timestamp": "2025-07-08T21:45:45.577339"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T21:45:45.623896"}
+{"buffer": ["Medaeng Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Medaeng Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:45:45.679484"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T21:45:45.687014"}
+{"buffer": ["et"], "combined_valid": false, "parts_valid": [{"part": "et", "valid": false}], "timestamp": "2025-07-08T21:45:45.731870"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:45.776763"}
+{"buffer": ["Perumahan Manyar Tompotika Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Perumahan Manyar Tompotika Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:47.267775"}
+{"buffer": ["Sampang"], "combined_valid": false, "parts_valid": [{"part": "Sampang", "valid": false}], "timestamp": "2025-07-08T21:45:47.503674"}
+{"buffer": ["Blega"], "combined_valid": false, "parts_valid": [{"part": "Blega", "valid": false}], "timestamp": "2025-07-08T21:45:47.551710"}
+{"buffer": ["Madura"], "combined_valid": false, "parts_valid": [{"part": "Madura", "valid": false}], "timestamp": "2025-07-08T21:45:47.601644"}
+{"buffer": ["Tambakoso"], "combined_valid": false, "parts_valid": [{"part": "Tambakoso", "valid": false}], "timestamp": "2025-07-08T21:45:47.650786"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:47.702986"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:45:47.753384"}
+{"buffer": ["Margomulyo"], "combined_valid": true, "parts_valid": [{"part": "Margomulyo", "valid": true}], "timestamp": "2025-07-08T21:45:48.110960"}
+{"buffer": ["Tambak Osowilangun"], "combined_valid": false, "parts_valid": [{"part": "Tambak Osowilangun", "valid": false}], "timestamp": "2025-07-08T21:45:48.172253"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:48.221095"}
+{"buffer": ["Exit Tol Waru"], "combined_valid": true, "parts_valid": [{"part": "Exit Tol Waru", "valid": true}], "timestamp": "2025-07-08T21:45:48.277199"}
+{"buffer": ["Cito"], "combined_valid": true, "parts_valid": [{"part": "Cito", "valid": true}], "timestamp": "2025-07-08T21:45:48.321296"}
+{"buffer": ["Suara Surabaya"], "combined_valid": false, "parts_valid": [{"part": "Suara Surabaya", "valid": false}], "timestamp": "2025-07-08T21:45:48.374987"}
+{"buffer": ["Jalan Nyamplungan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Nyamplungan", "valid": true}], "timestamp": "2025-07-08T21:45:49.932008"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:49.985584"}
+{"buffer": ["Trosobo"], "combined_valid": false, "parts_valid": [{"part": "Trosobo", "valid": false}], "timestamp": "2025-07-08T21:45:50.037216"}
+{"buffer": ["Krian"], "combined_valid": true, "parts_valid": [{"part": "Krian", "valid": true}], "timestamp": "2025-07-08T21:45:50.087351"}
+{"buffer": ["Kertosono"], "combined_valid": false, "parts_valid": [{"part": "Kertosono", "valid": false}], "timestamp": "2025-07-08T21:45:51.498627"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:51.545556"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:45:51.580352"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:45:51.629429"}
+{"buffer": ["Jalan Randegansari"], "combined_valid": false, "parts_valid": [{"part": "Jalan Randegansari", "valid": false}], "timestamp": "2025-07-08T21:45:51.680159"}
+{"buffer": ["Lakar Santri"], "combined_valid": false, "parts_valid": [{"part": "Lakar Santri", "valid": false}], "timestamp": "2025-07-08T21:45:51.728139"}
+{"buffer": ["Exit Tol Waru"], "combined_valid": true, "parts_valid": [{"part": "Exit Tol Waru", "valid": true}], "timestamp": "2025-07-08T21:45:52.891869"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T21:45:52.949725"}
+{"buffer": ["Jalan Raya Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Raya Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:53.019692"}
+{"buffer": ["Malang"], "combined_valid": false, "parts_valid": [{"part": "Malang", "valid": false}], "timestamp": "2025-07-08T21:45:53.066535"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:45:54.474943"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:54.528574"}
+{"buffer": ["Jalan Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T21:45:54.600970"}
+{"buffer": ["Lidah Wetan"], "combined_valid": false, "parts_valid": [{"part": "Lidah Wetan", "valid": false}], "timestamp": "2025-07-08T21:45:54.662773"}
+{"buffer": ["Mastrip Kedurus"], "combined_valid": true, "parts_valid": [{"part": "Mastrip Kedurus", "valid": true}], "timestamp": "2025-07-08T21:45:54.713214"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T21:45:54.772990"}
+{"buffer": ["Gunungsari"], "combined_valid": false, "parts_valid": [{"part": "Gunungsari", "valid": false}], "timestamp": "2025-07-08T21:45:58.329336"}
+{"buffer": ["Lidah Kulon"], "combined_valid": true, "parts_valid": [{"part": "Lidah Kulon", "valid": true}], "timestamp": "2025-07-08T21:45:58.398849"}
+{"buffer": ["Jalan Ahmad Yani"], "combined_valid": true, "parts_valid": [{"part": "Jalan Ahmad Yani", "valid": true}], "timestamp": "2025-07-08T21:45:58.439447"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:45:58.496076"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:45:58.512063"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:45:58.569931"}
+{"buffer": ["Surabaya Tersendat"], "combined_valid": false, "parts_valid": [{"part": "Surabaya Tersendat", "valid": false}], "timestamp": "2025-07-08T21:46:02.003819"}
+{"buffer": ["Tol Gunungsari"], "combined_valid": true, "parts_valid": [{"part": "Tol Gunungsari", "valid": true}], "timestamp": "2025-07-08T21:46:02.137405"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:46:02.198158"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:46:02.270422"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:02.315033"}
+{"buffer": ["Terminal Purabaya"], "combined_valid": false, "parts_valid": [{"part": "Terminal Purabaya", "valid": false}], "timestamp": "2025-07-08T21:46:02.365345"}
+{"buffer": ["Jalan Manukan Kulon"], "combined_valid": true, "parts_valid": [{"part": "Jalan Manukan Kulon", "valid": true}], "timestamp": "2025-07-08T21:46:05.244350"}
+{"buffer": ["Sukomanunggal"], "combined_valid": true, "parts_valid": [{"part": "Sukomanunggal", "valid": true}], "timestamp": "2025-07-08T21:46:05.251447"}
+{"buffer": ["Raya waru Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Raya waru Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:46:05.320584"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:05.376203"}
+{"buffer": ["L"], "combined_valid": false, "parts_valid": [{"part": "L", "valid": false}], "timestamp": "2025-07-08T21:46:05.871717"}
+{"buffer": ["KM", "751", "Tol Sidoarjo"], "combined_valid": true, "parts_valid": [{"part": "KM", "valid": false}, {"part": "751", "valid": false}, {"part": "Tol Sidoarjo", "valid": true}], "timestamp": "2025-07-08T21:46:05.972543"}
+{"buffer": ["Waru"], "combined_valid": true, "parts_valid": [{"part": "Waru", "valid": true}], "timestamp": "2025-07-08T21:46:06.021145"}
+{"buffer": ["Medaeng"], "combined_valid": true, "parts_valid": [{"part": "Medaeng", "valid": true}], "timestamp": "2025-07-08T21:46:06.067875"}
+{"buffer": ["Bungurasih"], "combined_valid": true, "parts_valid": [{"part": "Bungurasih", "valid": true}], "timestamp": "2025-07-08T21:46:06.075937"}
+{"buffer": ["Blega Bangkalan"], "combined_valid": false, "parts_valid": [{"part": "Blega Bangkalan", "valid": false}], "timestamp": "2025-07-08T21:46:06.129912"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:06.216151"}
+{"buffer": ["Jalan Pakal"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pakal", "valid": true}], "timestamp": "2025-07-08T21:46:11.456126"}
+{"buffer": ["Terminal Benowo"], "combined_valid": true, "parts_valid": [{"part": "Terminal Benowo", "valid": true}], "timestamp": "2025-07-08T21:46:11.504827"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:11.555458"}
+{"buffer": ["Jalan Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kendangsari", "valid": true}], "timestamp": "2025-07-08T21:46:11.606002"}
+{"buffer": ["Berbek Industri"], "combined_valid": true, "parts_valid": [{"part": "Berbek Industri", "valid": true}], "timestamp": "2025-07-08T21:46:11.642652"}
+{"buffer": ["Lamongan"], "combined_valid": false, "parts_valid": [{"part": "Lamongan", "valid": false}], "timestamp": "2025-07-08T21:46:14.792697"}
+{"buffer": ["Tol Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Tol Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:14.843725"}
+{"buffer": ["Sidoarjo"], "combined_valid": false, "parts_valid": [{"part": "Sidoarjo", "valid": false}], "timestamp": "2025-07-08T21:46:14.896385"}
+{"buffer": ["Jalan Kapasan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Kapasan", "valid": true}], "timestamp": "2025-07-08T21:46:14.975463"}
+{"buffer": ["Kenjeran"], "combined_valid": true, "parts_valid": [{"part": "Kenjeran", "valid": true}], "timestamp": "2025-07-08T21:46:15.034020"}
+{"buffer": ["Raya Darmo"], "combined_valid": true, "parts_valid": [{"part": "Raya Darmo", "valid": true}], "timestamp": "2025-07-08T21:46:15.076519"}
+{"buffer": ["Wonokromo"], "combined_valid": true, "parts_valid": [{"part": "Wonokromo", "valid": true}], "timestamp": "2025-07-08T21:46:15.123697"}
+{"buffer": ["Raya Waru"], "combined_valid": true, "parts_valid": [{"part": "Raya Waru", "valid": true}], "timestamp": "2025-07-08T21:46:15.139352"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:15.189397"}
+{"buffer": ["Raya Kendangsari"], "combined_valid": true, "parts_valid": [{"part": "Raya Kendangsari", "valid": true}], "timestamp": "2025-07-08T21:46:19.545136"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:19.600405"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:46:19.937264"}
+{"buffer": ["A. Yani"], "combined_valid": true, "parts_valid": [{"part": "A. Yani", "valid": true}], "timestamp": "2025-07-08T21:46:19.942782"}
+{"buffer": ["Frontage Road Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Frontage Road Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:20.000389"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:20.051573"}
+{"buffer": ["Bundaran Waru"], "combined_valid": true, "parts_valid": [{"part": "Bundaran Waru", "valid": true}], "timestamp": "2025-07-08T21:46:21.532041"}
+{"buffer": ["Jalan Tambaksari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tambaksari", "valid": true}], "timestamp": "2025-07-08T21:46:21.572145"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T21:46:22.223102"}
+{"buffer": ["Jalan Pahlawan"], "combined_valid": true, "parts_valid": [{"part": "Jalan Pahlawan", "valid": true}], "timestamp": "2025-07-08T21:46:22.229423"}
+{"buffer": ["Jalan Kombes"], "combined_valid": false, "parts_valid": [{"part": "Jalan Kombes", "valid": false}], "timestamp": "2025-07-08T21:46:22.581638"}
+{"buffer": ["Pol M. Duryat"], "combined_valid": true, "parts_valid": [{"part": "Pol M. Duryat", "valid": true}], "timestamp": "2025-07-08T21:46:22.642796"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:22.710718"}
+{"buffer": ["Jalan Basuki Rahmat"], "combined_valid": true, "parts_valid": [{"part": "Jalan Basuki Rahmat", "valid": true}], "timestamp": "2025-07-08T21:46:22.734147"}
+{"buffer": [""], "combined_valid": false, "parts_valid": [{"part": "", "valid": false}], "timestamp": "2025-07-08T21:46:22.765211"}
+{"buffer": ["Kedungdoro"], "combined_valid": true, "parts_valid": [{"part": "Kedungdoro", "valid": true}], "timestamp": "2025-07-08T21:46:22.778918"}
+{"buffer": ["Jalan Tegalsari"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tegalsari", "valid": true}], "timestamp": "2025-07-08T21:46:22.836828"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T21:46:27.131005"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:27.192014"}
+{"buffer": ["Raya Bandaran"], "combined_valid": false, "parts_valid": [{"part": "Raya Bandaran", "valid": false}], "timestamp": "2025-07-08T21:46:27.250172"}
+{"buffer": ["Tlanakan"], "combined_valid": false, "parts_valid": [{"part": "Tlanakan", "valid": false}], "timestamp": "2025-07-08T21:46:27.300495"}
+{"buffer": ["Pamekasan"], "combined_valid": false, "parts_valid": [{"part": "Pamekasan", "valid": false}], "timestamp": "2025-07-08T21:46:27.355154"}
+{"buffer": ["Jalan Boboh Menganti Gresik"], "combined_valid": false, "parts_valid": [{"part": "Jalan Boboh Menganti Gresik", "valid": false}], "timestamp": "2025-07-08T21:46:27.632925"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T21:46:27.684186"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:27.740024"}
+{"buffer": ["Bringkang"], "combined_valid": false, "parts_valid": [{"part": "Bringkang", "valid": false}], "timestamp": "2025-07-08T21:46:27.789160"}
+{"buffer": ["Legundi"], "combined_valid": false, "parts_valid": [{"part": "Legundi", "valid": false}], "timestamp": "2025-07-08T21:46:27.849742"}
+{"buffer": ["Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:27.935498"}
+{"buffer": ["Boboh"], "combined_valid": false, "parts_valid": [{"part": "Boboh", "valid": false}], "timestamp": "2025-07-08T21:46:27.995522"}
+{"buffer": ["Desa Palemwatu"], "combined_valid": false, "parts_valid": [{"part": "Desa Palemwatu", "valid": false}], "timestamp": "2025-07-08T21:46:28.067278"}
+{"buffer": ["Jalan Mayjen Sungkono"], "combined_valid": true, "parts_valid": [{"part": "Jalan Mayjen Sungkono", "valid": true}], "timestamp": "2025-07-08T21:46:28.873325"}
+{"buffer": ["Jalan Bintang Diponggo"], "combined_valid": true, "parts_valid": [{"part": "Jalan Bintang Diponggo", "valid": true}], "timestamp": "2025-07-08T21:46:28.910750"}
+{"buffer": ["Jalan Tenggilis"], "combined_valid": true, "parts_valid": [{"part": "Jalan Tenggilis", "valid": true}], "timestamp": "2025-07-08T21:46:28.962752"}
+{"buffer": ["Kendangsari"], "combined_valid": false, "parts_valid": [{"part": "Kendangsari", "valid": false}], "timestamp": "2025-07-08T21:46:29.030074"}
+{"buffer": ["Jalan Setail Surabaya"], "combined_valid": true, "parts_valid": [{"part": "Jalan Setail Surabaya", "valid": true}], "timestamp": "2025-07-08T21:46:29.432951"}
