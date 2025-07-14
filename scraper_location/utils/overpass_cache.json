@@ -1,0 +1,154 @@
+{
+  "-7.3609_112.72918_500": {
+    "name": "Jalan Layang Waru",
+    "lat": -7.3556486,
+    "lng": 112.729186,
+    "dist_to_origin": 581.16,
+    "dist_to_target": 11148.2,
+    "bearing_diff": 12.3
+  },
+  "-7.35128_112.81353_500": {
+    "name": "Perumahan Alana Regency Tambak Oso",
+    "lat": -7.3535319,
+    "lng": 112.8080745,
+    "dist_to_origin": 651.84,
+    "dist_to_target": 12291.33,
+    "bearing_diff": 79.58
+  },
+  "-7.25747_112.75209_500": {
+    "name": "Jalan Gerbong",
+    "lat": -7.2630288,
+    "lng": 112.7530788,
+    "dist_to_origin": 624.21,
+    "dist_to_target": 11824.26,
+    "bearing_diff": 22.98
+  },
+  "-7.37206_112.63625_500": {
+    "name": "Jalan Raya Trosobo",
+    "lat": -7.3779806,
+    "lng": 112.629331,
+    "dist_to_origin": 1006.56,
+    "dist_to_target": 5393.44,
+    "bearing_diff": 8.23
+  },
+  "-7.40299_112.58739_500": {
+    "name": "Jalan Raya Kemasan",
+    "lat": -7.4004725,
+    "lng": 112.5908871,
+    "dist_to_origin": 475.94,
+    "dist_to_target": 5912.73,
+    "bearing_diff": 3.43
+  },
+  "-7.34952_112.71398_500": {
+    "name": "Jalan Letnan Jenderal Sutoyo",
+    "lat": -7.3523261,
+    "lng": 112.716944,
+    "dist_to_origin": 451.0,
+    "dist_to_target": 316.52,
+    "bearing_diff": 20.82
+  },
+  "-7.30569_112.6552_500": {
+    "name": "Lidah Kulon Gang II",
+    "lat": -7.3046423,
+    "lng": 112.6599411,
+    "dist_to_origin": 536.41,
+    "dist_to_target": 1175.55,
+    "bearing_diff": 4.12
+  },
+  "-7.32089_112.73305_500": {
+    "name": "Jalan Jemur Wonosari Gang Buntu",
+    "lat": -7.3237769,
+    "lng": 112.7368126,
+    "dist_to_origin": 524.07,
+    "dist_to_target": 4479.33,
+    "bearing_diff": 3.1
+  },
+  "-7.30458_112.72507_500": {
+    "name": "Jalan Ketintang",
+    "lat": -7.3088323,
+    "lng": 112.7283097,
+    "dist_to_origin": 590.76,
+    "dist_to_target": 6303.33,
+    "bearing_diff": 5.56
+  },
+  "-7.34701_112.72754_500": {
+    "name": "Jalan Jenderal Ahmad Yani",
+    "lat": -7.340094,
+    "lng": 112.7297358,
+    "dist_to_origin": 802.34,
+    "dist_to_target": 9464.86,
+    "bearing_diff": 2.25
+  },
+  "-7.42584_112.69359_500": {
+    "name": "Jalan Tol Surabaya\u2013Gempol",
+    "lat": -7.4100629,
+    "lng": 112.6942072,
+    "dist_to_origin": 1745.68,
+    "dist_to_target": 10444.53,
+    "bearing_diff": 41.9
+  },
+  "-7.35518_112.7167_500": {
+    "name": "Bungurasih Timur",
+    "lat": -7.352359,
+    "lng": 112.7206886,
+    "dist_to_origin": 539.36,
+    "dist_to_target": 553.22,
+    "bearing_diff": 33.56
+  },
+  "-7.34746_112.71968_500": {
+    "name": "Bungurasih Utara",
+    "lat": -7.3509872,
+    "lng": 112.7194839,
+    "dist_to_origin": 390.84,
+    "dist_to_target": 555.99,
+    "bearing_diff": 17.77
+  },
+  "-7.38968_112.72796_500": {
+    "name": "Jalan Frontage Gedangan",
+    "lat": -7.3813555,
+    "lng": 112.7288235,
+    "dist_to_origin": 925.14,
+    "dist_to_target": 13939.32,
+    "bearing_diff": 4.38
+  },
+  "-7.44752_112.70024_500": {
+    "name": "Jalan Jatisari Indah I",
+    "lat": -7.4466186,
+    "lng": 112.7036992,
+    "dist_to_origin": 395.26,
+    "dist_to_target": 12767.47,
+    "bearing_diff": 40.8
+  },
+  "-7.35353_112.80807_500": {
+    "name": "Jalan Tol Waru\u2013Juanda",
+    "lat": -7.3499028,
+    "lng": 112.7836119,
+    "dist_to_origin": 2730.58,
+    "dist_to_target": 10798.56,
+    "bearing_diff": 51.46
+  },
+  "-7.37798_112.62933_500": {
+    "name": "Jalan Raya Trosobo",
+    "lat": -7.3824255,
+    "lng": 112.6180315,
+    "dist_to_origin": 1340.86,
+    "dist_to_target": 4076.21,
+    "bearing_diff": 9.38
+  },
+  "-7.35236_112.72069_500": {
+    "name": "Jalan Bypass Waru",
+    "lat": -7.3466876,
+    "lng": 112.7195837,
+    "dist_to_origin": 638.97,
+    "dist_to_target": 85.96,
+    "bearing_diff": 0.58
+  },
+  "-7.24417_112.6821_500": {
+    "name": "Jalan Tol Surabaya\u2013Gresik",
+    "lat": -7.2383973,
+    "lng": 112.6779703,
+    "dist_to_origin": 784.79,
+    "dist_to_target": 3539.73,
+    "bearing_diff": 13.64
+  }
+}

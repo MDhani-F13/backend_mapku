@@ -14,3 +14,4 @@ CONTEXT_KEYWORDS = {
     "traffic", "macet", "penutupan", "pengalihan", "dari", "ke","sampai"
 }
 TRAFFIC_SUFFIXES = {"macet", "padat", "lancar"}
+GOOD_TYPES = {"route", "street_address", "intersection", "administrative_area_level_4","administrative_area_level_3"}

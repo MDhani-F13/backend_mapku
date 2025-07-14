@@ -144,3 +144,30 @@ def log_pair_sanity(data: dict):
     log_path = "logs/pair_sanity.jsonl"
     with open(log_path, "a", encoding="utf-8") as f:
         f.write(json.dumps(log_data, ensure_ascii=False) + "\n")
+
+def log_sanity_filter_reject(tweet_id, tweet_text, debug_info):
+    """
+    Log tweet yang gagal filter anchor-directional.
+    """
+    os.makedirs("logs", exist_ok=True)
+    log_file = "logs/sanity_filter_rejected.jsonl"
+
+    entry = {
+        "tweet_id": tweet_id,
+        "text": tweet_text,
+        "debug_info": debug_info,
+        "timestamp": datetime.datetime.now().isoformat()
+    }
+
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+def log_snapper_candidates(data: dict):
+    os.makedirs("logs", exist_ok=True)
+    log_file = "logs/snapper_candidates.jsonl"
+    entry = {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "data": data
+    }
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")

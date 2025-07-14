@@ -92,10 +92,15 @@ def find_nearby_same_name(name, lat, lng):
 
     return None
 
-def check_pair_sanity(from_name, to_name, from_lat, from_lng, to_lat, to_lng, distance_threshold_km=8):
+def check_pair_sanity(
+    from_name, to_name,
+    from_lat, from_lng,
+    to_lat, to_lng,
+    distance_threshold_km=8
+):
     """
     Validasi jarak from-to ➜ kalau jauh ➜ cari nearby same-name.
-    Return updated from & to.
+    Logika fix: kalau nearby FROM-name ➜ ganti FROM, kalau nearby TO-name ➜ ganti TO.
     """
     new_from = {"location": from_name, "lat": from_lat, "lng": from_lng}
     new_to = {"location": to_name, "lat": to_lat, "lng": to_lng}
@@ -110,21 +115,26 @@ def check_pair_sanity(from_name, to_name, from_lat, from_lng, to_lat, to_lng, di
 
     print(f"[check_pair_sanity] ⚠️ Distance too far ({distance:.2f} km), trying recheck nearby same-name.")
 
+    # ✅ FIX: nearby TO-name di sekitar FROM ➜ ganti TO
     nearby_from = find_nearby_same_name(to_name, from_lat, from_lng)
     if nearby_from:
-        new_from.update(nearby_from)
+        new_to.update(nearby_from)
 
+    # ✅ FIX: nearby FROM-name di sekitar TO ➜ ganti FROM
     nearby_to = find_nearby_same_name(from_name, to_lat, to_lng)
     if nearby_to:
-        new_to.update(nearby_to)
+        new_from.update(nearby_to)
 
-    new_distance = haversine_distance(new_from["lat"], new_from["lng"], new_to["lat"], new_to["lng"])
+    new_distance = haversine_distance(
+        new_from["lat"], new_from["lng"],
+        new_to["lat"], new_to["lng"]
+    )
 
     log_pair_sanity({
-        "from_loc_before" : from_name,
-        "to_loc_before" : to_name,
-        "from_loc_after" : new_from["location"],
-        "to_loc_after" : new_to["location"],
+        "initial_from_location": from_name,
+        "initial_to_location": to_name,
+        "from_loc_after": new_from["location"],
+        "to_loc_after": new_to["location"],
         "from_lat_before": from_lat,
         "from_lng_before": from_lng,
         "to_lat_before": to_lat,
@@ -134,7 +144,7 @@ def check_pair_sanity(from_name, to_name, from_lat, from_lng, to_lat, to_lng, di
         "to_lat_after": new_to["lat"],
         "to_lng_after": new_to["lng"],
         "initial_distance_km": distance,
-        "latest_distance_km": new_distance,
+        "final_distance_km": new_distance
     })
-        
+
     return new_from, new_to

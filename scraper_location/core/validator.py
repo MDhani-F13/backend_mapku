@@ -6,7 +6,7 @@ import requests
 from fuzzywuzzy import fuzz
 from scraper_location.core.logger import log_validator_result
 import Levenshtein
-
+from scraper_location.config.constants import GOOD_TYPES
 
 class LocationValidator:
     def __init__(self, jalan_file: str, cache_file: str, api_key: str, kota_file: str, api_limit: int = 100):
@@ -130,7 +130,7 @@ class LocationValidator:
 
                 # Filter lebih ketat: Surabaya atau Sidoarjo + optional types
                 if ("surabaya" in addr or "sidoarjo" in addr):
-                    good_types = {"route", "street_address", "intersection"}
+                    good_types = GOOD_TYPES
                     if not good_types or any(t in types for t in good_types):
                         valid = True
 

@@ -128,3 +128,306 @@
 {"action": "snap_from", "original": "Kenjeran", "new": "Nasi goreng pak kacong", "used_lat": -7.239507499999998, "used_lng": 112.7487299}
 {"action": "snap_from", "original": "Wonokromo", "new": "POS POLISI SIMPANG LAYANG WONOKROMO", "used_lat": -7.287961999999999, "used_lng": 112.7393952}
 {"action": "snap_to", "original": "Bundaran Waru", "new": "Parkir Lancar 1", "used_lat": -7.3370772, "used_lng": 112.7290235}
+{"action": "snap_to", "original": "Surabaya", "new": "Simpang Gembong Tebasan B", "used_lat": -7.230561199999999, "used_lng": 112.7450413}
+{"action": "snap_from", "original": "Medaeng", "new": "SIMPANG MEDAENG", "used_lat": -7.34952, "used_lng": 112.71398}
+{"action": "snap_from", "original": "Surabaya", "new": "Toko Pertanian \"surya Tani\"", "used_lat": -7.3609036, "used_lng": 112.7291776}
+{"action": "snap_from", "original": "Waru", "new": "Simpang Tenggilis Barat B", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_from", "original": "Surabaya", "new": "Toko Pertanian \"surya Tani\"", "used_lat": -7.3609036, "used_lng": 112.7291776}
+{"action": "snap_from", "original": "Waru", "new": "Wonocolo", "used_lat": -7.3045786, "used_lng": 112.7250735}
+{"action": "snap_from", "original": "Surabaya", "new": "Exit Tol Masjid AJT", "used_lat": -7.3470103, "used_lng": 112.7275417}
+{"action": "snap_from", "original": "Waru", "new": "BOK CINO", "used_lat": -7.4258355, "used_lng": 112.6935859}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "Exit Tol Masjid AJT"}
+{"action": "snap_from", "original": "Kenjeran", "new": "Simpang Nyamplungan 1 - Nyamplungan Raya", "used_lat": -7.239507499999998, "used_lng": 112.7487299}
+{"action": "snap_from", "original": "Wonokromo", "new": "POS POLISI SIMPANG LAYANG WONOKROMO", "used_lat": -7.287961999999999, "used_lng": 112.7393952}
+{"action": "snap_from", "original": "Surabaya", "new": "Toko Pertanian \"surya Tani\"", "used_lat": -7.3609036, "used_lng": 112.7291776}
+{"action": "snap_to", "original": "Surabaya", "new": "Spesialis Pintu Besi Garasi , Panic Exit Emergency Door & Steel Pabrikasi General Kontraktor Architectural Hardware", "used_lat": -7.320894600000001, "used_lng": 112.7330452}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_from", "original": "Waru", "new": "SOKUL ( SODEEB KULINER ) SIMPANG TIGA", "used_lat": -7.447523399999999, "used_lng": 112.7002352}
+{"action": "snap_from", "original": "Surabaya", "new": "Toko Pertanian \"surya Tani\"", "used_lat": -7.3609036, "used_lng": 112.7291776}
+{"action": "snap_to", "original": "Surabaya", "new": "Lancar Frozen food", "used_lat": -7.451450699999999, "used_lng": 112.7202744}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Halte Simpang Dukuh"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ahmad Yani", "source": {"name": "Jalan Ahmad Yani", "lat": -7.3206571, "lng": 112.7327503, "distance": 41.835246217731694}}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Mutiara Timur I", "source": {"name": "Jalan Mutiara Timur I", "lat": -7.4479174, "lng": 112.700327, "distance": 44.736423092853634}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Kombes Pol. M. Duryat", "source": {"name": "Jalan Kombes Pol. M. Duryat", "lat": -7.4514183, "lng": 112.7202423, "distance": 5.039339054686869}}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ampel Mulia", "source": {"name": "Jalan Ampel Mulia", "lat": -7.2303387, "lng": 112.744404, "distance": 74.56088423755772}}
+{"action": "snap_from", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Ahmad Yani", "source": {"name": "Jalan Ahmad Yani", "lat": -7.3206571, "lng": 112.7327503, "distance": 41.835246217731694}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Gunung Sari", "source": {"name": "Jalan Gunung Sari", "lat": -7.3048192, "lng": 112.7247748, "distance": 42.3779825575868}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_from", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_from", "original": "Kenjeran", "new": "Jalan Kapasan Dalam V", "source": {"name": "Jalan Kapasan Dalam V", "lat": -7.2399033, "lng": 112.7487501, "distance": 43.82908907172006}}
+{"action": "snap_from", "original": "Wonokromo", "new": "Jalan Comal", "source": {"name": "Jalan Comal", "lat": -7.2872389, "lng": 112.7400497, "distance": 107.78957440906466}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ahmad Yani", "source": {"name": "Jalan Ahmad Yani", "lat": -7.3206571, "lng": 112.7327503, "dist_to_origin": 41.835246217731694, "dist_to_target": 7306.789037152118}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Kombes Pol. M. Duryat", "source": {"name": "Jalan Kombes Pol. M. Duryat", "lat": -7.4514183, "lng": 112.7202423, "dist_to_origin": 5.039339054686869, "dist_to_target": 21735.296791299344}}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_from_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Kanginan I"}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Mutiara Timur I", "source": {"name": "Jalan Mutiara Timur I", "lat": -7.4479174, "lng": 112.700327, "dist_to_origin": 44.736423092853634, "dist_to_target": 13094.609102965067}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "dist_to_origin": 4.797003539792523, "dist_to_target": 11710.77162453543}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ampel Mulia", "source": {"name": "Jalan Ampel Mulia", "lat": -7.2303387, "lng": 112.744404, "dist_to_origin": 74.56088423755772, "dist_to_target": 3118.4052562659276}}
+{"action": "snap_from_both", "original": "Krian", "new": "Jalan Raya Kemerakan"}
+{"action": "snap_to_both", "original": "Trosobo", "new": "Gang Kamboja"}
+{"action": "snap_from", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "dist_to_origin": 20.10032967343389, "dist_to_target": 11667.413786926048}}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ampel Mulia", "source": {"name": "Jalan Ampel Mulia", "lat": -7.2303387, "lng": 112.744404, "distance": 74.56088423755772}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ampel Mulia", "source": {"name": "Jalan Ampel Mulia", "lat": -7.2303387, "lng": 112.744404, "distance": 74.56088423755772}}
+{"action": "snap_from_both", "original": "Krian", "new": "Jalan Raya Kemerakan"}
+{"action": "snap_to_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_from", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Ahmad Yani", "source": {"name": "Jalan Ahmad Yani", "lat": -7.3206571, "lng": 112.7327503, "distance": 41.835246217731694}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Gunung Sari", "source": {"name": "Jalan Gunung Sari", "lat": -7.3048192, "lng": 112.7247748, "distance": 42.3779825575868}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_from", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_from", "original": "Waru", "new": "Jalan Mutiara Timur I", "source": {"name": "Jalan Mutiara Timur I", "lat": -7.4479174, "lng": 112.700327, "distance": 44.736423092853634}}
+{"action": "snap_from", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Ampel Mulia", "source": {"name": "Jalan Ampel Mulia", "lat": -7.2303387, "lng": 112.744404, "distance": 74.56088423755772}}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Kemerakan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ahmad Yani", "source": {"name": "Jalan Ahmad Yani", "lat": -7.3206571, "lng": 112.7327503, "distance": 41.835246217731694}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Gunung Sari", "source": {"name": "Jalan Gunung Sari", "lat": -7.3048192, "lng": 112.7247748, "distance": 42.3779825575868}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Mutiara Timur I", "source": {"name": "Jalan Mutiara Timur I", "lat": -7.4479174, "lng": 112.700327, "distance": 44.736423092853634}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Sidotopo Lor", "source": {"name": "Jalan Sidotopo Lor", "lat": -7.2297036, "lng": 112.7519986, "dist_to_origin": 774.1970487745301, "dist_to_target": 3070.965882776749}}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Lidah Kulon", "new": "Lidah Kulon Gang II"}
+{"action": "snap_to_both", "original": "Lidah Kulon", "new": "Lidah Kulon Gang II"}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.4144400623394, "dist_to_target": 1175.5498544023249, "bearing_diff": 4.123949554256058}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.4144400623394, "dist_to_target": 1175.5498544023249, "bearing_diff": 4.123949554256058}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4424, "lng": 112.6970145, "dist_to_origin": 668.9143128117117, "dist_to_target": 12814.949455544092}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Embong Gayam"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Ponokawan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3499519, "lng": 112.7132319, "distance": 95.41477820479395}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.4144400623394, "dist_to_target": 1175.5498544023249, "bearing_diff": 4.123949554256058}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Raya Tenggilis", "source": {"name": "Jalan Raya Tenggilis", "lat": -7.3207313, "lng": 112.7537823, "dist_to_origin": 2289.8211578381165, "dist_to_target": 6998.4935912303345}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Letnan Jenderal S. Parman", "source": {"name": "Jalan Letnan Jenderal S. Parman", "lat": -7.3608687, "lng": 112.7292034, "distance": 4.797003539792523}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang Timur PTT V A", "source": {"name": "Jalan Ketintang Timur PTT V A", "lat": -7.312589, "lng": 112.7299158, "dist_to_origin": 1034.7430311024136, "dist_to_target": 5881.418384056743}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Raya Waru", "source": {"name": "Jalan Raya Waru", "lat": -7.3468842, "lng": 112.7276708, "distance": 19.9414933906519}}
+{"action": "snap_to", "original": "Waru", "new": "Rest Area Km 754", "source": {"name": "Rest Area Km 754", "lat": -7.425907, "lng": 112.6937533, "distance": 20.10032967343389}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Jalan Harun Tohir"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Jalan Bypass Waru"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.1352895890313, "dist_to_target": 13939.323130121278, "bearing_diff": 4.38473548494818}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_from_both", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso"}
+{"action": "snap_to_both", "original": "Surabaya", "new": "Jalan Gerbong"}
+{"action": "snap_from_both", "original": "Trosobo", "new": "Jalan Raya Trosobo"}
+{"action": "snap_to_both", "original": "Krian", "new": "Jalan Raya Kemasan"}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Letnan Jenderal Sutoyo", "source": {"name": "Jalan Letnan Jenderal Sutoyo", "lat": -7.3523261, "lng": 112.716944, "dist_to_origin": 451.0, "dist_to_target": 316.52, "bearing_diff": 20.82}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.41, "dist_to_target": 1175.55, "bearing_diff": 4.12}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jemur Wonosari Gang Buntu", "source": {"name": "Jalan Jemur Wonosari Gang Buntu", "lat": -7.3237769, "lng": 112.7368126, "dist_to_origin": 524.07, "dist_to_target": 4479.33, "bearing_diff": 3.1}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang", "source": {"name": "Jalan Ketintang", "lat": -7.3088323, "lng": 112.7283097, "dist_to_origin": 590.76, "dist_to_target": 6303.33, "bearing_diff": 5.56}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Jenderal Ahmad Yani", "source": {"name": "Jalan Jenderal Ahmad Yani", "lat": -7.340094, "lng": 112.7297358, "dist_to_origin": 802.34, "dist_to_target": 9464.86, "bearing_diff": 2.25}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4100629, "lng": 112.6942072, "dist_to_origin": 1745.68, "dist_to_target": 10444.53, "bearing_diff": 41.9}}
+{"action": "snap_from_both", "original": "Medaeng", "new": "Bungurasih Timur"}
+{"action": "snap_to_both", "original": "bungurasih", "new": "Bungurasih Utara"}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.14, "dist_to_target": 13939.32, "bearing_diff": 4.38}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jatisari Indah I", "source": {"name": "Jalan Jatisari Indah I", "lat": -7.4466186, "lng": 112.7036992, "dist_to_origin": 395.26, "dist_to_target": 12767.47, "bearing_diff": 40.8}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jatisari Indah I", "source": {"name": "Jalan Jatisari Indah I", "lat": -7.4466186, "lng": 112.7036992, "dist_to_origin": 395.26, "dist_to_target": 12767.47, "bearing_diff": 40.8}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_from_luas_luas", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso", "source": {"name": "Perumahan Alana Regency Tambak Oso", "lat": -7.3535319, "lng": 112.8080745, "dist_to_origin": 651.84, "dist_to_target": 12291.33, "bearing_diff": 79.58}}
+{"action": "snap_to_luas_luas", "original": "Surabaya", "new": "Jalan Tol Waru–Juanda", "source": {"name": "Jalan Tol Waru–Juanda", "lat": -7.3499028, "lng": 112.7836119, "dist_to_origin": 2730.58, "dist_to_target": 10798.56, "bearing_diff": 51.46}}
+{"action": "snap_from_luas_luas", "original": "Trosobo", "new": "Jalan Raya Trosobo", "source": {"name": "Jalan Raya Trosobo", "lat": -7.3779806, "lng": 112.629331, "dist_to_origin": 1006.56, "dist_to_target": 5393.44, "bearing_diff": 8.23}}
+{"action": "snap_to_luas_luas", "original": "Krian", "new": "Jalan Raya Trosobo", "source": {"name": "Jalan Raya Trosobo", "lat": -7.3824255, "lng": 112.6180315, "dist_to_origin": 1340.86, "dist_to_target": 4076.21, "bearing_diff": 9.38}}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Letnan Jenderal Sutoyo", "source": {"name": "Jalan Letnan Jenderal Sutoyo", "lat": -7.3523261, "lng": 112.716944, "dist_to_origin": 451.0, "dist_to_target": 316.52, "bearing_diff": 20.82}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.41, "dist_to_target": 1175.55, "bearing_diff": 4.12}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jemur Wonosari Gang Buntu", "source": {"name": "Jalan Jemur Wonosari Gang Buntu", "lat": -7.3237769, "lng": 112.7368126, "dist_to_origin": 524.07, "dist_to_target": 4479.33, "bearing_diff": 3.1}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang", "source": {"name": "Jalan Ketintang", "lat": -7.3088323, "lng": 112.7283097, "dist_to_origin": 590.76, "dist_to_target": 6303.33, "bearing_diff": 5.56}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Jenderal Ahmad Yani", "source": {"name": "Jalan Jenderal Ahmad Yani", "lat": -7.340094, "lng": 112.7297358, "dist_to_origin": 802.34, "dist_to_target": 9464.86, "bearing_diff": 2.25}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4100629, "lng": 112.6942072, "dist_to_origin": 1745.68, "dist_to_target": 10444.53, "bearing_diff": 41.9}}
+{"action": "snap_from_luas_luas", "original": "Medaeng", "new": "Bungurasih Timur", "source": {"name": "Bungurasih Timur", "lat": -7.352359, "lng": 112.7206886, "dist_to_origin": 539.36, "dist_to_target": 553.22, "bearing_diff": 33.56}}
+{"action": "snap_to_luas_luas", "original": "bungurasih", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3466876, "lng": 112.7195837, "dist_to_origin": 638.97, "dist_to_target": 85.96, "bearing_diff": 0.58}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.14, "dist_to_target": 13939.32, "bearing_diff": 4.38}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jatisari Indah I", "source": {"name": "Jalan Jatisari Indah I", "lat": -7.4466186, "lng": 112.7036992, "dist_to_origin": 395.26, "dist_to_target": 12767.47, "bearing_diff": 40.8}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_from_luas_luas", "original": "Tambakoso", "new": "Perumahan Alana Regency Tambak Oso", "source": {"name": "Perumahan Alana Regency Tambak Oso", "lat": -7.3535319, "lng": 112.8080745, "dist_to_origin": 651.84, "dist_to_target": 12291.33, "bearing_diff": 79.58}}
+{"action": "snap_to_luas_luas", "original": "Surabaya", "new": "Jalan Tol Waru–Juanda", "source": {"name": "Jalan Tol Waru–Juanda", "lat": -7.3499028, "lng": 112.7836119, "dist_to_origin": 2730.58, "dist_to_target": 10798.56, "bearing_diff": 51.46}}
+{"action": "snap_to", "original": "Tambak Osowilangun", "new": "Jalan Tol Surabaya–Gresik", "source": {"name": "Jalan Tol Surabaya–Gresik", "lat": -7.2383973, "lng": 112.6779703, "dist_to_origin": 784.79, "dist_to_target": 3539.73, "bearing_diff": 13.64}}
+{"action": "snap_from_luas_luas", "original": "Trosobo", "new": "Jalan Raya Trosobo", "source": {"name": "Jalan Raya Trosobo", "lat": -7.3779806, "lng": 112.629331, "dist_to_origin": 1006.56, "dist_to_target": 5393.44, "bearing_diff": 8.23}}
+{"action": "snap_to_luas_luas", "original": "Krian", "new": "Jalan Raya Trosobo", "source": {"name": "Jalan Raya Trosobo", "lat": -7.3824255, "lng": 112.6180315, "dist_to_origin": 1340.86, "dist_to_target": 4076.21, "bearing_diff": 9.38}}
+{"action": "snap_to", "original": "Medaeng", "new": "Jalan Letnan Jenderal Sutoyo", "source": {"name": "Jalan Letnan Jenderal Sutoyo", "lat": -7.3523261, "lng": 112.716944, "dist_to_origin": 451.0, "dist_to_target": 316.52, "bearing_diff": 20.82}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Lidah Wetan", "new": "Lidah Kulon Gang II", "source": {"name": "Lidah Kulon Gang II", "lat": -7.3046423, "lng": 112.6599411, "dist_to_origin": 536.41, "dist_to_target": 1175.55, "bearing_diff": 4.12}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Jemur Wonosari Gang Buntu", "source": {"name": "Jalan Jemur Wonosari Gang Buntu", "lat": -7.3237769, "lng": 112.7368126, "dist_to_origin": 524.07, "dist_to_target": 4479.33, "bearing_diff": 3.1}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Layang Waru", "source": {"name": "Jalan Layang Waru", "lat": -7.3556486, "lng": 112.729186, "dist_to_origin": 581.16, "dist_to_target": 11148.2, "bearing_diff": 12.3}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Ketintang", "source": {"name": "Jalan Ketintang", "lat": -7.3088323, "lng": 112.7283097, "dist_to_origin": 590.76, "dist_to_target": 6303.33, "bearing_diff": 5.56}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Jenderal Ahmad Yani", "source": {"name": "Jalan Jenderal Ahmad Yani", "lat": -7.340094, "lng": 112.7297358, "dist_to_origin": 802.34, "dist_to_target": 9464.86, "bearing_diff": 2.25}}
+{"action": "snap_to", "original": "Waru", "new": "Jalan Tol Surabaya–Gempol", "source": {"name": "Jalan Tol Surabaya–Gempol", "lat": -7.4100629, "lng": 112.6942072, "dist_to_origin": 1745.68, "dist_to_target": 10444.53, "bearing_diff": 41.9}}
+{"action": "snap_from_luas_luas", "original": "Medaeng", "new": "Bungurasih Timur", "source": {"name": "Bungurasih Timur", "lat": -7.352359, "lng": 112.7206886, "dist_to_origin": 539.36, "dist_to_target": 553.22, "bearing_diff": 33.56}}
+{"action": "snap_to_luas_luas", "original": "bungurasih", "new": "Jalan Bypass Waru", "source": {"name": "Jalan Bypass Waru", "lat": -7.3466876, "lng": 112.7195837, "dist_to_origin": 638.97, "dist_to_target": 85.96, "bearing_diff": 0.58}}
+{"action": "snap_to", "original": "Surabaya", "new": "Jalan Frontage Gedangan", "source": {"name": "Jalan Frontage Gedangan", "lat": -7.3813555, "lng": 112.7288235, "dist_to_origin": 925.14, "dist_to_target": 13939.32, "bearing_diff": 4.38}}

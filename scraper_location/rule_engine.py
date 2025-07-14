@@ -1,14 +1,14 @@
 import re, os, json
 from scraper_location.core.logger import log_step2_from_to, log_step3_enrich_result
-from scraper_location.utils.pattern_matcher import extract_from_to, handle_single_locations, should_fallback_single
+from scraper_location.utils.pattern_matcher import extract_from_to, handle_single_locations, should_fallback_single, check_multi_loc_fallback
 from scraper_location.utils.tag_utils import processing_location_tags
 from scraper_location.utils.merger import merge_adjacents_locations
 from scraper_location.utils.location_snapper import snap_location_pair, is_area
 from scraper_location.utils.nearby_search_place import check_pair_sanity
-from scraper_location.utils.filter_segment import filter_segments_for_closure_only
 from traffic.utils import can_make_directions_call
 from traffic.models import TrafficSegment
 from scraper_location.utils.google_client import get_directions_polyline
+from scraper_location.utils.context_window import extract_context_window
 from dateutil import parser
 import os
 import json
@@ -68,10 +68,12 @@ def check_rules_step1(merged_tags, validator, tweet_obj=None):
 
         # Gunakan original jika ada indexnya, else fallback ""
         original = original_sents[idx] if idx < len(original_sents) else ""
+        context_sentence = extract_context_window(cleaned_sentence, locs)
 
         sentences_info.append({
             "sentence": cleaned_sentence,
             "locations": locs,
+            "context_sentence": context_sentence,
             "original_sentence": original
         })
 
@@ -99,8 +101,10 @@ def check_rules_step2(step1_info):
     """
     STEP 2 FINAL:
     - Proses sentence by sentence
-    - Cari from-to
-    - Fallback single hanya jika murni single
+    - Pakai extract_from_to (logika final)
+    - Jika from==to ➜ treat as fail ➜ cek multi single ➜ atau single
+    - Jika LOC >=2 tapi reason fallback pair but same ➜ skip pair ➜ multi single fallback
+    - Jika LOC == 1 ➜ single
     - Log detail
     """
 
@@ -113,8 +117,10 @@ def check_rules_step2(step1_info):
 
         result = extract_from_to(sentence, locs)
 
+        # Log detail (boleh ubah ke file kalau mau)
         log_step2_from_to(sentence, locs, result["from"], result["to"], result["reason"])
 
+        # 1️⃣ Pair OK ➜ from & to valid ➜ simpan
         if result["from"] and result["to"]:
             segments.append({
                 "from": result["from"],
@@ -122,6 +128,17 @@ def check_rules_step2(step1_info):
                 "reason": result["reason"],
                 "sentence": sentence
             })
+
+        # 2️⃣ Fallback pair fail atau same ➜ multi single kalau perlu
+        elif result["reason"] in ["multi-loc fallback", "fallback pair but same", "explicit dari-ke but same", "matched arah but same", "matched menuju but same"]:
+            multi_singles = check_multi_loc_fallback(sentence, locs)
+            if multi_singles:
+                print(f"[STEP2] ➜ Multi-loc fallback: {multi_singles}")
+                singles.extend(multi_singles)
+            else:
+                print(f"[STEP2] ➜ Pair fail with clue but same, no multi context ➜ SKIP")
+
+        # 3️⃣ Pure single fallback
         elif should_fallback_single(locs, result):
             single = handle_single_locations(locs)
             if single:
@@ -130,8 +147,9 @@ def check_rules_step2(step1_info):
                 else:
                     single["sentence"] = sentence
                     singles.append(single)
+
         else:
-            print(f"[STEP2] Pair fail, skip fallback single ➜ sentence='{sentence}' | locs={locs}")
+            print(f"[STEP2] ➜ Pair fail & no fallback ➜ skip | sentence='{sentence}' | locs={locs}")
 
     output = {
         "segments": segments,
