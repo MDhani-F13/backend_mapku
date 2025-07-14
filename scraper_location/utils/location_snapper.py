@@ -10,6 +10,7 @@ from scraper_location.utils.quota_tracker import QuotaTracker
 from scraper_location.core.logger import log_snapper, log_snapper_candidates
 from scraper_location.config.major_areas import MAJOR_AREAS
 from scraper_location.utils.bearing_calc import bearing, bearing_diff
+from scraper_location.utils.google_client import nearest_roads_snap, lookup_place_id
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 tracker = QuotaTracker()
@@ -20,7 +21,6 @@ EXCLUDED_PREFIXES = [
 ]
 
 OVERPASS_API_URL = "https://overpass-api.de/api/interpreter"
-GOOGLE_DIRECTIONS_URL = "https://maps.googleapis.com/maps/api/directions/json"
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 CACHE_FILE = os.path.join(BASE_PATH, 'overpass_cache.json')
 
@@ -173,44 +173,61 @@ def overpass_snap_multi(lat: float, lng: float, input_name: str, target_lat: flo
     return None
 
 
-def direction_snap(origin_lat, origin_lng, dest_lat, dest_lng) -> dict | None:
+def roads_snap(lat: float, lng: float, input_name: str, target_lat: float, target_lng: float) -> dict | None:
     if not tracker.can_use():
         return None
 
-    params = {
-        "origin": f"{origin_lat},{origin_lng}",
-        "destination": f"{dest_lat},{dest_lng}",
-        "key": GOOGLE_API_KEY
-    }
-
     try:
-        resp = requests.get(GOOGLE_DIRECTIONS_URL, params=params, timeout=10)
-        resp.raise_for_status()
-        data = resp.json()
+        data = nearest_roads_snap(lat, lng)
         tracker.increment()
 
-        routes = data.get("routes")
-        if routes:
-            steps = routes[0]["legs"][0]["steps"]
-            if steps:
-                first_step = steps[0]
-                instruction = first_step.get("html_instructions", "")
-                name = _extract_road_name(instruction)
-                loc = first_step["start_location"]
-                if name:
-                    return {
-                        "name": name,
-                        "lat": loc["lat"],
-                        "lng": loc["lng"]
-                    }
+        snapped_points = data.get("snappedPoints")
+        if snapped_points:
+            scored = []
+            for i, sp in enumerate(snapped_points):
+                sp_loc = sp["location"]
+                snapped_lat = sp_loc["latitude"]
+                snapped_lng = sp_loc["longitude"]
+                dist_to_target = geodesic(
+                    (snapped_lat, snapped_lng),
+                    (target_lat, target_lng)
+                ).meters
+                scored.append({
+                    "lat": snapped_lat,
+                    "lng": snapped_lng,
+                    "dist_to_target": round(dist_to_target, 2),
+                    "placeId": sp.get("placeId"),
+                    "index": i
+                })
+
+            best = min(scored, key=lambda s: s["dist_to_target"])
+
+            place_name = None
+            if best["placeId"]:
+                try:
+                    place_name = lookup_place_id(best["placeId"])
+                except Exception as e:
+                    print(f"[Roads Snap] PlaceID lookup failed: {e}")
+
+            log_snapper({
+                "action": "roads_snap",
+                "points": scored,
+                "chosen": best,
+                "resolved_name": place_name or input_name
+            })
+
+            return {
+                "name": place_name or input_name,
+                "lat": best["lat"],
+                "lng": best["lng"],
+                "source": "roads_api",
+                "placeId": best["placeId"]
+            }
+
     except Exception as e:
-        print(f"[Direction Snap] Error: {e}")
+        print(f"[Roads Snap] Error: {e}")
+
     return None
-
-
-def _extract_road_name(instruction: str) -> str | None:
-    matches = re.findall(r'<b>(.*?)</b>', instruction)
-    return matches[0] if matches else None
 
 
 def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
@@ -223,14 +240,14 @@ def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
     print(f"[Snapper] from_is_area={from_is_area}, to_is_area={to_is_area}")
 
     if from_is_area and not to_is_area and to_lat and to_lng:
-        result = overpass_snap_multi(to_lat, to_lng, to_loc, from_lat, from_lng) or \
-                 direction_snap(to_lat, to_lng, from_lat, from_lng)
+        result = roads_snap(to_lat, to_lng, from_loc, from_lat, from_lng) or \
+                 overpass_snap_multi(to_lat, to_lng, from_loc, from_lat, from_lng)
         if result:
             new_from.update({
                 "location": result["name"],
                 "lat": result["lat"],
                 "lng": result["lng"],
-                "reason": "snap_from_overpass_or_direction"
+                "reason": "snap_from_roads_or_overpass"
             })
             log_snapper({
                 "action": "snap_from",
@@ -240,14 +257,14 @@ def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
             })
 
     elif to_is_area and not from_is_area and from_lat and from_lng:
-        result = overpass_snap_multi(from_lat, from_lng, from_loc, to_lat, to_lng) or \
-                 direction_snap(from_lat, from_lng, to_lat, to_lng)
+        result = roads_snap(from_lat, from_lng, to_loc, to_lat, to_lng) or \
+                 overpass_snap_multi(from_lat, from_lng, to_loc, to_lat, to_lng)
         if result:
             new_to.update({
                 "location": result["name"],
                 "lat": result["lat"],
                 "lng": result["lng"],
-                "reason": "snap_to_overpass_or_direction"
+                "reason": "snap_to_roads_or_overpass"
             })
             log_snapper({
                 "action": "snap_to",
@@ -258,8 +275,8 @@ def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
 
     elif from_is_area and to_is_area:
         if from_lat and from_lng:
-            result_from = overpass_snap_multi(from_lat, from_lng, from_loc, to_lat, to_lng) or \
-                          direction_snap(from_lat, from_lng, to_lat, to_lng)
+            result_from = roads_snap(from_lat, from_lng, from_loc, to_lat, to_lng) or \
+                          overpass_snap_multi(from_lat, from_lng, from_loc, to_lat, to_lng)
             if result_from:
                 new_from.update({
                     "location": result_from["name"],
@@ -274,15 +291,16 @@ def snap_location_pair(from_loc, to_loc, from_lat, from_lng, to_lat, to_lng):
                     "source": result_from
                 })
 
-                result_to = overpass_snap_multi(
+                result_to = roads_snap(
                     result_from["lat"],
                     result_from["lng"],
                     to_loc,
                     to_lat,
                     to_lng
-                ) or direction_snap(
+                ) or overpass_snap_multi(
                     result_from["lat"],
                     result_from["lng"],
+                    to_loc,
                     to_lat,
                     to_lng
                 )

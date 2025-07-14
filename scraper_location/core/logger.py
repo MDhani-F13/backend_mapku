@@ -110,16 +110,13 @@ def log_step3_enrich_result(entry):
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-def log_snapper(result: dict):
-    """
-    Log hasil snap_to_major_road ke logs/snapper.jsonl
-    """
-    os.makedirs("logs", exist_ok=True)
-    log_file = "logs/snapper.jsonl"
+def log_snapper(data):
+    log = {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "data": data
+    }
+    print(json.dumps(log, indent=2))
 
-    with open(log_file, "a", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False)
-        f.write("\n")
 
 def log_pair_sanity(data: dict):
     os.makedirs("logs", exist_ok=True)
