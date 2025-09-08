@@ -39,6 +39,9 @@ async def run_pipeline(config_path="config.ini", output_file=None, queries=None)
     kota_file = os.path.join(BASE_PATH,'daftar_kota_indonesia.json')
     cache_file = os.path.join(BASE_PATH, 'google_location_caches.json')
 
+    if tweet_file is None:
+        tweet_file = os.path.join(OUTPUT_DIR, 'tweet_final.json')
+
     if output_file is None:
         output_file = os.path.join(OUTPUT_DIR, 'preprocess_step1-3_final.json')
 
@@ -60,7 +63,7 @@ async def run_pipeline(config_path="config.ini", output_file=None, queries=None)
         validator=validator,
         nlp_pipeline=nlp,
         queries=queries,
-        output_file=None,  # Tidak perlu langsung simpan
+        output_file=tweet_file, 
         unstructured_file=None,
         debug=True
     )

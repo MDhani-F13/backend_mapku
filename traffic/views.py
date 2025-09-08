@@ -6,7 +6,7 @@ from rest_framework.generics import ListAPIView
 from .models import TrafficReport, TrafficSegment
 from .serializers import TrafficReportSerializer,  TrafficSegmentSerializer
 import json
-from scraper_location.rule_engine import get_or_cache_directions_polyline
+from scraper_location.utils.polyline_utils import get_or_cache_directions_polyline
 from rest_framework.decorators import api_view
 
 class UploadTrafficData(APIView):

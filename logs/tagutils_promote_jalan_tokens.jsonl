@@ -1484,3 +1484,695 @@
 {"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T13:23:03.580070"}
 {"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T13:23:03.591202"}
 {"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T13:23:03.748234"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-14T15:22:19.053824"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:20.637050"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:21.024481"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:21.426489"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:21.446833"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:21.464280"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:21.508377"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:22.951084"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:22.962400"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:23.212204"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:23.232400"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:23.260029"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:22:24.953510"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:25.408747"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:25.435569"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:25.821377"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:26.349690"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:22:26.713453"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:27.172423"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:27.433369"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:27.461867"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:27.497780"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:28.024062"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:28.236798"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:28.501685"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:22:28.751947"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:28.978385"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:28.988548"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:28.990554"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:30.240583"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:30.643748"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:36.303975"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:36.332779"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:42.373528"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:42.397108"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:42.431175"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:43.898943"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:43.917145"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:43.940565"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:22:43.970098"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:45.360418"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:45.727871"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:48.236750"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:49.493445"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:49.495444"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:49.527704"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:22:54.449986"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:22:57.884059"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:01.451242"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:23:01.485597"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:02.865605"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:05.314870"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:10.835377"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:20.151025"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:23:21.316259"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:27.508463"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:23:27.541797"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:49:56.647082"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:56.956799"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:56.972052"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:56.983044"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:49:57.005842"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:58.297254"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:58.319179"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:49:58.612118"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:58.628495"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:49:58.668623"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:50:00.073829"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:00.474027"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:00.508905"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:00.884901"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:01.398527"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:50:01.788403"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:02.141278"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:02.343136"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:02.363019"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:02.390524"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:02.741556"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:02.971317"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:03.231516"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:03.467270"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:03.684159"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:03.687985"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:03.696321"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:04.833613"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:05.136455"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:10.581642"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:50:10.605062"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:17.668712"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:17.697535"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:50:17.734065"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:19.096220"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:19.100800"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:50:19.127168"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T15:50:19.169247"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:50:20.516752"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-14T15:50:20.813916"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:22.044970"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:22.351102"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:25.321886"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:26.558672"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:26.561083"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:26.592046"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:50:32.424113"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:36.793335"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:41.832682"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T15:50:41.859488"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:43.167129"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:46.342941"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:50:53.144364"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:51:05.521725"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T15:51:06.639865"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:51:14.706132"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T15:51:14.739092"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:40:28.986042"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:29.360082"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:29.368945"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:29.393267"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:29.424463"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:30.814386"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:30.831269"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:31.113381"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:31.132769"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:31.162167"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T16:40:32.768647"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:33.196447"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:33.232510"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:33.633759"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:34.199782"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T16:40:34.592079"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:34.990676"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:35.208784"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:35.219318"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:35.242472"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:35.540451"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:35.732822"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:36.053753"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:36.308252"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:36.584666"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:39.819961"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:41.256826"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:41.262222"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:41.292638"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:40:47.426164"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:51.935038"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:57.529993"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T16:40:57.555169"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:40:58.971861"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:02.182584"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:09.259055"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:22.323562"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:41:23.640627"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:32.026597"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:32.050952"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-14T16:41:36.650359"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:38.008361"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:38.360179"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:38.367053"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:38.378422"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:39.582888"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:39.856412"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:45.120042"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:41:45.152538"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:52.576490"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:52.605860"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:41:52.637547"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:54.057980"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T16:41:54.063427"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:41:54.104507"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T16:41:54.130391"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T16:41:55.655852"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-14T17:30:34.227379"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:35.080179"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:35.279344"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:35.290122"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:35.296819"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:35.309635"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.117804"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.129484"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:36.337884"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T17:30:36.526426"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.705346"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.824349"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.832203"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:36.833483"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:37.553206"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:37.682029"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:37.796963"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:37.920912"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:38.066956"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:41.588898"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:41.599410"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:46.486659"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:46.496920"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:46.511199"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:47.335245"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:47.339481"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:47.348994"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T17:30:47.363265"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:48.171805"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:48.318949"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:48.473001"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:48.475565"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:48.578614"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:48.586891"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:48.600397"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T17:30:49.449710"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:30:49.650225"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:49.946746"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:49.957487"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:49.970977"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:50.148044"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:50.258696"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:52.328813"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:53.064899"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:53.069332"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:30:53.081177"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:30:59.698158"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:03.997997"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:08.240596"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T17:31:08.253633"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:08.998630"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:11.006120"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:18.663618"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:28.351708"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T17:31:28.991866"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:44.439040"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T17:31:44.457961"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-14T18:12:18.487567"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:19.549597"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:19.702390"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:22.301253"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:23.054268"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:23.061146"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:23.074436"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:12:34.669385"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:37.683114"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:42.762450"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:12:42.774621"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:43.451670"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:45.391883"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:12:49.898800"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:00.007003"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:00.813666"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:18.170235"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:18.188121"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:21.034973"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:21.036980"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:21.046498"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:21.057500"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:21.759004"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:21.769716"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:21.943626"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T18:13:22.135786"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:22.312408"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:22.434537"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:22.448402"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:22.450544"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:23.150223"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:23.273902"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:23.403725"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:23.510423"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:23.652164"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:27.684906"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:27.695418"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:31.838809"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:31.849942"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:31.862642"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:32.682837"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:32.685003"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:32.695692"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T18:13:32.711255"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:33.526466"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T18:13:33.664067"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:33.844411"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:33.846597"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:33.940800"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:33.943819"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:33.956027"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T18:13:34.836470"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T18:13:35.036371"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:35.291503"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:35.292944"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:35.308761"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T18:13:35.472713"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:17.795946"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:19.982955"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:21.448042"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:21.472174"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:21.506321"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:20:25.910321"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:29.023571"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:31.724899"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:20:31.754616"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:33.269413"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:35.124668"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:39.324691"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:20:50.076933"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:20:51.417081"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:41.877014"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:43.464156"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:44.408516"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:44.421192"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:44.440377"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:31:47.815215"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:50.211049"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:52.566063"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:31:52.581527"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:53.650436"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:55.106554"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:31:58.457498"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:03.198613"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:32:03.933895"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:43.750250"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:43.766071"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:32:47.201155"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:47.441104"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:47.461374"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:47.464586"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:47.485189"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:48.413016"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:48.420697"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:48.758084"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:48.781851"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:48.805864"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T21:32:49.864035"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:50.166939"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:50.188599"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:50.469281"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:50.871205"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T21:32:51.139071"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:51.408931"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:51.612535"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:51.628577"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:51.651777"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:51.913201"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:52.059157"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:52.257049"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-14T21:32:52.431637"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:52.614230"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:52.628921"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:52.632924"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:53.495992"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:53.715429"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:32:58.077438"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:32:58.092432"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:33:02.509811"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:33:02.527975"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:33:02.551876"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:33:03.527538"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-14T21:33:03.532555"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:33:03.550835"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-14T21:33:03.571075"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-14T21:33:04.584056"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-15T16:20:31.295444"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:32.320794"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:32.495597"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:32.678926"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:32.691018"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:32.694618"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:32.707644"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:33.491539"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:33.498669"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:33.624832"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:33.632339"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:33.647558"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-15T16:20:34.546906"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:34.770216"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:34.784822"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:34.984396"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:35.276212"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-15T16:20:35.478668"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:35.671479"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:35.808668"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:35.821330"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:35.835945"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:36.030908"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:36.149540"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:36.295305"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:36.425703"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:36.543672"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:36.546722"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:36.554260"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:37.286586"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:37.502822"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:41.569227"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:41.580194"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:44.730094"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:44.741874"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:44.755192"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:45.614834"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:45.623771"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:45.636342"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-15T16:20:45.648095"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:46.488927"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:46.644753"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:47.764463"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:48.540541"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:48.549053"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:48.563506"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:20:51.593743"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:53.354800"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:55.499780"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-15T16:20:55.514548"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:56.289135"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:20:57.442194"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:21:00.120559"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:21:04.846154"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-15T16:21:05.582953"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:21:08.833240"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-15T16:21:08.844158"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:00.544860"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:11.029146"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:11.698129"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:11.703146"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:11.714969"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:10:16.955704"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:19.900244"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:23.313769"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:23.324375"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:23.977595"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:26.477319"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:30.863762"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:44.658059"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:10:45.207843"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:51.104328"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:51.113935"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:10:53.616306"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:53.747417"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:53.752710"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:53.757217"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:53.766928"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:54.367224"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:54.370229"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:54.461027"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:54.465204"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:54.475795"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T12:10:55.255888"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:55.436703"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:55.447382"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:55.612224"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:55.843343"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T12:10:55.999603"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.151285"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.246567"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.252022"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.263197"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.401430"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:56.487488"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:56.596006"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T12:10:56.700129"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.805871"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.813387"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:56.816956"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:57.417087"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:10:57.539354"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:01.139565"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:11:01.150025"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:05.599348"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:05.608872"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:11:05.621109"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:06.313003"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:06.316414"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:11:06.325169"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T12:11:06.336390"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T12:11:07.047167"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-16T12:11:07.178023"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T12:11:07.788767"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:15.691027"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:19.301354"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:20.760039"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:20.779983"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:20.815903"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:45:33.466725"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:37.754089"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:42.619767"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:45:42.646377"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:44.077820"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:47.071215"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:45:53.823689"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:06.594141"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:07.745953"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:15.763900"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:15.792999"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-16T14:46:19.953170"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:21.243068"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:21.576489"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:21.590693"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:21.618391"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:21.648193"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:22.877352"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:22.907681"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:23.303291"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T14:46:23.722216"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:24.133804"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:24.406874"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:24.413201"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:24.430628"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:25.610704"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:25.870296"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:26.107352"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:26.331039"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:26.689830"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:32.155436"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:32.184403"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:39.129129"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:39.160593"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:39.205121"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:40.636607"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:40.665442"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:40.695369"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T14:46:40.731466"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:42.137834"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T14:46:42.466929"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:42.788616"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:42.800368"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:43.011790"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:43.016735"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:43.042107"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T14:46:44.366906"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T14:46:44.805665"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:45.349286"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:45.364695"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:45.393990"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T14:46:45.767422"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:14.732092"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:14.908512"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:14.911773"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:14.921847"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:14.932355"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:15.678714"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:15.682327"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:15.788524"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:15.792666"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:15.803637"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T18:48:16.548031"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:16.736990"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:16.748425"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:16.923286"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:17.202216"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T18:48:17.372785"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:17.541445"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:17.640810"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:17.653754"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:17.665274"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:17.820460"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:17.913405"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:18.038570"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:48:18.170704"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-16T18:48:18.273104"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:18.990087"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:19.141302"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:19.147973"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:19.157326"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:19.826205"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:19.954498"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:23.418402"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:23.430316"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:29.636792"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:29.652114"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:29.671588"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:30.377379"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:30.385917"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:30.397372"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T18:48:30.413198"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:31.125986"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:31.262497"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:34.357701"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:35.069870"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:35.075380"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:35.088357"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:48:52.697325"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:48:56.530742"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:49:07.846228"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T18:49:07.888318"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:49:09.200770"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:49:12.670864"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:49:21.034680"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T18:49:34.790950"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T18:49:35.563106"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:09.346153"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:09.347603"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:09.356376"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:43:09.375766"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:10.314785"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:10.330191"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:43:10.546959"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T21:43:10.749913"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:10.958421"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:11.110232"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:11.115661"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:11.117836"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:43:11.842072"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:43:11.988296"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:43:12.113650"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:12.239032"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:12.409795"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:43:16.633821"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:43:16.645740"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:32.030146"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:32.042938"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:44:32.062161"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:33.214776"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:33.223533"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:44:33.237231"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T21:44:33.255274"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:44:34.236645"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:44:34.459835"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:34.685558"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:34.687426"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:44:34.821401"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:34.826069"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:34.846155"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-16T21:44:35.836995"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:44:36.114478"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:36.491383"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:36.498275"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:36.515485"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:36.748895"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:44:36.884792"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:45:08.186829"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:45:09.126105"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:45:09.129799"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:45:09.153606"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:45:46.445194"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:46:10.359719"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:46:49.893251"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-16T21:46:49.907482"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:46:50.805533"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:47:23.961357"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:48:03.746102"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:49:47.610424"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-16T21:49:48.260378"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:50:33.546400"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:50:33.559013"}
+{"word": "berjalan", "promoted": "VERB", "valid": false, "timestamp": "2025-07-16T21:51:06.670281"}
+{"word": "Jalan Tambaksari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-16T21:51:07.535137"}
+{"word": "pembatas jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:09.579411"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:09.818206"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:09.822989"}
+{"word": "Jalan Gayung Kebonsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:09.836225"}
+{"word": "Jalan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:09.851216"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:10.829322"}
+{"word": "Jalan Pahlawan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:10.834678"}
+{"word": "Jalan Kombes", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:10.984203"}
+{"word": "Jalan Basuki Rahmat", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:10.990079"}
+{"word": "Jalan Tegalsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:11.001621"}
+{"word": "Jalan Kabupaten-Jalan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-18T22:22:11.854944"}
+{"word": "Jalan Gubernur Suryo Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:12.204596"}
+{"word": "Jalan Gubernur Suryo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:12.224250"}
+{"word": "Jalan Boboh Menganti Gresik", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:12.441759"}
+{"word": "Jalan Raya Mlandingan", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:12.835687"}
+{"word": "Jalan Hutan Baluran", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-18T22:22:13.076677"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:13.298232"}
+{"word": "Jalan Mayjen Sungkono", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:13.455741"}
+{"word": "Jalan Bintang Diponggo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:13.468294"}
+{"word": "Jalan Tenggilis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:13.486854"}
+{"word": "Jalan Setail Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:13.721210"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:13.847001"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:14.008057"}
+{"word": "Monumen Perjuangan Polisi RI Jalan Polisi Istimewa Surabaya", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:14.140867"}
+{"word": "Jalan Pakis", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:14.272810"}
+{"word": "Jalan Patmosusastro", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:14.280559"}
+{"word": "Jalan Indragiri", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:14.289639"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:15.078744"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:15.243878"}
+{"word": "Jalan Kedung Baruk", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:19.121047"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:19.133645"}
+{"word": "Jalan Wonokromo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:24.963388"}
+{"word": "Jalan Darmo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:24.979193"}
+{"word": "area proyek terowongan pejalan kaki", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:24.998724"}
+{"word": "Jalan Kedung Cowek", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:25.921482"}
+{"word": "Jalan Semarang", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:25.928224"}
+{"word": "jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:25.943330"}
+{"word": "Jalan Jetak Pandaan Pasuruan", "promoted": "PROPN", "valid": false, "timestamp": "2025-07-18T22:22:25.959875"}
+{"word": "penutupan jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:26.865722"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:27.040146"}
+{"word": "Jalan Raya Kertajaya Indah", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:28.524236"}
+{"word": "Jalan Joyoboyo", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:29.303160"}
+{"word": "Jalan Gunungsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:29.306669"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:29.320239"}
+{"word": "sepanjang jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:22:39.097441"}
+{"word": "Jalan Nyamplungan", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:42.438067"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:49.643551"}
+{"word": "Jalan Randegansari", "promoted": "LOCATION", "valid": false, "timestamp": "2025-07-18T22:22:49.658648"}
+{"word": "Jalan Raya Surabaya", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:50.463902"}
+{"word": "Jalan Lidah Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:53.539082"}
+{"word": "Jalan Ahmad Yani", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:22:58.968841"}
+{"word": "Jalan Manukan Kulon", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:23:08.556821"}
+{"word": "bahu jalan", "promoted": "NOUN", "valid": false, "timestamp": "2025-07-18T22:23:09.419954"}
+{"word": "Jalan Pakal", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:23:16.706657"}
+{"word": "Jalan Kendangsari", "promoted": "LOCATION", "valid": true, "timestamp": "2025-07-18T22:23:16.723633"}

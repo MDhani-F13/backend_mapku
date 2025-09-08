@@ -8,6 +8,7 @@ from scraper_location.utils.nearby_search_place import check_pair_sanity
 from traffic.utils import can_make_directions_call
 from traffic.models import TrafficSegment
 from scraper_location.utils.google_client import get_directions_polyline
+from scraper_location.utils.polyline_cache import get_polyline, save_polyline
 from scraper_location.utils.context_window import extract_context_window
 from dateutil import parser
 import os
@@ -163,11 +164,9 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
     """
     STEP 3 FINAL:
     - Ambil lat/lng dari cache
-    - Snap ke simpang kalau area terlalu luas (pakai snap_location_pair)
-    - Cek jarak from-to masuk akal (pair sanity)
-    - Fallback Nearby Search Google ➜ OSM kalau jarak terlalu jauh
-    - Buat route polyline pakai Directions API
-    - Single: hanya lat/lng, tidak snap
+    - Snap ke simpang kalau area terlalu luas
+    - Pair sanity
+    - Polyline final ➜ final_polyline_cache.json
     - Log ke logs/step3_enrich.jsonl
     """
 
@@ -179,7 +178,6 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
     def get_coords(loc):
         key = validator._hash_key(loc.lower())
 
-        # Refresh cache
         if os.path.exists(validator.cache_file):
             with open(validator.cache_file, "r", encoding="utf-8") as f:
                 validator.cache = json.load(f)
@@ -190,7 +188,7 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
             lng = data.get("lng")
 
             if (lat is None or lng is None) and auto_fallback:
-                _, valid, _ = validator.google_check_location(loc)
+                _, _, _ = validator.google_check_location(loc)
                 data = validator.cache[key]
                 lat = data.get("lat")
                 lng = data.get("lng")
@@ -198,39 +196,47 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
             return lat, lng
 
         if auto_fallback:
-            _, valid, _ = validator.google_check_location(loc)
+            _, _, _ = validator.google_check_location(loc)
             data = validator.cache.get(key, {})
             return data.get("lat"), data.get("lng")
 
         return None, None
 
-    # === SEGMENTS ===
     for seg in step2_info["segments"]:
         lat_from, lng_from = get_coords(seg["from"])
         lat_to, lng_to = get_coords(seg["to"])
 
-        # Snap luas ➜ sempit
         new_from, new_to = snap_location_pair(
             seg["from"], seg["to"],
             lat_from, lng_from,
             lat_to, lng_to
         )
 
-        # Pair sanity check ➜ fallback Nearby jika terlalu jauh
         new_from, new_to = check_pair_sanity(
             new_from["location"], new_to["location"],
             new_from["lat"], new_from["lng"],
             new_to["lat"], new_to["lng"]
         )
 
-        # Polyline Directions API
-        route_polyline = None
-        if new_from["lat"] and new_from["lng"] and new_to["lat"] and new_to["lng"]:
+        route_polyline = get_polyline(
+            "final_polyline_cache.json",
+            from_lat=new_from["lat"], from_lng=new_from["lng"],
+            to_lat=new_to["lat"], to_lng=new_to["lng"]
+        )
+
+        if not route_polyline and new_from["lat"] and new_from["lng"] and new_to["lat"] and new_to["lng"]:
             if await can_make_directions_call():
                 route_polyline = get_directions_polyline(
                     new_from["lat"], new_from["lng"],
                     new_to["lat"], new_to["lng"]
                 )
+                if route_polyline:
+                    save_polyline(
+                        "final_polyline_cache.json",
+                        from_lat=new_from["lat"], from_lng=new_from["lng"],
+                        to_lat=new_to["lat"], to_lng=new_to["lng"],
+                        polyline=route_polyline
+                    )
             else:
                 print("❌ Directions API quota limit reached. Skip polyline.")
 
@@ -249,7 +255,6 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
         log_step3_enrich_result(entry)
         segments_with_coords.append(entry)
 
-    # === SINGLE ===
     for single in step2_info["single_locations"]:
         lat, lng = get_coords(single["location"])
         entry = {
@@ -268,19 +273,3 @@ async def check_rules_step3(step2_info, validator, auto_fallback=True):
     }
 
 
-def get_or_cache_directions_polyline(segment):
-    if segment.route_polyline:
-        return segment.route_polyline
-
-    if not can_make_directions_call():
-        print("❌ Directions API quota exceeded for this month.")
-        return None
-
-    polyline = get_directions_polyline(
-        segment.from_lat, segment.from_lng,
-        segment.to_lat, segment.to_lng
-    )
-    if polyline:
-        segment.route_polyline = polyline
-        segment.save()
-    return polyline

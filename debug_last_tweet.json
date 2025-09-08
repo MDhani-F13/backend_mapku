@@ -1,23 +1,31 @@
 {
-    "tweet_id": "1828588275742974235",
-    "query": "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
+    "tweet_id": "1930566908065271844",
+    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
     "user": "Radio Suara Surabaya",
-    "text": "07.19: Arus lalu lintas di Jalan Setail Surabaya dialihkan karena digunakan untuk titik kumpul salah satu pasangan calon Pilkada 2024.(odp-is)",
-    "cleaned_text": "07.19: Arus lalu lintas di Jalan Setail Surabaya dialihkan karena digunakan untuk titik kumpul salah satu pasangan calon Pilkada 2024.(odp-is)",
-    "created_at": "Wed Aug 28 00:19:53 +0000 2024",
+    "text": "17.06: \n1. Jalan Pakal arah Terminal Benowo macet;\n2. Kawasan Gedangan arah Surabaya padat;\n3. KM 5 200 Tol Dupak arah Satelit macet;\n4. Jalan Kendangsari arah Berbek Industri macet. (SS-AL)",
+    "cleaned_text": "17.06: 1. Jalan Pakal arah Terminal Benowo macet; 2. Kawasan Gedangan arah Surabaya padat; 3. KM 5 200 Tol Dupak arah Satelit macet; 4. Jalan Kendangsari arah Berbek Industri macet. ()",
+    "created_at": "Thu Jun 05 10:06:33 +0000 2025",
     "ner_entities": [
         {
             "entity": "TIME",
-            "text": "07.19"
+            "text": "17. 06"
         },
         {
             "entity": "LOCATION",
-            "text": "jalan setail surabaya"
+            "text": "terminal benowogedangansurabaya"
+        },
+        {
+            "entity": "QUANTITY",
+            "text": "3. km 5 200 tol"
+        },
+        {
+            "entity": "LOCATION",
+            "text": "dupakkendangsari"
         }
     ],
     "pos_tags": [
         {
-            "word": "07.19",
+            "word": "17.06",
             "tag": "NUM"
         },
         {
@@ -25,69 +33,125 @@
             "tag": "PUNCT"
         },
         {
-            "word": "Arus lalu lintas",
-            "tag": "NOUN"
-        },
-        {
-            "word": "di",
-            "tag": "ADP"
-        },
-        {
-            "word": "Jalan Setail Surabaya",
-            "tag": "PROPN"
-        },
-        {
-            "word": "dialihkan",
-            "tag": "VERB"
-        },
-        {
-            "word": "karena",
-            "tag": "SCONJ"
-        },
-        {
-            "word": "digunakan",
-            "tag": "VERB"
-        },
-        {
-            "word": "untuk",
-            "tag": "ADP"
-        },
-        {
-            "word": "titik kumpul",
-            "tag": "NOUN"
-        },
-        {
-            "word": "salah satu",
-            "tag": "DET"
-        },
-        {
-            "word": "pasangan calon Pilkada",
-            "tag": "NOUN"
-        },
-        {
-            "word": "2024.",
+            "word": "1.",
             "tag": "NUM"
         },
         {
-            "word": "(",
-            "tag": "PUNCT"
-        },
-        {
-            "word": "odp-",
+            "word": "Jalan Pakal",
             "tag": "PROPN"
         },
         {
-            "word": "is",
+            "word": "arah",
             "tag": "NOUN"
         },
         {
-            "word": ")",
+            "word": "Terminal Benowo",
+            "tag": "PROPN"
+        },
+        {
+            "word": "mac",
+            "tag": "VERB"
+        },
+        {
+            "word": "et",
+            "tag": "ADJ"
+        },
+        {
+            "word": ";",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "2.",
+            "tag": "NUM"
+        },
+        {
+            "word": "Kawasan Gedangan",
+            "tag": "PROPN"
+        },
+        {
+            "word": "arah",
+            "tag": "NOUN"
+        },
+        {
+            "word": "Surabaya",
+            "tag": "PROPN"
+        },
+        {
+            "word": "padat",
+            "tag": "ADJ"
+        },
+        {
+            "word": ";",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "3.",
+            "tag": "NUM"
+        },
+        {
+            "word": "KM",
+            "tag": "NOUN"
+        },
+        {
+            "word": "5 200",
+            "tag": "NUM"
+        },
+        {
+            "word": "Tol Dupak",
+            "tag": "PROPN"
+        },
+        {
+            "word": "arah",
+            "tag": "NOUN"
+        },
+        {
+            "word": "Satelit",
+            "tag": "PROPN"
+        },
+        {
+            "word": "mac",
+            "tag": "VERB"
+        },
+        {
+            "word": "et",
+            "tag": "ADJ"
+        },
+        {
+            "word": ";",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "4.",
+            "tag": "NUM"
+        },
+        {
+            "word": "Jalan Kendangsari",
+            "tag": "PROPN"
+        },
+        {
+            "word": "arah",
+            "tag": "NOUN"
+        },
+        {
+            "word": "Berbek Industri",
+            "tag": "PROPN"
+        },
+        {
+            "word": "mac",
+            "tag": "VERB"
+        },
+        {
+            "word": "et",
+            "tag": "ADJ"
+        },
+        {
+            "word": ". ()",
             "tag": "PUNCT"
         }
     ],
     "merged_tags": [
         [
-            "07.19",
+            "17.06",
             "TIME"
         ],
         [
@@ -95,63 +159,119 @@
             "PUNCT"
         ],
         [
-            "Arus lalu lintas",
-            "NOUN"
-        ],
-        [
-            "di",
-            "ADP"
-        ],
-        [
-            "Jalan Setail Surabaya",
-            "LOCATION"
-        ],
-        [
-            "dialihkan",
-            "VERB"
-        ],
-        [
-            "karena",
-            "SCONJ"
-        ],
-        [
-            "digunakan",
-            "VERB"
-        ],
-        [
-            "untuk",
-            "ADP"
-        ],
-        [
-            "titik kumpul",
-            "NOUN"
-        ],
-        [
-            "salah satu",
-            "DET"
-        ],
-        [
-            "pasangan calon Pilkada",
-            "NOUN"
-        ],
-        [
-            "2024.",
+            "1.",
             "NUM"
         ],
         [
-            "(",
-            "PUNCT"
-        ],
-        [
-            "odp-",
+            "Jalan Pakal",
             "PROPN"
         ],
         [
-            "is",
+            "arah",
             "NOUN"
         ],
         [
-            ")",
+            "Terminal Benowo",
+            "LOCATION"
+        ],
+        [
+            "mac",
+            "VERB"
+        ],
+        [
+            "et",
+            "ADJ"
+        ],
+        [
+            ";",
+            "PUNCT"
+        ],
+        [
+            "2.",
+            "NUM"
+        ],
+        [
+            "Kawasan Gedangan",
+            "PROPN"
+        ],
+        [
+            "arah",
+            "NOUN"
+        ],
+        [
+            "Surabaya",
+            "LOCATION"
+        ],
+        [
+            "padat",
+            "ADJ"
+        ],
+        [
+            ";",
+            "PUNCT"
+        ],
+        [
+            "3.",
+            "QUANTITY"
+        ],
+        [
+            "KM",
+            "QUANTITY"
+        ],
+        [
+            "5 200",
+            "QUANTITY"
+        ],
+        [
+            "Tol Dupak",
+            "PROPN"
+        ],
+        [
+            "arah",
+            "NOUN"
+        ],
+        [
+            "Satelit",
+            "PROPN"
+        ],
+        [
+            "mac",
+            "VERB"
+        ],
+        [
+            "et",
+            "ADJ"
+        ],
+        [
+            ";",
+            "PUNCT"
+        ],
+        [
+            "4.",
+            "NUM"
+        ],
+        [
+            "Jalan Kendangsari",
+            "PROPN"
+        ],
+        [
+            "arah",
+            "NOUN"
+        ],
+        [
+            "Berbek Industri",
+            "PROPN"
+        ],
+        [
+            "mac",
+            "VERB"
+        ],
+        [
+            "et",
+            "ADJ"
+        ],
+        [
+            ". ()",
             "PUNCT"
         ]
     ]

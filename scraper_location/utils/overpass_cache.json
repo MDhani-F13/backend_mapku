@@ -150,5 +150,123 @@
     "dist_to_origin": 784.79,
     "dist_to_target": 3539.73,
     "bearing_diff": 13.64
+  },
+  "-7.35353_112.80807_1000": {
+    "name": "Jalan Amd Tambak Oso",
+    "lat": -7.3509189,
+    "lng": 112.8059262,
+    "dist_to_origin": 373.86,
+    "dist_to_target": 11922.41,
+    "bearing_diff": 9.16
+  },
+  "-7.24417_112.6821_1000": {
+    "name": "Jalan Margomulyo",
+    "lat": -7.2327714,
+    "lng": 112.6824866,
+    "dist_to_origin": 1261.32,
+    "dist_to_target": 3641.04,
+    "bearing_diff": 50.94
+  },
+  "-7.30569_112.6552_1000": {
+    "name": "Jalan Raya Lidah Wetan",
+    "lat": -7.307477,
+    "lng": 112.6679642,
+    "dist_to_origin": 1423.6,
+    "dist_to_target": 527.6,
+    "bearing_diff": 16.43
+  },
+  "-7.34701_112.72754_1000": {
+    "name": "Jalan Jenderal Ahmad Yani",
+    "lat": -7.3325994,
+    "lng": 112.7304972,
+    "dist_to_origin": 1626.8,
+    "dist_to_target": 8643.83,
+    "bearing_diff": 3.72
+  },
+  "-7.42584_112.69359_1000": null,
+  "-7.42584_112.69359_1500": null,
+  "-7.42584_112.69359_2000": null,
+  "-7.42584_112.69359_2500": null,
+  "-7.42584_112.69359_3000": {
+    "name": "Gang Sekolahan",
+    "lat": -7.4080392,
+    "lng": 112.7265148,
+    "dist_to_origin": 4133.76,
+    "dist_to_target": 7823.36,
+    "bearing_diff": 17.28
+  },
+  "-7.35518_112.7167_1000": {
+    "name": "Jalan Tol Waru\u2013Juanda",
+    "lat": -7.3464641,
+    "lng": 112.7211123,
+    "dist_to_origin": 1079.71,
+    "dist_to_target": 192.48,
+    "bearing_diff": 5.71
+  },
+  "-7.35128_112.81353_1000": null,
+  "-7.35128_112.81353_1500": null,
+  "-7.35128_112.81353_2000": null,
+  "-7.35128_112.81353_2500": {
+    "name": "Jalan Doktor Insinyur Haji Soekarno",
+    "lat": -7.3446719,
+    "lng": 112.7865087,
+    "dist_to_origin": 3071.7,
+    "dist_to_target": 10365.61,
+    "bearing_diff": 43.14
+  },
+  "-7.37206_112.63625_1000": {
+    "name": "Jalan Raya Trosobo",
+    "lat": -7.3790962,
+    "lng": 112.6273086,
+    "dist_to_origin": 1257.44,
+    "dist_to_target": 5138.49,
+    "bearing_diff": 5.88
+  },
+  "-7.34701_112.72754_1500": {
+    "name": "Jalan Jenderal Ahmad Yani",
+    "lat": -7.3298487,
+    "lng": 112.7309721,
+    "dist_to_origin": 1935.37,
+    "dist_to_target": 8337.03,
+    "bearing_diff": 4.0
+  },
+  "-7.42584_112.69359_3500": {
+    "name": "Jalan Raden Mohammad Mangkudiprojo",
+    "lat": -7.4143372,
+    "lng": 112.7254329,
+    "dist_to_origin": 3738.61,
+    "dist_to_target": 8466.29,
+    "bearing_diff": 25.86
+  },
+  "-7.32089_112.73305_1000": {
+    "name": "Jalan Raya Jemursari",
+    "lat": -7.327597,
+    "lng": 112.7355064,
+    "bearing_diff": 29.24
+  },
+  "-7.30458_112.72507_1000": {
+    "name": "Jalan Stasiun Wonokromo",
+    "lat": -7.3050556,
+    "lng": 112.7363477,
+    "bearing_diff": 44.96
+  },
+  "-7.34646_112.72111_500": null,
+  "-7.34646_112.72111_1000": null,
+  "-7.34646_112.72111_1500": null,
+  "-7.34646_112.72111_2000": null,
+  "-7.34646_112.72111_2500": null,
+  "-7.34646_112.72111_3000": null,
+  "-7.34646_112.72111_3500": null,
+  "-7.38968_112.72796_1000": {
+    "name": "Jalan Muncul Industri",
+    "lat": -7.3843319,
+    "lng": 112.7282352,
+    "bearing_diff": 7.34
+  },
+  "-7.44752_112.70024_1000": {
+    "name": "Jalan Pahlawan",
+    "lat": -7.4486143,
+    "lng": 112.7031129,
+    "bearing_diff": 76.48
   }
 }

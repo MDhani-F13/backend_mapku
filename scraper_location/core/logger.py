@@ -110,14 +110,6 @@ def log_step3_enrich_result(entry):
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-def log_snapper(data):
-    log = {
-        "timestamp": datetime.datetime.now().isoformat(),
-        "data": data
-    }
-    print(json.dumps(log, indent=2))
-
-
 def log_pair_sanity(data: dict):
     os.makedirs("logs", exist_ok=True)
     log_data = {
@@ -159,9 +151,31 @@ def log_sanity_filter_reject(tweet_id, tweet_text, debug_info):
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-def log_snapper_candidates(data: dict):
+def log_snapper_overpass(data: dict):
     os.makedirs("logs", exist_ok=True)
-    log_file = "logs/snapper_candidates.jsonl"
+    log_file = "logs/snapper_overpass.jsonl"
+    entry = {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "data": data
+    }
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+
+def log_snapper_nominatim(data: dict):
+    os.makedirs("logs", exist_ok=True)
+    log_file = "logs/snapper_nominatim.jsonl"
+    entry = {
+        "timestamp": datetime.datetime.now().isoformat(),
+        "data": data
+    }
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+
+def log_snap_location_pair(data: dict):
+    os.makedirs("logs", exist_ok=True)
+    log_file = "logs/snapper_pair.jsonl"
     entry = {
         "timestamp": datetime.datetime.now().isoformat(),
         "data": data

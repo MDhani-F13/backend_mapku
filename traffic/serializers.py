@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import TrafficReport, TrafficSegment
-from scraper_location.rule_engine import get_or_cache_directions_polyline
+from scraper_location.utils.polyline_utils import get_or_cache_directions_polyline
 
 class TrafficSegmentSerializer(serializers.ModelSerializer):
     tweet_text = serializers.CharField(source='report.text', read_only=True)
