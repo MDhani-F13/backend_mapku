@@ -2647,3 +2647,1381 @@ Dapatkan bantuan terkait masalah masuk.
 2025-07-18 22:22:08,981 - Accepted (Matched action 'padat' with token 'padat'): 07.36: 1. jalan manukan kulon arah sukomanunggal padat merambat; 2. raya waru sidoarjo arah surabaya merambat. ()
 2025-07-18 22:22:09,157 - Accepted (Matched action 'ditutup' with token 'di'): 18.16: 1. ada kendaraan l300 bermasalah di km 751 tol sidoarjo arah waru. chairudin  mengabarkan, kendaraan itu berhenti di bahu jalan dan tidak ada penanda; 2. medaeng arah bungurasih macet; 3. blega bangkalan arah surabaya padat merambat; 4. ada mobil elf mogok di
 2025-07-18 22:22:09,379 - Accepted (Matched action 'padat' with token 'padat;'): 17.06: 1. jalan pakal arah terminal benowo macet; 2. kawasan gedangan arah surabaya padat; 3. km 5 200 tol dupak arah satelit macet; 4. jalan kendangsari arah berbek industri macet. ()
+2025-11-20 19:47:22,369 - Job "job (trigger: interval[0:30:00], next run at: 2025-11-20 20:17:22 +07)" raised an exception
+Traceback (most recent call last):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\apscheduler\executors\base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 14, in job
+    asyncio.run(run_pipeline())
+  File "C:\Program Files (x86)\Python\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Python\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Python\Lib\asyncio\base_events.py", line 685, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 42, in run_pipeline
+    if tweet_file is None:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'tweet_file' where it is not associated with a value
+2025-11-20 21:31:58,615 - ❌ Pipeline error: cannot access local variable 'tweet_file' where it is not associated with a value
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 42, in run_pipeline
+    if tweet_file is None:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'tweet_file' where it is not associated with a value
+2025-11-20 21:31:58,655 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-20 21:31:58,657 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-20 21:31:58,658 - Added job "job" to job store "default"
+2025-11-20 21:31:58,658 - Scheduler started
+2025-11-20 21:50:23,286 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-20 21:50:23,763 - HTTP Request: GET https://abs.twimg.com/responsive-web/client-web/ondemand.s.0726b3ba.js "HTTP/1.1 200 OK"
+2025-11-20 21:50:24,088 - HTTP Request: POST https://api.x.com/1.1/guest/activate.json "HTTP/1.1 200 OK"
+2025-11-20 21:50:24,136 - HTTP Request: POST https://api.x.com/1.1/onboarding/task.json?flow_name=login "HTTP/1.1 403 Forbidden"
+2025-11-20 21:50:24,140 - ❌ Pipeline error: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a18c26c39c1604b</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.18</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 343, in login
+    await flow.execute_task(params={'flow_name': 'login'}, data={
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\utils.py", line 88, in execute_task
+    response, _ = await self._client.v11.onboarding_task(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 90, in onboarding_task
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 190, in request
+    raise Forbidden(message, headers=response.headers)
+twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a18c26c39c1604b</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.18</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+2025-11-20 21:50:24,654 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-20 21:50:24,657 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-20 21:50:24,657 - Added job "job" to job store "default"
+2025-11-20 21:50:24,657 - Scheduler started
+2025-11-20 22:01:42,253 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-20 22:01:42,806 - HTTP Request: GET https://abs.twimg.com/responsive-web/client-web/ondemand.s.0726b3ba.js "HTTP/1.1 200 OK"
+2025-11-20 22:01:43,129 - HTTP Request: POST https://api.x.com/1.1/guest/activate.json "HTTP/1.1 200 OK"
+2025-11-20 22:01:43,176 - HTTP Request: POST https://api.x.com/1.1/onboarding/task.json?flow_name=login "HTTP/1.1 403 Forbidden"
+2025-11-20 22:01:43,180 - ❌ Pipeline error: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a18d300392745c8</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.18</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 343, in login
+    await flow.execute_task(params={'flow_name': 'login'}, data={
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\utils.py", line 88, in execute_task
+    response, _ = await self._client.v11.onboarding_task(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 90, in onboarding_task
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 190, in request
+    raise Forbidden(message, headers=response.headers)
+twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a18d300392745c8</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.18</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+2025-11-20 22:01:43,479 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-20 22:01:43,481 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-20 22:01:43,481 - Added job "job" to job store "default"
+2025-11-20 22:01:43,481 - Scheduler started
+2025-11-27 22:11:07,683 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:11:08,027 - HTTP Request: GET https://abs.twimg.com/responsive-web/client-web/ondemand.s.6ba1f87a.js "HTTP/1.1 200 OK"
+2025-11-27 22:11:08,373 - HTTP Request: POST https://api.x.com/1.1/guest/activate.json "HTTP/1.1 200 OK"
+2025-11-27 22:11:08,409 - HTTP Request: POST https://api.x.com/1.1/onboarding/task.json?flow_name=login "HTTP/1.1 403 Forbidden"
+2025-11-27 22:11:08,413 - ❌ Pipeline error: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a528e6cb898c9da</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 343, in login
+    await flow.execute_task(params={'flow_name': 'login'}, data={
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\utils.py", line 88, in execute_task
+    response, _ = await self._client.v11.onboarding_task(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 90, in onboarding_task
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 190, in request
+    raise Forbidden(message, headers=response.headers)
+twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a528e6cb898c9da</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+2025-11-27 22:11:08,904 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:11:08,909 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:11:08,909 - Added job "job" to job store "default"
+2025-11-27 22:11:08,909 - Scheduler started
+2025-11-27 22:14:31,130 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:14:36,148 - ❌ Pipeline error: 
+Traceback (most recent call last):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 271, in __aiter__
+    async for part in self._httpcore_stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 407, in __aiter__
+    raise exc from None
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 403, in __aiter__
+    async for part in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 342, in __aiter__
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 334, in __aiter__
+    async for chunk in self._connection._receive_response_body(**kwargs):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 203, in _receive_response_body
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 339, in login
+    guest_token = await self._get_guest_token()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 277, in _get_guest_token
+    response, _ = await self.v11.guest_activate()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 61, in guest_activate
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 142, in request
+    await self.client_transaction.init(self.http, ct_headers)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\transaction.py", line 31, in init
+    home_page_response = await handle_x_migration(session, headers)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\utils.py", line 11, in handle_x_migration
+    response = await session.request(method="GET", url="https://x.com", headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1643, in send
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1637, in send
+    await response.aread()
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 979, in aread
+    self._content = b"".join([part async for part in self.aiter_bytes()])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 997, in aiter_bytes
+    async for raw_bytes in self.aiter_raw():
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 1055, in aiter_raw
+    async for raw_stream_bytes in self.stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 176, in __aiter__
+    async for chunk in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 270, in __aiter__
+    with map_httpcore_exceptions():
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2025-11-27 22:14:36,513 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:14:36,516 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:14:36,516 - Added job "job" to job store "default"
+2025-11-27 22:14:36,516 - Scheduler started
+2025-11-27 22:19:50,751 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:19:51,116 - HTTP Request: GET https://abs.twimg.com/responsive-web/client-web/ondemand.s.f8d7976a.js "HTTP/1.1 200 OK"
+2025-11-27 22:19:51,430 - HTTP Request: POST https://api.x.com/1.1/guest/activate.json "HTTP/1.1 200 OK"
+2025-11-27 22:19:51,473 - HTTP Request: POST https://api.x.com/1.1/onboarding/task.json?flow_name=login "HTTP/1.1 403 Forbidden"
+2025-11-27 22:19:51,476 - ❌ Pipeline error: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a529b31d85efe15</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 343, in login
+    await flow.execute_task(params={'flow_name': 'login'}, data={
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\utils.py", line 88, in execute_task
+    response, _ = await self._client.v11.onboarding_task(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 90, in onboarding_task
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 190, in request
+    raise Forbidden(message, headers=response.headers)
+twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a529b31d85efe15</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+2025-11-27 22:19:51,899 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:19:51,902 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:19:51,903 - Added job "job" to job store "default"
+2025-11-27 22:19:51,903 - Scheduler started
+2025-11-27 22:26:22,272 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:26:27,285 - ❌ Pipeline error: 
+Traceback (most recent call last):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 271, in __aiter__
+    async for part in self._httpcore_stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 407, in __aiter__
+    raise exc from None
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 403, in __aiter__
+    async for part in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 342, in __aiter__
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 334, in __aiter__
+    async for chunk in self._connection._receive_response_body(**kwargs):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 203, in _receive_response_body
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 339, in login
+    guest_token = await self._get_guest_token()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 277, in _get_guest_token
+    response, _ = await self.v11.guest_activate()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 61, in guest_activate
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 142, in request
+    await self.client_transaction.init(self.http, ct_headers)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\transaction.py", line 31, in init
+    home_page_response = await handle_x_migration(session, headers)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\utils.py", line 11, in handle_x_migration
+    response = await session.request(method="GET", url="https://x.com", headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1643, in send
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1637, in send
+    await response.aread()
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 979, in aread
+    self._content = b"".join([part async for part in self.aiter_bytes()])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 997, in aiter_bytes
+    async for raw_bytes in self.aiter_raw():
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 1055, in aiter_raw
+    async for raw_stream_bytes in self.stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 176, in __aiter__
+    async for chunk in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 270, in __aiter__
+    with map_httpcore_exceptions():
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2025-11-27 22:26:27,307 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:26:27,310 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:26:27,310 - Added job "job" to job store "default"
+2025-11-27 22:26:27,310 - Scheduler started
+2025-11-27 22:29:56,640 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:30:01,642 - ❌ Pipeline error: 
+Traceback (most recent call last):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 271, in __aiter__
+    async for part in self._httpcore_stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 407, in __aiter__
+    raise exc from None
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\connection_pool.py", line 403, in __aiter__
+    async for part in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 342, in __aiter__
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 334, in __aiter__
+    async for chunk in self._connection._receive_response_body(**kwargs):
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 203, in _receive_response_body
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 339, in login
+    guest_token = await self._get_guest_token()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 277, in _get_guest_token
+    response, _ = await self.v11.guest_activate()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 61, in guest_activate
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 142, in request
+    await self.client_transaction.init(self.http, ct_headers)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\transaction.py", line 31, in init
+    home_page_response = await handle_x_migration(session, headers)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\x_client_transaction\utils.py", line 11, in handle_x_migration
+    response = await session.request(method="GET", url="https://x.com", headers=headers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1643, in send
+    raise exc
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 1637, in send
+    await response.aread()
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 979, in aread
+    self._content = b"".join([part async for part in self.aiter_bytes()])
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 997, in aiter_bytes
+    async for raw_bytes in self.aiter_raw():
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_models.py", line 1055, in aiter_raw
+    async for raw_stream_bytes in self.stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_client.py", line 176, in __aiter__
+    async for chunk in self._stream:
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 270, in __aiter__
+    with map_httpcore_exceptions():
+  File "C:\Program Files (x86)\Python\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2025-11-27 22:30:01,655 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:30:01,656 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:30:01,657 - Added job "job" to job store "default"
+2025-11-27 22:30:01,657 - Scheduler started
+2025-11-27 22:34:31,677 - HTTP Request: GET https://x.com "HTTP/1.1 200 OK"
+2025-11-27 22:34:32,000 - HTTP Request: GET https://abs.twimg.com/responsive-web/client-web/ondemand.s.f8d7976a.js "HTTP/1.1 200 OK"
+2025-11-27 22:34:32,406 - HTTP Request: POST https://api.x.com/1.1/guest/activate.json "HTTP/1.1 200 OK"
+2025-11-27 22:34:32,473 - HTTP Request: POST https://api.x.com/1.1/onboarding/task.json?flow_name=login "HTTP/1.1 403 Forbidden"
+2025-11-27 22:34:32,477 - ❌ Pipeline error: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a52b0b3fc002925</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+Traceback (most recent call last):
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 35, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 71, in run_pipeline
+    tweets = await scraper.scrape(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 66, in login
+    await self.client.login(
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 343, in login
+    await flow.execute_task(params={'flow_name': 'login'}, data={
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\utils.py", line 88, in execute_task
+    response, _ = await self._client.v11.onboarding_task(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\v11.py", line 90, in onboarding_task
+    return await self.base.post(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 215, in post
+    return await self.request('POST', url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\twikit\client\client.py", line 190, in request
+    raise Forbidden(message, headers=response.headers)
+twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+        <h2 class="cf-subheadline"><span data-translate="unable_to_access">You are unable to access</span> x.com</h2>
+      </div><!-- /.header -->
+
+      <div class="cf-section cf-highlight">
+        <div class="cf-wrapper">
+          <div class="cf-screenshot-container cf-screenshot-full">
+            
+              <span class="cf-no-screenshot error"></span>
+            
+          </div>
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="blocked_why_headline">Why have I been blocked?</h2>
+
+            <p data-translate="blocked_why_detail">This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="blocked_resolve_headline">What can I do to resolve this?</h2>
+
+            <p data-translate="blocked_resolve_detail">You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.</p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9a52b0b3fc002925</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">182.8.122.107</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script>
+    window._cf_translation = {};
+    
+    
+  </script>
+</body>
+</html>"
+2025-11-27 22:34:32,784 - 📆 Scheduler interval dimulai (30 menit).
+2025-11-27 22:34:32,786 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-27 22:34:32,787 - Added job "job" to job store "default"
+2025-11-27 22:34:32,787 - Scheduler started

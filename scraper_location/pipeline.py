@@ -22,7 +22,7 @@ ALL_QUERIES = [
 ]
 
 
-async def run_pipeline(config_path="config.ini", output_file=None, queries=None):
+async def run_pipeline(config_path="config.ini", output_file=None, queries=None, tweet_file=None):
     """
     Jalankan scraping + preprocessing step 1~3
     Return: list of hasil tweet

@@ -182,3 +182,24 @@ def log_snap_location_pair(data: dict):
     }
     with open(log_file, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+
+def get_pipeline_logger():
+    LOG_DIR = "logs"
+    LOG_FILE = os.path.join(LOG_DIR, "pipeline.txt")
+    # Create log directory if missing
+    if not os.path.exists(LOG_DIR):
+        os.makedirs(LOG_DIR)
+
+    logger = logging.getLogger("pipeline_logger")
+
+    if not logger.handlers:
+        logger.setLevel(logging.INFO)
+
+        # File handler
+        file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")
+        file_formatter = logging.Formatter("%(asctime)s - %(message)s")
+        file_handler.setFormatter(file_formatter)
+
+        logger.addHandler(file_handler)
+
+    return logger

@@ -115,6 +115,11 @@ class TwitterClient:
             if not self.logged_in:
                 print(" Cannot fetch tweets: re-login failed.")
                 return []
+                
+            wait_time = random.uniform(*self.delay_range)
+            print(f" Retrying after re-login in {wait_time:.2f}s...")
+            await asyncio.sleep(wait_time)
+            
             try:
                 tweets = await self.client.search_tweet(query, 'Latest')
                 return tweets[:limit]
