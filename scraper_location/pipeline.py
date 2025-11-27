@@ -33,7 +33,7 @@ async def run_pipeline(config_path="config.ini", output_file=None, queries=None,
     api_key = config.get_google_api_key()
 
     # File konfigurasi
-    cookie_file = 'cookies.json'
+    #cookie_file = 'cookies.json'
     BASE_PATH = os.path.dirname(os.path.abspath(__file__))
     jalan_file = os.path.join(BASE_PATH, 'daftar_jalan_surabaya.json')
     kota_file = os.path.join(BASE_PATH,'daftar_kota_indonesia.json')
@@ -52,30 +52,21 @@ async def run_pipeline(config_path="config.ini", output_file=None, queries=None,
     validator = LocationValidator(jalan_file, cache_file, api_key, kota_file)
     nlp = NLPPipeline()
     twitter = TwitterClient(
-        delay_range=(10, 20),
-        relogin_delay_range=(5, 15),
-        max_relogin_attempts=3
+        bearer_token=credentials["bearer_token"],  
+        delay_range=(8, 18)
     )
 
-    # Langkah A: Scrape Tweet
     scraper = TweetScraper(
         twitter_client=twitter,
         validator=validator,
         nlp_pipeline=nlp,
         queries=queries,
-        output_file=tweet_file, 
+        output_file=tweet_file,
         unstructured_file=None,
         debug=True
     )
 
-    tweets = await scraper.scrape(
-        username=credentials["username"],
-        email=credentials["email"],
-        password=credentials["password"],
-        cookie_file=cookie_file,
-        return_data=True,
-        totp_secret=credentials["totp_secret"]
-    )
+    tweets = await scraper.scrape(return_data=True)
 
     print(f"[INFO] ✅ Scraped {len(tweets)} tweets")
 

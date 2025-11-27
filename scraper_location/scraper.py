@@ -25,21 +25,16 @@ class TweetScraper:
         self.unstructured_file = unstructured_file
         self.collected_tweet_ids = set()
         self.structured_tweets = []
-        self.unstructured_tweets = []
         self.debug = debug
 
-    async def scrape(self, username, email, password, cookie_file, return_data=False, totp_secret=None):
-        if os.path.exists(cookie_file):
-            self.twitter_client.load_cookies(cookie_file)
-        if not self.twitter_client.logged_in:
-            await self.twitter_client.login(username, email, password, cookie_file, totp_secret)
-
+    async def scrape(self, return_data=True):
         for query in self.queries:
-            print(f"📥 Fetching tweets for query: {query}")
+            print(f"📥 Fetching tweets for: {query}")
+
             try:
                 tweets = await self.twitter_client.fetch_latest_tweets(query)
             except Exception as e:
-                print(f"❌ Error in query: {e}")
+                print(f"❌ Error query '{query}': {e}")
                 continue
 
             for tweet in tweets:
@@ -51,8 +46,7 @@ class TweetScraper:
         if self.output_file:
             self.save_results()
 
-        if return_data:
-            return self.structured_tweets
+        return self.structured_tweets
 
     def save_results(self):
         with open(self.output_file, "w", encoding="utf-8") as f:
@@ -60,30 +54,26 @@ class TweetScraper:
         print(f"💾 Saved structured tweets to {self.output_file}")
 
     def process_tweet(self, tweet, query):
-        text = tweet.text
-        cleaned = clean_tweet(text)
-
+        cleaned = clean_tweet(tweet.text)
         if not is_relevant(cleaned):
             return
 
-        ner_entities = self.nlp.extract_ner(cleaned)
-        pos_tags = self.nlp.extract_pos(cleaned)
-        merged_tags = merge_pos_ner(pos_tags, ner_entities)
+        ner = self.nlp.extract_ner(cleaned)
+        pos = self.nlp.extract_pos(cleaned)
+        merged = merge_pos_ner(pos, ner)
 
-        tweet_data = {
-            "tweet_id": tweet.id, 
+        self.structured_tweets.append({
+            "tweet_id": tweet.id,
             "query": query,
             "user": tweet.user.name,
-            "text": text,
+            "text": tweet.text,
             "cleaned_text": cleaned,
-            "created_at": tweet.created_at.format(),
-            "ner_entities": ner_entities,
-            "pos_tags": pos_tags,
-            "merged_tags": merged_tags
-        }
-
-        self.structured_tweets.append(tweet_data)
+            "created_at": tweet.created_at.isoformat(),
+            "ner_entities": ner,
+            "pos_tags": pos,
+            "merged_tags": merged
+        })
 
         if self.debug:
-            with open("debug_last_tweet.json", 'w', encoding='utf-8') as f:
-                json.dump(tweet_data, f, ensure_ascii=False, indent=4)
+            with open("debug_last_tweet.json","w",encoding='utf-8') as f:
+                json.dump(self.structured_tweets[-1],f,indent=4,ensure_ascii=False)

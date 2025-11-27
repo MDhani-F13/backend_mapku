@@ -7,10 +7,7 @@ class ConfigLoader:
 
     def get_twitter_credentials(self):
         return {
-            "username": os.getenv('TWITTER_USERNAME'),
-            "email": os.getenv('TWITTER_EMAIL'),
-            "password": os.getenv('TWITTER_PASSWORD'),
-            "totp_secret": os.getenv("TOTP_SECRET")
+            "bearer_token": os.getenv('BEARER_TOKEN'),
         }
 
     def get_google_api_key(self):
