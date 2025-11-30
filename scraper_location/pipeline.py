@@ -15,12 +15,11 @@ OUTPUT_DIR = 'output'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 ALL_QUERIES = [
-    "from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara",
-    "from:e100ss (jalan AND (ditutup OR dialihkan OR rekayasa)) surabaya -acara -hoax -nasional -luar",
-    "from:e100ss (akses OR ruas) AND (ditutup OR tidak bisa dilewati) surabaya -rapat -acara",
-    "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info"
+    'from:e100ss (penutupan OR pengalihan OR rekayasa) jalan surabaya -arisan -pkk -pengajian -event -acara',
+    'from:e100ss jalan (ditutup OR dialihkan OR rekayasa) surabaya -acara -hoax -nasional -luar',
+    'from:e100ss (akses OR ruas) (ditutup OR "tidak bisa dilewati") surabaya -rapat -acara',
+    'from:e100ss (kemacetan OR padat OR tersendat) surabaya -arisan -event -info'
 ]
-
 
 async def run_pipeline(config_path="config.ini", output_file=None, queries=None, tweet_file=None):
     """

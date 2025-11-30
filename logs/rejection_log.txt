@@ -4025,3 +4025,54 @@ twikit.errors.Forbidden: status: 403, message: "<!DOCTYPE html>
 2025-11-27 22:34:32,786 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
 2025-11-27 22:34:32,787 - Added job "job" to job store "default"
 2025-11-27 22:34:32,787 - Scheduler started
+2025-11-27 23:12:22,800 - Rate limit exceeded. Sleeping for 901 seconds.
+2025-11-27 23:24:19,567 - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<safe_run_pipeline() done, defined at D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py:28> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 62, in <module>
+    asyncio.run(main())
+  File "C:\Program Files (x86)\Python\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Python\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Python\Lib\asyncio\base_events.py", line 672, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files (x86)\Python\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files (x86)\Python\Lib\asyncio\base_events.py", line 639, in run_forever
+    self._run_once()
+  File "C:\Program Files (x86)\Python\Lib\asyncio\base_events.py", line 1985, in _run_once
+    handle._run()
+  File "C:\Program Files (x86)\Python\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scheduler.py", line 31, in safe_run_pipeline
+    await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\pipeline.py", line 69, in run_pipeline
+    tweets = await scraper.scrape(return_data=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\scraper.py", line 35, in scrape
+    tweets = await self.twitter_client.fetch_latest_tweets(query)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\backend_mapku\scraper_location\core\twitter_client.py", line 25, in fetch_latest_tweets
+    response = self.client.search_recent_tweets(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\tweepy\client.py", line 1276, in search_recent_tweets
+    return self._make_request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\tweepy\client.py", line 129, in _make_request
+    response = self.request(method, route, params=request_params,
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Documents\Coding\venv_backend\Lib\site-packages\tweepy\client.py", line 112, in request
+    time.sleep(sleep_time)
+  File "C:\Program Files (x86)\Python\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+2025-11-27 23:33:49,767 - Rate limit exceeded. Sleeping for 901 seconds.
+2025-11-27 23:49:10,378 - ⏰ Pipeline timeout setelah 600 detik.

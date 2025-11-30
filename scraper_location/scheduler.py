@@ -6,60 +6,57 @@ django.setup()
 
 import asyncio
 import logging
-from apscheduler.schedulers.blocking import BlockingScheduler
+from apscheduler.schedulers.asyncio import AsyncIOScheduler   # ⬅ ganti scheduler
 from scraper_location.pipeline import run_pipeline
 from scraper_location.core.logger import get_pipeline_logger
-
 
 
 # Retrieve main logger
 logger = get_pipeline_logger()
 
-# Add console handler (scheduler only)
+# Add console handler (avoid duplicate)
 console_handler = logging.StreamHandler()
 console_handler.setFormatter(logging.Formatter("%(asctime)s - %(message)s"))
-
-# Avoid duplicate console logs
 if not any(isinstance(h, logging.StreamHandler) for h in logger.handlers):
     logger.addHandler(console_handler)
 
 # Config
-PIPELINE_TIMEOUT_SECONDS = 60 * 10   # 10 min
-INTERVAL_MINUTES = 30                # interval
+PIPELINE_TIMEOUT_SECONDS = 60 * 10   # 10 minutes
+INTERVAL_MINUTES = 60                # schedule repeat interval
 
 
 async def safe_run_pipeline():
-    """Run pipeline safely with timeout + logging."""
     try:
         logger.info("🔄 [Scheduler] Menjalankan pipeline...")
         await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
         logger.info("✅ [Scheduler] Pipeline selesai.")
-
     except asyncio.TimeoutError:
         logger.error("⏰ Pipeline timeout setelah %s detik.", PIPELINE_TIMEOUT_SECONDS)
-
     except Exception as e:
         logger.exception("❌ Pipeline error: %s", e)
 
 
 def job():
-    asyncio.run(safe_run_pipeline())
+    asyncio.create_task(safe_run_pipeline())  # ⬅ tidak lagi blocking
 
 
-def main():
-    scheduler = BlockingScheduler()
+async def main():
+    scheduler = AsyncIOScheduler()
 
-    logger.info("🚀 Scheduler start — menjalankan pipeline pertama kali...")
-    job()  # immediate run
+    logger.info("🚀 Scheduler mulai — running pertama langsung...")
+    job()  # run immediately
 
-    logger.info("📆 Scheduler interval dimulai (%s menit).", INTERVAL_MINUTES)
+    logger.info(f"📆 Scheduler interval setiap {INTERVAL_MINUTES} menit.")
     scheduler.add_job(job, "interval", minutes=INTERVAL_MINUTES)
 
+    scheduler.start()
+
     try:
-        scheduler.start()
+        await asyncio.Event().wait()   # keep running, CTRL+C will break
     except KeyboardInterrupt:
+        scheduler.shutdown()
         logger.info("🛑 Scheduler dihentikan oleh pengguna.")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

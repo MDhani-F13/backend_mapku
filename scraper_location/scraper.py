@@ -28,7 +28,7 @@ class TweetScraper:
         self.debug = debug
 
     async def scrape(self, return_data=True):
-        for query in self.queries:
+        for idx, query in self.queries:
             print(f"📥 Fetching tweets for: {query}")
 
             try:
@@ -42,6 +42,10 @@ class TweetScraper:
                     continue
                 self.collected_tweet_ids.add(tweet.id)
                 self.process_tweet(tweet, query)
+                 
+            if idx < len(self.queries)-1:
+                print("⏳ Menunggu 16 menit sebelum query berikutnya...")
+                await asyncio.sleep(60 * 16)  # ← 16 menit aman
 
         if self.output_file:
             self.save_results()
