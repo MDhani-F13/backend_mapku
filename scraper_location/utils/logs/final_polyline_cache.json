@@ -187,5 +187,47 @@
     "to_lat": -7.3843319,
     "to_lng": 112.7282352,
     "polyline": "phbl@wd`oT?JmAGq@C_BCeFI}EImJU]?@G"
+  },
+  {
+    "from_lat": -7.313002999999999,
+    "from_lng": 112.6911133,
+    "to_lat": -7.302427400000001,
+    "to_lng": 112.7137227,
+    "polyline": "fisk@m~xnTpAeD\\eAVcAHk@Bo@HsC?yE@cAEcBIsCIqBGgFIyJ[eLIoAQ}AIiAQmAKg@Gw@UeBEe@QyCUmFGiC@{BHaCPaCIAkAQq@Oc@S_CeAy@a@_Bi@g@Si@S_Bw@]UiAw@e@e@sGaHc@i@Qg@Ow@GoB?qARuAXeBLgAAwAeADDb@@t@ANk@bCMZQQGQH]Xq@J_@@s@GEa@C}@?m@Jy@Ck@I}A[_@Eg@@s@FqAGw@?m@FKHE\\INKFoALc@RuBh@[VHJDL?PGNMLDFABMJA?"
+  },
+  {
+    "from_lat": -7.3734351,
+    "from_lng": 112.6366153,
+    "to_lat": -7.3779999,
+    "to_lng": 112.6297596,
+    "polyline": "~b_l@{innT~Gx@jALGYuAmEiBiGm@wBIULGRz@fAjDhA~DZ`ARl@n@vBvAnFZtAr@zBdBfGf@bBbA`DhC`I"
+  },
+  {
+    "from_lat": -7.3542397,
+    "from_lng": 112.6869071,
+    "to_lat": -7.3336026,
+    "to_lng": 112.7028976,
+    "polyline": "~j{k@edxnTs@Dm@@Cm@GAIgA?EDC^ECM[gDsBPcE\\O[Qa@uAiDKWCIPSEMEQUaCG[qAgCEQ?[Y?kAD]A}CAuGAcCC{BEgBKsAIw@ASEKEQ?QBgCl@c@JWFQi@[gAe@sA]_A]iAUq@_@y@iAoCeA}AeAcASWgAmAeAiAaDoD}CoDcDmDS]Oa@Kc@CYGi@@W@OGi@MiBIaAGe@MmAOe@Yi@]c@aBoAiAs@wC}BiByAQMuAeA_@[eCoBCDq@zAi@tAKd@Ql@q@hB"
+  },
+  {
+    "from_lat": -7.307592399999999,
+    "from_lng": 112.7654251,
+    "to_lat": -7.303372,
+    "to_lng": 112.7435171,
+    "polyline": "lgrk@}ngoT{AxIqAtGk@bDUnAONI`@GZe@dCyA`JsAbHyBlMoBrL}BfMeA~Fu@tEyAnI@LCZaAhGi@nCIf@NBd@HrAXdB\\fAR"
+  },
+  {
+    "from_lat": -7.3779999,
+    "from_lng": 112.6297596,
+    "to_lat": -7.40299,
+    "to_lng": 112.5873906,
+    "polyline": "b_`l@y~lnTvAhE\\bAp@zA|@nBhAxCp@rCn@pDn@~C\\nB|@nEb@xBT`AZ`AfBtFrAfF|AvGzAvF|A|F~@~CbB~Eh@xAj@pA|B`Fj@`AdA~AlApAbBdBrArAjAz@fAhAvAxAt@`A~@|Af@x@NR`A`BpAbCl@hA\\t@ALJRh@`AJ^lAjCvAlCrBbEjCxEfApBd@`AVb@|@|A|CxDrC`DfBrBzBfCxBfC`AxAd@j@~AnBz@dAxBtC|@tA~AzBbA~AtDfH`A~Ad@t@j@bAr@xAlAjBrAvAd@f@"
+  },
+  {
+    "from_lat": -7.369367399999999,
+    "from_lng": 112.6557203,
+    "to_lat": -7.3692282,
+    "to_lng": 112.6549643,
+    "polyline": "pi~k@garnTQpDKpA?vBRnA`@vBRjAv@fDRGi@cCQu@CUIk@i@eCKeA@gACSIEg@AKAFhBXtBRl@LB_@kBG_AAiA@m@HyA"
   }
 ]

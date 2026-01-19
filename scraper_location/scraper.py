@@ -28,7 +28,7 @@ class TweetScraper:
         self.debug = debug
 
     async def scrape(self, return_data=True):
-        for idx, query in self.queries:
+        for idx, query in enumerate(self.queries):
             print(f"📥 Fetching tweets for: {query}")
 
             try:

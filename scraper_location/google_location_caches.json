@@ -4633,5 +4633,469 @@
     ],
     "lat": -7.371325000000001,
     "lng": 112.7266588
+  },
+  "534591d3032731e92bd3ff7b4e7dc7fc": {
+    "input": "simpang lontar lidah kulon",
+    "valid": false,
+    "place_id": "ChIJl_imHhT91y0RzdmG9K4ZyHM",
+    "name": "Overpass Lontar Lidah Kulon",
+    "formatted_address": "pm56+hxw, lidah wetan, kec. lakarsantri, surabaya, jawa timur 60213, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2910057,
+    "lng": 112.6624674
+  },
+  "da7efee2d13f21e7e7dfe78ca0a1586b": {
+    "input": "persimpangan",
+    "valid": false,
+    "place_id": "ChIJ6TKvNGP51y0R1Zbp61gJT1w",
+    "name": "Taman Persimpangan",
+    "formatted_address": "jl. ambengan batu ii no.37, tambaksari, kec. tambaksari, surabaya, jawa timur 60136, indonesia",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2561681,
+    "lng": 112.753974
+  },
+  "31d9bb37999652d494ba78feb642a73f": {
+    "input": "kota",
+    "valid": false,
+    "place_id": "ChIJ6V-4uHX71y0ReaSO3jDqcrk",
+    "name": "Kota",
+    "formatted_address": "royal plaza surabaya lantai 1 blok h2 - 18, jl. ahmad yani, no. 16 - 18, wonokromo, kec. wonokromo, surabaya, jawa timur 60243, indonesia",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "lat": -7.309240000000001,
+    "lng": 112.734666
+  },
+  "cf0eacd81c540ac6e9727359517c377b": {
+    "input": "raya wiyung",
+    "valid": true,
+    "place_id": "ChIJ_8582oj81y0Rf7NzTf4kDBE",
+    "name": "Jl. Raya Wiyung",
+    "formatted_address": "jl. raya wiyung, surabaya, jawa timur, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.313002999999999,
+    "lng": 112.6911133
+  },
+  "94ee3461baab32389a85fbd44042f7af": {
+    "input": "kiri jalan",
+    "valid": false,
+    "place_id": "ChIJyaXtfZn51y0R_uU1RFfol8w",
+    "name": "Kopi Kiri Jalan",
+    "formatted_address": "jl. kaliwaron no.58, rt.001/rw.02, mojo, kec. gubeng, surabaya, jawa timur 60285, indonesia",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "lat": -7.2633779,
+    "lng": 112.7674357
+  },
+  "720cfeb9dc86c22d98b7696179d5fd84": {
+    "input": "berbek",
+    "valid": false,
+    "place_id": "ChIJr4kW97BMeC4RpuW09ZcZZSo",
+    "name": "Berbek",
+    "formatted_address": "berbek, sumberwindu, kec. berbek, kabupaten nganjuk, jawa timur, indonesia",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "lat": -7.649999999999999,
+    "lng": 111.866667
+  },
+  "fdd4c5e41c037b8c5102606e22ac1554": {
+    "input": "imbas",
+    "valid": false,
+    "place_id": "ChIJtU8fOQD71y0R_wzqyk6RZXs",
+    "name": "Fourspace Coffee",
+    "formatted_address": "jl. raya mulyosari no.181, kalisari, kec. mulyorejo, surabaya, jawa timur 60113, indonesia",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "lat": -7.2708486,
+    "lng": 112.7969822
+  },
+  "b799d19017be01ea2708e22651390054": {
+    "input": "galian",
+    "valid": false,
+    "place_id": "ChIJHyaRaqL71y0R0aLaGRr5rbU",
+    "name": "Buang gragal, sampah, tanah, dan puing-puing, pengurukan, galian",
+    "formatted_address": "banyu urip wetan 6a no.17 a, putat jaya, kec. sawahan, surabaya, jawa timur 60255, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.279067,
+    "lng": 112.727433
+  },
+  "2dd4a518dd538ae4f5b6eff3596b3e26": {
+    "input": "sisi kanan",
+    "valid": false,
+    "place_id": "ChIJtxk15wIfcS4RTVfQvqVFQwg",
+    "name": "Sisikanan Printing Jepara",
+    "formatted_address": "jl. patiunus no.4, jobokuto i, jobokuto, kec. jepara, kabupaten jepara, jawa tengah 59416, indonesia",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "lat": -6.5872252,
+    "lng": 110.6629118
+  },
+  "c324c3529c160785dba1a4e4200857df": {
+    "input": "truk muat bata",
+    "valid": false,
+    "place_id": "ChIJw4I1fSf71y0RuR7oTgNKoJ0",
+    "name": "Carter Truk Surabaya Luar/Dala Kota",
+    "formatted_address": "dharma husada indah utara gg xiv, mulyorejo, kec. mulyorejo, surabaya, jawa timur 60115, indonesia",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2680826,
+    "lng": 112.7792484
+  },
+  "c4df04e87140a3dc53c1bebdc9152451": {
+    "input": "raya brigjend katamso",
+    "valid": false,
+    "place_id": "ChIJy_3Wakvl1y0R4nrYxj1AZzo",
+    "name": "Hisana Fried Chicken - Brigjend Katamso",
+    "formatted_address": "jl. brigjend katamso no.34b, mekar raya binangun, janti, kec. waru, kabupaten sidoarjo, jawa timur 61256, indonesia",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.3504597,
+    "lng": 112.7376017
+  },
+  "18b049cc8d8535787929df716f9f4e68": {
+    "input": "an",
+    "valid": true,
+    "place_id": "ChIJwWjkvOP61y0R2soiqSmNYvo",
+    "name": "Blk. AN",
+    "formatted_address": "blk. an, kali rungkut, kec. rungkut, surabaya, jawa timur 60293, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.318574399999999,
+    "lng": 112.7672053
+  },
+  "c9fedf43460997594c3cd56c47cdd6ee": {
+    "input": "ber",
+    "valid": false,
+    "place_id": "ChIJl5G7Eg_61y0RZpP1_ObyD78",
+    "name": "Warkop Bara-bere",
+    "formatted_address": "prg2+2c5, jl. kejawan putih tambak iia, kejawaan putih tamba, kec. mulyorejo, surabaya, jawa timur 60112, indonesia",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2749822,
+    "lng": 112.8010951
+  },
+  "a467e06d1c23bdd7618e64e05f9ed6a5": {
+    "input": "berbek sidoarjo",
+    "valid": true,
+    "place_id": "ChIJmTl5Uyr71y0RsOzMiknVGnI",
+    "name": "Berbek",
+    "formatted_address": "berbek, kec. waru, kabupaten sidoarjo, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.3427222,
+    "lng": 112.7613933
+  },
+  "b578d2649f7ea6b25d2bc8396cc8b26d": {
+    "input": "bebekan-ketegan sidoarjo",
+    "valid": true,
+    "place_id": "ChIJAaYF5az81y0RsP_Q-ClumIY",
+    "name": "Ketegan",
+    "formatted_address": "ketegan, kec. taman, kabupaten sidoarjo, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.3479333,
+    "lng": 112.7107433
+  },
+  "f83a7a77fc9b439a7739bd2f55e8157c": {
+    "input": "s-",
+    "valid": false,
+    "place_id": "ChIJM_wzFwP81y0RuMBI5uBLKAQ",
+    "name": "S Print Digital Printing, Percetakan & Copy Center",
+    "formatted_address": "blok iv e no.3, jl. simo hilir utara raya, simomulyo, kec. sukomanunggal, surabaya, jawa timur 60281, indonesia",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2720949,
+    "lng": 112.7051005
+  },
+  "f0789c754a2a31fcd0c6a4ae49d14cb7": {
+    "input": "simpang benowo",
+    "valid": false,
+    "place_id": "ChIJbTMgPiT81y0RQJhu4rxqRU8",
+    "name": "Pasar Simpang Darmo permai",
+    "formatted_address": "jl. raya darmo permai utara no.9, tubanan, kec. dukuhpakis, surabaya, jawa timur 60188, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2760874,
+    "lng": 112.6841557
+  },
+  "e615da6f331b744a3af7b4bd5f33d47e": {
+    "input": "kalijaten sidoarjo",
+    "valid": true,
+    "place_id": "ChIJpTvCojXj1y0RZEmZmRdakw8",
+    "name": "Kalijaten",
+    "formatted_address": "kalijaten, kec. taman, kabupaten sidoarjo, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.3542397,
+    "lng": 112.6869071
+  },
+  "f768eed1203b81ccac3770cdccab2fac": {
+    "input": "karangpilang",
+    "valid": true,
+    "place_id": "ChIJ5SDOj8H81y0RmBimWNYSPPc",
+    "name": "Kec. Karangpilang",
+    "formatted_address": "kec. karangpilang, surabaya, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_3",
+      "political"
+    ],
+    "lat": -7.3336026,
+    "lng": 112.7028976
+  },
+  "03c7c0ace395d80182db07ae2c30f034": {
+    "input": "s",
+    "valid": false,
+    "place_id": "ChIJM_wzFwP81y0RuMBI5uBLKAQ",
+    "name": "S Print Digital Printing, Percetakan & Copy Center",
+    "formatted_address": "blok iv e no.3, jl. simo hilir utara raya, simomulyo, kec. sukomanunggal, surabaya, jawa timur 60281, indonesia",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2720949,
+    "lng": 112.7051005
+  },
+  "b717177469da51286e5f70d941aacf62": {
+    "input": "jalan panjang jiwo",
+    "valid": true,
+    "place_id": "ChIJbbbmvP_61y0R5QhqJNbfBSY",
+    "name": "Jl. Panjang Jiwo",
+    "formatted_address": "jl. panjang jiwo, panjang jiwo, kec. tenggilis mejoyo, surabaya, jawa timur 60299, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.307592399999999,
+    "lng": 112.7654251
+  },
+  "54f7b28503f18ce7968d07db33fb72da": {
+    "input": "ss-",
+    "valid": false,
+    "place_id": "ChIJAdivCrz71y0RxHw1WDptoXM",
+    "name": "Waroeng Spesial Sambal 'SS' Manyar",
+    "formatted_address": "jl. manyar rejo v, menur pumpungan, kec. sukolilo, surabaya, jawa timur 60118, indonesia",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.293518100000001,
+    "lng": 112.7632154
+  },
+  "236242a249bc97bf10b572f1c2f75027": {
+    "input": "driyorejo gresik",
+    "valid": false,
+    "place_id": "ChIJ4WD8mPsHeC4RACtT43Z6AgQ",
+    "name": "Kec. Driyorejo",
+    "formatted_address": "kec. driyorejo, kabupaten gresik, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_3",
+      "political"
+    ],
+    "lat": -7.3357995,
+    "lng": 112.6376045
+  },
+  "41d8655dd169429d85c6bf0e4e9f6209": {
+    "input": "lontar lidah kulon",
+    "valid": true,
+    "place_id": "ChIJVbQRO7T91y0R2C0_B1GwCl8",
+    "name": "Jl. Lontar Lidah Kulon",
+    "formatted_address": "jl. lontar lidah kulon, lidah kulon, kec. lakarsantri, surabaya, jawa timur 60213, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.303296499999999,
+    "lng": 112.6622229
+  },
+  "b0ac020c0a9f0205fa257600a1213ee3": {
+    "input": "jagir wonokromo",
+    "valid": true,
+    "place_id": "ChIJcwMXR6f71y0RbxGggHFjayU",
+    "name": "Jagir",
+    "formatted_address": "jagir, kec. wonokromo, surabaya, jawa timur, indonesia",
+    "types": [
+      "administrative_area_level_4",
+      "political"
+    ],
+    "lat": -7.303372,
+    "lng": 112.7435171
+  },
+  "5a13c60aaf1e5a3ebea63c16333d8ef9": {
+    "input": "tol romokalisari",
+    "valid": false,
+    "place_id": "ChIJd9f0nZL_1y0RRGNfnAmR7TU",
+    "name": "Musholla Exit Tol Romokalisari",
+    "formatted_address": "jl. tol surabaya - gresik no.2408, romokalisari, kec. benowo, surabaya, jawa timur 60192, indonesia",
+    "types": [
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2015948,
+    "lng": 112.6456569
+  },
+  "35dbdd6e633566c4160e699a86601ab8": {
+    "input": "cul",
+    "valid": false,
+    "place_id": "ChIJwzJeEM_51y0RNf5PbO5zbRc",
+    "name": "Mabes Cul culaan",
+    "formatted_address": "jl. wonosari lrg. gg. kb., wonokusumo, kec. semampir, surabaya, jawa timur 60154, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2162525,
+    "lng": 112.7526081
+  },
+  "b2223456f1f992417821b35074cfb71d": {
+    "input": "pemasangan box",
+    "valid": false,
+    "place_id": "ChIJf85Y_tf51y0RISEveWKkZnk",
+    "name": "Jaya Makmur (Panel Box Suwilight)",
+    "formatted_address": "ruko fira 51, jl. kenjeran no.a6, gading, tambaksari, surabaya, east java 60134, indonesia",
+    "types": [
+      "electrician",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.248410999999999,
+    "lng": 112.7802552
+  },
+  "c9b416167392c2b301810695b92efa12": {
+    "input": "vert",
+    "valid": false,
+    "place_id": "ChIJ21iwpWD91y0RZ2srfAJ6HRY",
+    "name": "VERT",
+    "formatted_address": "office park, jl. bukit darmo golf no.10, pradahkalikendal, kec. dukuhpakis, surabaya, jawa timur 60225, indonesia",
+    "types": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.284183400000001,
+    "lng": 112.6823702
+  },
+  "4b82677b6c1408df4be21ada9a584fde": {
+    "input": "area",
+    "valid": false,
+    "place_id": "ChIJEbrtTd771y0RLThvAIs6On8",
+    "name": "Telkomsel Area Jawa Bali",
+    "formatted_address": "jl. manyar kertoadi no. 1 rt. 01 / rw. 07 kel, jl. dr. ir. h. soekarno no.175, klampis ngasem, sukolilo, surabaya, east java 60116, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2849577,
+    "lng": 112.7813141
+  },
+  "d70a740f7407714f9bfaa5b69c27d65f": {
+    "input": "kepadatan lalu lintas",
+    "valid": false,
+    "place_id": "ChIJ2TW60T371y0RN-FXVs02p7k",
+    "name": "Badan Pusat Statistik Provinsi Jawa Timur",
+    "formatted_address": "jl. raya kendangsari industri no.43-44, kendangsari, kec. tenggilis mejoyo, surabaya, jawa timur 60292, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.329118299999998,
+    "lng": 112.7457983
+  },
+  "24e4b3ecb6310d47d38c68da297c5c5b": {
+    "input": "nya",
+    "valid": false,
+    "place_id": "ChIJM59y9hz71y0Ry44M5xH2aFQ",
+    "name": "Nyapii Mulyosari Surabaya",
+    "formatted_address": "jl. raya mulyosari no.156, kalisari, kec. mulyorejo, surabaya, jawa timur 60113, indonesia",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.2647233,
+    "lng": 112.79563
+  },
+  "9bac7953fc3741840bfef77905256fff": {
+    "input": "raya manyar",
+    "valid": true,
+    "place_id": "ChIJNz1U1LL71y0RnrNrRm4bmBI",
+    "name": "Jl. Raya Manyar",
+    "formatted_address": "jl. raya manyar, surabaya, jawa timur 60284, indonesia",
+    "types": [
+      "route"
+    ],
+    "lat": -7.2937645,
+    "lng": 112.7623327
+  },
+  "7768e83fbb9a4439ce0fac58bcaec126": {
+    "input": "jiipe gresik",
+    "valid": false,
+    "place_id": "ChIJmUH5y5H9dy4Rd5e4qnXLC0I",
+    "name": "Kawasan Industri JIIPE Gresik",
+    "formatted_address": "jalan raya manyar km 11 manyarejo, manyarsidorukun, manyar sido rukun, kec. manyar, kabupaten gresik, jawa timur 61151, indonesia",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "lat": -7.0859254,
+    "lng": 112.603026
   }
 }

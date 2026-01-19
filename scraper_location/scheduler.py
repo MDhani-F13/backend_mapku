@@ -1,61 +1,108 @@
-import os
-import django
+import os, json, logging, asyncio, signal, time, django
 
+# ───────────────────────────────
+# Django boot
+# ───────────────────────────────
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend_mapku.settings")
 django.setup()
 
-import asyncio
-import logging
-from apscheduler.schedulers.asyncio import AsyncIOScheduler   # ⬅ ganti scheduler
+from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from scraper_location.pipeline import run_pipeline
 from scraper_location.core.logger import get_pipeline_logger
 
-
-# Retrieve main logger
 logger = get_pipeline_logger()
 
-# Add console handler (avoid duplicate)
-console_handler = logging.StreamHandler()
-console_handler.setFormatter(logging.Formatter("%(asctime)s - %(message)s"))
-if not any(isinstance(h, logging.StreamHandler) for h in logger.handlers):
-    logger.addHandler(console_handler)
-
-# Config
-PIPELINE_TIMEOUT_SECONDS = 60 * 10   # 10 minutes
-INTERVAL_MINUTES = 60                # schedule repeat interval
+STATE_FILE = "scheduler_state.json"
+INTERVAL_HOURS = 0.5
+MAX_RETRIES = 3  
 
 
-async def safe_run_pipeline():
+# ───────────────────────────────
+# State manager
+# ───────────────────────────────
+def load_state():
+    if os.path.exists(STATE_FILE):
+        return json.load(open(STATE_FILE))
+    return {"last_query_index": 0}
+
+def save_state(state):
+    with open(STATE_FILE, "w") as f:
+        json.dump(state, f)
+
+
+# ───────────────────────────────
+# Pipeline runner + auto restart
+# ───────────────────────────────
+async def run_with_retry():
+    state = load_state()
+    idx = state["last_query_index"]
+
+    from scraper_location.pipeline import ALL_QUERIES
+    query = [ALL_QUERIES[idx]]
+
+    logger.info(f"🔄 Running pipeline for query #{idx+1}: {query[0]}")
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            await run_pipeline(queries=query)
+            logger.info("✅ Pipeline completed successfully")
+
+            state["last_query_index"] = (idx + 1) % len(ALL_QUERIES)
+            save_state(state)
+            return
+
+        except Exception as e:
+            logger.error(f"❌ Error attempt {attempt}/{MAX_RETRIES} → {e}")
+
+            if attempt < MAX_RETRIES:
+                wait = 10 * attempt
+                logger.info(f"🔁 Restarting in {wait}s...")
+                await asyncio.sleep(wait)
+            else:
+                logger.critical("🚨 Pipeline FAILED even after auto retries!")
+                return
+
+
+# ───────────────────────────────
+# Safe shutdown
+# ───────────────────────────────
+def shutdown(sig, frame):
+    logger.warning("🛑 Shutdown requested → Stopping scheduler ...")
     try:
-        logger.info("🔄 [Scheduler] Menjalankan pipeline...")
-        await asyncio.wait_for(run_pipeline(), timeout=PIPELINE_TIMEOUT_SECONDS)
-        logger.info("✅ [Scheduler] Pipeline selesai.")
-    except asyncio.TimeoutError:
-        logger.error("⏰ Pipeline timeout setelah %s detik.", PIPELINE_TIMEOUT_SECONDS)
-    except Exception as e:
-        logger.exception("❌ Pipeline error: %s", e)
+        scheduler.shutdown()
+    except Exception:
+        pass
+    raise SystemExit(0)
 
 
-def job():
-    asyncio.create_task(safe_run_pipeline())  # ⬅ tidak lagi blocking
-
+# ───────────────────────────────
+# Scheduler start
+# ───────────────────────────────
+scheduler = AsyncIOScheduler()
+signal.signal(signal.SIGINT, shutdown)
+signal.signal(signal.SIGTERM, shutdown)
 
 async def main():
-    scheduler = AsyncIOScheduler()
+    logger.info("🚀 Scheduler started — running first query now...")
+    await run_with_retry()
 
-    logger.info("🚀 Scheduler mulai — running pertama langsung...")
-    job()  # run immediately
+    logger.info(f"⏳ Next jobs will run every {INTERVAL_HOURS} hours")
 
-    logger.info(f"📆 Scheduler interval setiap {INTERVAL_MINUTES} menit.")
-    scheduler.add_job(job, "interval", minutes=INTERVAL_MINUTES)
+    scheduler.add_job(
+        run_with_retry,
+        "interval",
+        hours=INTERVAL_HOURS,
+        max_instances=1,
+        coalesce=True
+    )
 
     scheduler.start()
 
-    try:
-        await asyncio.Event().wait()   # keep running, CTRL+C will break
-    except KeyboardInterrupt:
-        scheduler.shutdown()
-        logger.info("🛑 Scheduler dihentikan oleh pengguna.")
+    logger.info("📌 Press CTRL + C to stop scheduler")
+
+    # ✅ LOOP ASYNC AGAR TIDAK MATI
+    while True:
+        await asyncio.sleep(60)
 
 
 if __name__ == "__main__":

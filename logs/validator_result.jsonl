@@ -49722,3 +49722,718 @@
 {"original": "Jalan Kendangsari", "checked_word": "Jalan Kendangsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-07-18T22:23:17.004917"}
 {"original": "Jalan Kendangsari", "checked_word": "Jalan Kendangsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-07-18T22:23:17.007431"}
 {"original": "Berbek Industri", "checked_word": "berbek industri", "valid": true, "reason": "Fuzzy+Edit OK input='Berbek Industri', matched='berbek industri'(ratio=100, sort=100, dist=0, overlap={'berbek', 'industri'})", "method": "fuzzy", "timestamp": "2025-07-18T22:23:17.015766"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:42.532575"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:42.575042"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "From Google API (Valid: False, addr: pm56+hxw, lidah wetan, kec. lakarsantri, surabaya, jawa timur 60213, indonesia)", "method": "google", "timestamp": "2025-12-04T21:46:43.937902"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:43.961861"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:43.998360"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:44.027651"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "From Google API (Valid: False, addr: jl. ambengan batu ii no.37, tambaksari, kec. tambaksari, surabaya, jawa timur 60136, indonesia)", "method": "google", "timestamp": "2025-12-04T21:46:45.253307"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:45.275881"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "From Google API (Valid: False, addr: royal plaza surabaya lantai 1 blok h2 - 18, jl. ahmad yani, no. 16 - 18, wonokromo, kec. wonokromo, surabaya, jawa timur 60243, indonesia)", "method": "google", "timestamp": "2025-12-04T21:46:47.645770"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.671463"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:47.691881"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.710021"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.727281"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.749745"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:47.753657"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.773308"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:47.776757"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:47.802180"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From Google API (Valid: True, addr: jl. raya wiyung, surabaya, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-04T21:46:50.758868"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.784519"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.805130"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.825983"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.829505"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.848780"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.852256"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.875049"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.878522"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.900654"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.905461"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'waru', 'raya'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.911122"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'waru', 'raya'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.914496"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.934663"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.938686"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.956798"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:50.961163"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:50.997407"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.002725"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.030936"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.036266"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.064999"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.068921"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.087248"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.090782"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.109239"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.112774"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.139298"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.144466"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.172975"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.211201"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.217300"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.236274"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.243086"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.264055"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.269626"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'waru', 'raya'})", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.274402"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.292721"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.296783"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.314733"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.318430"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.337610"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.343782"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-04T21:46:51.361446"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-04T21:46:51.365818"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:21.431908"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From Google API (Valid: False, addr: jl. kaliwaron no.58, rt.001/rw.02, mojo, kec. gubeng, surabaya, jawa timur 60285, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:21.901323"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:21.928065"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From Google API (Valid: False, addr: berbek, sumberwindu, kec. berbek, kabupaten nganjuk, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:22.510742"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:22.539574"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From Google API (Valid: False, addr: jl. raya mulyosari no.181, kalisari, kec. mulyorejo, surabaya, jawa timur 60113, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:22.972766"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:23.001609"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From Google API (Valid: False, addr: banyu urip wetan 6a no.17 a, putat jaya, kec. sawahan, surabaya, jawa timur 60255, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:23.515776"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:23.545256"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From Google API (Valid: False, addr: jl. patiunus no.4, jobokuto i, jobokuto, kec. jepara, kabupaten jepara, jawa tengah 59416, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:23.975776"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.013637"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:24.038881"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.071591"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:24.077465"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.113045"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From Google API (Valid: False, addr: dharma husada indah utara gg xiv, mulyorejo, kec. mulyorejo, surabaya, jawa timur 60115, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:24.551215"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.581403"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:24.605615"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.632101"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:24.636502"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:24.673472"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From Google API (Valid: False, addr: jl. brigjend katamso no.34b, mekar raya binangun, janti, kec. waru, kabupaten sidoarjo, jawa timur 61256, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:25.202213"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:25.242218"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:25.273452"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:25.309705"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From Google API (Valid: True, addr: blk. an, kali rungkut, kec. rungkut, surabaya, jawa timur 60293, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:25.747151"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:25.768869"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:25.797944"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:25.817598"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From Google API (Valid: False, addr: prg2+2c5, jl. kejawan putih tambak iia, kejawaan putih tamba, kec. mulyorejo, surabaya, jawa timur 60112, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:26.250258"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.271392"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.292926"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.323275"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.327821"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.354347"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.360075"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.382244"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.386305"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.410017"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.414869"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.440568"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.445667"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.474009"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.480150"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:26.502260"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:26.506263"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.011335"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.016909"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.044598"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.050170"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.077741"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.082348"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.111471"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.115452"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.142134"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.145133"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.174216"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.177786"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.200287"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.205257"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.229966"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.234100"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.254340"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.258487"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.278156"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.282472"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.307777"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.311350"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.337734"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.341241"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.364968"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.371130"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.395671"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.398895"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.421536"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.425289"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.449776"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.454559"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.477684"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.480731"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.508268"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.511782"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.535107"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.541560"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.565473"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.570387"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.593493"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.599080"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.623266"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.628716"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:28.651673"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:28.656752"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.117784"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.146751"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.152323"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.182542"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.188676"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.218400"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.224411"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.252620"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.258205"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.292952"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.298643"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.318729"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.336769"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.358435"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.361455"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.383305"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.387725"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.411264"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.416691"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.445214"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.449306"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.471394"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.476666"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.497913"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.502661"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.527712"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.533282"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.558330"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.561890"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.577219"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.592548"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.618850"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.623806"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.653252"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.659121"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.689001"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.693025"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.712318"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.716860"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.740875"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.744309"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.767575"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.770906"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.793425"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.797760"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.819508"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.824868"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.848596"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.876090"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.880612"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.904529"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.910152"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.937507"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.941835"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.959841"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:30.980571"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:30.984380"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:31.006755"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:31.011304"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:31.033968"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:31.039501"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:31.063444"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:30:31.067675"}
+{"original": "Berbek Sidoarjo", "checked_word": "Berbek Sidoarjo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:58.206195"}
+{"original": "Berbek Sidoarjo", "checked_word": "Berbek Sidoarjo", "valid": true, "reason": "From Google API (Valid: True, addr: berbek, kec. waru, kabupaten sidoarjo, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:58.599004"}
+{"original": "Bebekan-Ketegan Sidoarjo", "checked_word": "Bebekan-Ketegan Sidoarjo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:58.624992"}
+{"original": "Bebekan-Ketegan Sidoarjo", "checked_word": "Bebekan-Ketegan Sidoarjo", "valid": true, "reason": "From Google API (Valid: True, addr: ketegan, kec. taman, kabupaten sidoarjo, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:59.130180"}
+{"original": "s-", "checked_word": "s-", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:59.164043"}
+{"original": "s-", "checked_word": "s-", "valid": false, "reason": "From Google API (Valid: False, addr: blok iv e no.3, jl. simo hilir utara raya, simomulyo, kec. sukomanunggal, surabaya, jawa timur 60281, indonesia)", "method": "google", "timestamp": "2025-12-05T11:30:59.654376"}
+{"original": "Simpang Benowo", "checked_word": "Simpang Benowo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:30:59.680597"}
+{"original": "Simpang Benowo", "checked_word": "Simpang Benowo", "valid": false, "reason": "From Google API (Valid: False, addr: jl. raya darmo permai utara no.9, tubanan, kec. dukuhpakis, surabaya, jawa timur 60188, indonesia)", "method": "google", "timestamp": "2025-12-05T11:31:00.174384"}
+{"original": "Simpang Benowo", "checked_word": "Simpang Benowo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.195781"}
+{"original": "Simpang Benowo", "checked_word": "Simpang Benowo", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:00.218331"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.235943"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.256237"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.278241"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:00.282742"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.302130"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:00.306804"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.328683"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": true, "reason": "From Google API (Valid: True, addr: kalijaten, kec. taman, kabupaten sidoarjo, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-05T11:31:00.735479"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.756820"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:00.775965"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:00.798745"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": true, "reason": "From Google API (Valid: True, addr: kec. karangpilang, surabaya, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-05T11:31:01.301907"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.320714"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:01.343247"}
+{"original": "s", "checked_word": "s", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.368701"}
+{"original": "s", "checked_word": "s", "valid": false, "reason": "From Google API (Valid: False, addr: blok iv e no.3, jl. simo hilir utara raya, simomulyo, kec. sukomanunggal, surabaya, jawa timur 60281, indonesia)", "method": "google", "timestamp": "2025-12-05T11:31:01.832325"}
+{"original": "s", "checked_word": "s", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.855166"}
+{"original": "s", "checked_word": "s", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:01.879091"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.895115"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.914283"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:01.918448"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.943112"}
+{"original": "Kalijaten Sidoarjo", "checked_word": "Kalijaten Sidoarjo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:01.949132"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-05T11:31:01.974677"}
+{"original": "Karangpilang", "checked_word": "Karangpilang", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-05T11:31:01.980234"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:12.904984"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From Google API (Valid: True, addr: jl. panjang jiwo, panjang jiwo, kec. tenggilis mejoyo, surabaya, jawa timur 60299, indonesia)", "method": "google", "timestamp": "2025-12-08T23:17:13.392189"}
+{"original": "Lakarsantri", "checked_word": "Lakarsantri", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:13.401196"}
+{"original": "Lakarsantri", "checked_word": "Lakarsantri", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:13.415347"}
+{"original": "ss-", "checked_word": "ss-", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:13.424055"}
+{"original": "ss-", "checked_word": "ss-", "valid": false, "reason": "From Google API (Valid: False, addr: jl. manyar rejo v, menur pumpungan, kec. sukolilo, surabaya, jawa timur 60118, indonesia)", "method": "google", "timestamp": "2025-12-08T23:17:14.109992"}
+{"original": "simpang", "checked_word": "simpang", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.118498"}
+{"original": "simpang", "checked_word": "simpang", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:14.128052"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.136547"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "From Google API (Valid: False, addr: kec. driyorejo, kabupaten gresik, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-08T23:17:14.524685"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.533211"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:14.544520"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.553545"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:14.555557"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.563344"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:14.565343"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:14.574655"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From Google API (Valid: True, addr: jl. lontar lidah kulon, lidah kulon, kec. lakarsantri, surabaya, jawa timur 60213, indonesia)", "method": "google", "timestamp": "2025-12-08T23:17:15.001168"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.010884"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.020475"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.024666"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.027675"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.035178"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.037188"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.044187"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.045697"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.054706"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.056210"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.064220"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.065221"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.073735"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From Google API (Valid: True, addr: jagir, kec. wonokromo, surabaya, jawa timur, indonesia)", "method": "google", "timestamp": "2025-12-08T23:17:15.404722"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.412594"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.421981"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.430288"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.432703"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.441144"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.442608"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.446607"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.453956"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.455995"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.463530"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.466060"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:15.473374"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:15.475706"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.782931"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.784930"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.793331"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.794331"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.802841"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.804975"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.813491"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.814976"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.822282"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.824282"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.832049"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.834049"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.841556"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.842560"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.851062"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.852067"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.860071"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.861575"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.869088"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.871088"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.879860"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.880860"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.889450"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.891503"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.898449"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.899450"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.907148"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.908148"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.915657"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.916656"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.924135"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.925933"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.934054"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.935052"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.942561"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.944560"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.952184"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.954184"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.960700"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.962700"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.969211"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.971457"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.978970"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.981034"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:17.987453"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:17.989453"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.305072"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.307082"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.314918"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.316991"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.324239"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.325745"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.336284"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.338302"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.347740"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.349738"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.358645"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.360651"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.372308"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.374392"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.386923"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.387923"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.396579"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.398983"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.410963"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.413419"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.423455"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.425456"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.434708"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.436817"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.445478"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.446869"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.454389"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.455745"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.464155"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.465161"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.472766"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.473766"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.482254"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.483255"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.495014"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.496520"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.504995"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.507004"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.514626"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.516778"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.523468"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.525469"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.534908"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.537195"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:20.546736"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:20.548815"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.508318"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.520230"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.522249"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.531903"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.533914"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.543940"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.545935"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.554465"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.555465"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.565524"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.567996"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.572511"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.577653"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.585230"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.587228"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.595856"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.596854"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.605874"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.607876"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.617448"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.618447"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.627387"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.629429"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.636428"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.637934"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.646546"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.648049"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.656053"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.658053"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.662389"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.666389"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.674496"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.676607"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.685112"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.687111"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.695375"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.696374"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.704790"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.706790"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.714768"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.716832"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.724970"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.725988"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.735930"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.737938"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.745061"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.747127"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.751330"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.759648"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.761803"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.772959"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.774959"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.782017"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.784019"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.787017"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.795988"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.797499"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.804510"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.806510"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.814066"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.815070"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-08T23:17:21.822972"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-08T23:17:21.825981"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:48.740636"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:48.751150"}
+{"original": "Ex", "checked_word": "Ex", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:48.774817"}
+{"original": "Ex", "checked_word": "Ex", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:48.780362"}
+{"original": "Tol Romokalisari", "checked_word": "Tol Romokalisari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:48.807395"}
+{"original": "Tol Romokalisari", "checked_word": "Tol Romokalisari", "valid": false, "reason": "From Google API (Valid: False, addr: jl. tol surabaya - gresik no.2408, romokalisari, kec. benowo, surabaya, jawa timur 60192, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:50.114932"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:50.135112"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:50.169223"}
+{"original": "cul", "checked_word": "cul", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:50.202935"}
+{"original": "cul", "checked_word": "cul", "valid": false, "reason": "From Google API (Valid: False, addr: jl. wonosari lrg. gg. kb., wonokusumo, kec. semampir, surabaya, jawa timur 60154, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:51.372583"}
+{"original": "pemasangan box", "checked_word": "pemasangan box", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:51.392602"}
+{"original": "pemasangan box", "checked_word": "pemasangan box", "valid": false, "reason": "From Google API (Valid: False, addr: ruko fira 51, jl. kenjeran no.a6, gading, tambaksari, surabaya, east java 60134, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:52.563115"}
+{"original": "vert", "checked_word": "vert", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:52.594488"}
+{"original": "vert", "checked_word": "vert", "valid": false, "reason": "From Google API (Valid: False, addr: office park, jl. bukit darmo golf no.10, pradahkalikendal, kec. dukuhpakis, surabaya, jawa timur 60225, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:53.762271"}
+{"original": "area", "checked_word": "area", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:53.785217"}
+{"original": "area", "checked_word": "area", "valid": false, "reason": "From Google API (Valid: False, addr: jl. manyar kertoadi no. 1 rt. 01 / rw. 07 kel, jl. dr. ir. h. soekarno no.175, klampis ngasem, sukolilo, surabaya, east java 60116, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:55.121146"}
+{"original": "kepadatan lalu lintas", "checked_word": "kepadatan lalu lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:55.143385"}
+{"original": "kepadatan lalu lintas", "checked_word": "kepadatan lalu lintas", "valid": false, "reason": "From Google API (Valid: False, addr: jl. raya kendangsari industri no.43-44, kendangsari, kec. tenggilis mejoyo, surabaya, jawa timur 60292, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:56.417563"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.437036"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.465889"}
+{"original": "Gresik", "checked_word": "Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.483593"}
+{"original": "Gresik", "checked_word": "Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.487438"}
+{"original": "Gresik", "checked_word": "Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.504871"}
+{"original": "Gresik", "checked_word": "Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.509219"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.533207"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.537016"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.556052"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.559074"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.585222"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.589725"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.616230"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.621576"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.662107"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.668109"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.704236"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.708773"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.731539"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.734539"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.753175"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:56.756842"}
+{"original": "nya", "checked_word": "nya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:56.784094"}
+{"original": "nya", "checked_word": "nya", "valid": false, "reason": "From Google API (Valid: False, addr: jl. raya mulyosari no.156, kalisari, kec. mulyorejo, surabaya, jawa timur 60113, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:57.915241"}
+{"original": "nya", "checked_word": "nya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:57.937043"}
+{"original": "nya", "checked_word": "nya", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:57.962838"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:57.986173"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": true, "reason": "From Google API (Valid: True, addr: jl. raya manyar, surabaya, jawa timur 60284, indonesia)", "method": "google", "timestamp": "2025-12-09T13:37:59.034695"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:59.053376"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:37:59.081006"}
+{"original": "JIIPE Gresik", "checked_word": "JIIPE Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:37:59.100749"}
+{"original": "JIIPE Gresik", "checked_word": "JIIPE Gresik", "valid": false, "reason": "From Google API (Valid: False, addr: jalan raya manyar km 11 manyarejo, manyarsidorukun, manyar sido rukun, kec. manyar, kabupaten gresik, jawa timur 61151, indonesia)", "method": "google", "timestamp": "2025-12-09T13:38:00.326943"}
+{"original": "JIIPE Gresik", "checked_word": "JIIPE Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.353478"}
+{"original": "JIIPE Gresik", "checked_word": "JIIPE Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.377860"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.408701"}
+{"original": "Layang Trosobo", "checked_word": "Layang Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.411698"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.429226"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.433226"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.456791"}
+{"original": "Jalan Pakal", "checked_word": "Jalan Pakal", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.459798"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.478204"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.481580"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:00.500836"}
+{"original": "Raya Manyar", "checked_word": "Raya Manyar", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:00.503871"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.562939"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.567959"}
+{"original": "Lakarsantri", "checked_word": "Lakarsantri", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.593221"}
+{"original": "Lakarsantri", "checked_word": "Lakarsantri", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.599304"}
+{"original": "ss-", "checked_word": "ss-", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.618779"}
+{"original": "ss-", "checked_word": "ss-", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.623168"}
+{"original": "simpang", "checked_word": "simpang", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.644022"}
+{"original": "simpang", "checked_word": "simpang", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.648194"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.677183"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.682184"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.707511"}
+{"original": "Driyorejo Gresik", "checked_word": "Driyorejo Gresik", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.711511"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.731067"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.734067"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.752103"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.755615"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.777421"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.780391"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.802480"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.807365"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.823594"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.839761"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.859294"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.863653"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.883089"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.886162"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.908062"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.912066"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.935867"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.940441"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.959658"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.963661"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:03.987032"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:03.990704"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.009942"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:04.013121"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.033994"}
+{"original": "Lontar Lidah Kulon", "checked_word": "Lontar Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:04.037995"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.058577"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.078167"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:04.082219"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.111408"}
+{"original": "Jalan Panjang Jiwo", "checked_word": "Jalan Panjang Jiwo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:04.116567"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:04.146016"}
+{"original": "Jagir Wonokromo", "checked_word": "Jagir Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:04.151393"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.502784"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.506535"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.525666"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.530935"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.553899"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.558478"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.581630"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.587596"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.606645"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.610213"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.631028"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.634648"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.650869"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.654086"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.675821"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.680820"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.701906"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.705176"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.723818"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.726999"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.748347"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.752462"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.773073"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.776480"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.793666"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.799050"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.816315"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.819680"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.836370"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.840002"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.856750"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.859915"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.878910"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.882210"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.900470"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.904513"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.923733"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.928318"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.944563"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.949198"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.968731"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.972218"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:05.990844"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:05.994846"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:06.013889"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:06.016889"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.001799"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.006361"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.032914"}
+{"original": "Berbek", "checked_word": "Berbek", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.039477"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.063213"}
+{"original": "imbas", "checked_word": "imbas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.067410"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.086586"}
+{"original": "galian", "checked_word": "galian", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.092128"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.112410"}
+{"original": "sisi kanan", "checked_word": "sisi kanan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.118456"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.137027"}
+{"original": "kiri jalan", "checked_word": "kiri jalan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.139646"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.157345"}
+{"original": "truk", "checked_word": "truk", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.160345"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.184799"}
+{"original": "truk muat bata", "checked_word": "truk muat bata", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.188815"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.207180"}
+{"original": "masalah", "checked_word": "masalah", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.210180"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.229419"}
+{"original": "lintas", "checked_word": "lintas", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.232707"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.253997"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.258633"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.279245"}
+{"original": "Raya Brigjend Katamso", "checked_word": "Raya Brigjend Katamso", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.282324"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.299957"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.304246"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.322313"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.325385"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.353664"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.356704"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.387158"}
+{"original": "ber", "checked_word": "ber", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.392690"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.427302"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.433300"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.465334"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.468336"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.485887"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.489422"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.513028"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.516611"}
+{"original": "an", "checked_word": "an", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.534859"}
+{"original": "an", "checked_word": "an", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.539782"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.563192"}
+{"original": "Bundaran Waru", "checked_word": "Bundaran Waru", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.566835"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:07.588685"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:07.592100"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.581681"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.610827"}
+{"original": "Simpang Lontar Lidah Kulon", "checked_word": "Simpang Lontar Lidah Kulon", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.615328"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.637039"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.641114"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.667528"}
+{"original": "persimpangan", "checked_word": "persimpangan", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.670941"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.692742"}
+{"original": "kota", "checked_word": "kota", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.697737"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.716278"}
+{"original": "imbas volume", "checked_word": "imbas volume", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.720464"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.731176"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.741242"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.759045"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.762168"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.780029"}
+{"original": "Perak", "checked_word": "Perak", "valid": false, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.784031"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.806521"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.809528"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.829058"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.832057"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.851204"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.854263"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.870896"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.874862"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.906581"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.912585"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.934735"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.939533"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.956621"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.971983"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:08.990892"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:08.994259"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.011191"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.014810"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.034352"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.037510"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.055352"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.059360"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.076015"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.080541"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.097076"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.100128"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.120077"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.124716"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.142646"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.146875"}
+{"original": "Jalan Jakarta", "checked_word": "jln. jakarta", "valid": true, "reason": "Fuzzy+Edit OK input='Jalan Jakarta', matched='jln. jakarta'(ratio=92, sort=92, dist=3, overlap={'jakarta'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.158906"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.181514"}
+{"original": "Raya Wiyung", "checked_word": "Raya Wiyung", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.184902"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.205258"}
+{"original": "Gunungsari", "checked_word": "Gunungsari", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.209589"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.231835"}
+{"original": "Lidah Kulon", "checked_word": "Lidah Kulon", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.235237"}
+{"original": "Raya Waru", "checked_word": "jl. raya waru", "valid": true, "reason": "Fuzzy+Edit OK input='Raya Waru', matched='jl. raya waru'(ratio=100, sort=86, dist=4, overlap={'raya', 'waru'})", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.252740"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.273532"}
+{"original": "Surabaya", "checked_word": "Surabaya", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.277028"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.300551"}
+{"original": "Wonokromo", "checked_word": "Wonokromo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.305133"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.327755"}
+{"original": "Trosobo", "checked_word": "Trosobo", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.333774"}
+{"original": "Krian", "checked_word": "Krian", "valid": false, "reason": "No match by fuzzy+edit distance", "method": "fuzzy", "timestamp": "2025-12-09T13:38:09.356196"}
+{"original": "Krian", "checked_word": "Krian", "valid": true, "reason": "From cache", "method": "google", "timestamp": "2025-12-09T13:38:09.360332"}

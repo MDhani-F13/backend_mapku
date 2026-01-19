@@ -1,31 +1,23 @@
 {
-    "tweet_id": "1930566908065271844",
-    "query": "from:e100ss kemacetan OR padat OR tersendat surabaya -arisan -event -info",
-    "user": "Radio Suara Surabaya",
-    "text": "17.06: \n1. Jalan Pakal arah Terminal Benowo macet;\n2. Kawasan Gedangan arah Surabaya padat;\n3. KM 5 200 Tol Dupak arah Satelit macet;\n4. Jalan Kendangsari arah Berbek Industri macet. (SS-AL)",
-    "cleaned_text": "17.06: 1. Jalan Pakal arah Terminal Benowo macet; 2. Kawasan Gedangan arah Surabaya padat; 3. KM 5 200 Tol Dupak arah Satelit macet; 4. Jalan Kendangsari arah Berbek Industri macet. ()",
-    "created_at": "Thu Jun 05 10:06:33 +0000 2025",
+    "tweet_id": 1996379624260194640,
+    "query": "from:e100ss (kemacetan OR padat OR tersendat) surabaya -arisan -event -info",
+    "user": "848614550",
+    "text": "07.42:\n1. Jalan Jakarta arah Perak macet;\n2. Raya Wiyung arah Gunungsari padat merambat imbas volume di persimpangan;\n3. Lidah Kulon arah Simpang Lontar Lidah Kulon macet;\n4. Raya Waru arah Surabaya macet;\n5. Wonokromo arah dalam kota padat imbas volume;\n6. Trosobo arah Krian",
+    "cleaned_text": "07.42: 1. Jalan Jakarta arah Perak macet; 2. Raya Wiyung arah Gunungsari padat merambat imbas volume di persimpangan; 3. Lidah Kulon arah Simpang Lontar Lidah Kulon macet; 4. Raya Waru arah Surabaya macet; 5. Wonokromo arah dalam kota padat imbas volume; 6. Trosobo arah Krian",
+    "created_at": "2025-12-04T00:42:48+00:00",
     "ner_entities": [
         {
             "entity": "TIME",
-            "text": "17. 06"
+            "text": "07. 42"
         },
         {
             "entity": "LOCATION",
-            "text": "terminal benowogedangansurabaya"
-        },
-        {
-            "entity": "QUANTITY",
-            "text": "3. km 5 200 tol"
-        },
-        {
-            "entity": "LOCATION",
-            "text": "dupakkendangsari"
+            "text": "jakartaperakraya wiyunggunungsarilidah kulonlontarlidah kulonraya warusurabayawonokromotrosobokrian"
         }
     ],
     "pos_tags": [
         {
-            "word": "17.06",
+            "word": "07.42",
             "tag": "NUM"
         },
         {
@@ -37,7 +29,7 @@
             "tag": "NUM"
         },
         {
-            "word": "Jalan Pakal",
+            "word": "Jalan Jakarta",
             "tag": "PROPN"
         },
         {
@@ -45,7 +37,7 @@
             "tag": "NOUN"
         },
         {
-            "word": "Terminal Benowo",
+            "word": "Perak",
             "tag": "PROPN"
         },
         {
@@ -65,7 +57,7 @@
             "tag": "NUM"
         },
         {
-            "word": "Kawasan Gedangan",
+            "word": "Raya Wiyung",
             "tag": "PROPN"
         },
         {
@@ -73,12 +65,28 @@
             "tag": "NOUN"
         },
         {
-            "word": "Surabaya",
+            "word": "Gunungsari",
             "tag": "PROPN"
         },
         {
             "word": "padat",
             "tag": "ADJ"
+        },
+        {
+            "word": "merambat",
+            "tag": "VERB"
+        },
+        {
+            "word": "imbas volume",
+            "tag": "NOUN"
+        },
+        {
+            "word": "di",
+            "tag": "ADP"
+        },
+        {
+            "word": "persimpangan",
+            "tag": "NOUN"
         },
         {
             "word": ";",
@@ -89,15 +97,7 @@
             "tag": "NUM"
         },
         {
-            "word": "KM",
-            "tag": "NOUN"
-        },
-        {
-            "word": "5 200",
-            "tag": "NUM"
-        },
-        {
-            "word": "Tol Dupak",
+            "word": "Lidah Kulon",
             "tag": "PROPN"
         },
         {
@@ -105,7 +105,7 @@
             "tag": "NOUN"
         },
         {
-            "word": "Satelit",
+            "word": "Simpang Lontar Lidah Kulon",
             "tag": "PROPN"
         },
         {
@@ -125,7 +125,7 @@
             "tag": "NUM"
         },
         {
-            "word": "Jalan Kendangsari",
+            "word": "Raya Waru",
             "tag": "PROPN"
         },
         {
@@ -133,7 +133,7 @@
             "tag": "NOUN"
         },
         {
-            "word": "Berbek Industri",
+            "word": "Surabaya",
             "tag": "PROPN"
         },
         {
@@ -145,13 +145,61 @@
             "tag": "ADJ"
         },
         {
-            "word": ". ()",
+            "word": ";",
             "tag": "PUNCT"
+        },
+        {
+            "word": "5.",
+            "tag": "NUM"
+        },
+        {
+            "word": "Wonokromo",
+            "tag": "PROPN"
+        },
+        {
+            "word": "arah",
+            "tag": "NOUN"
+        },
+        {
+            "word": "dalam",
+            "tag": "ADP"
+        },
+        {
+            "word": "kota",
+            "tag": "NOUN"
+        },
+        {
+            "word": "padat",
+            "tag": "ADJ"
+        },
+        {
+            "word": "imbas volume",
+            "tag": "NOUN"
+        },
+        {
+            "word": ";",
+            "tag": "PUNCT"
+        },
+        {
+            "word": "6.",
+            "tag": "NUM"
+        },
+        {
+            "word": "Trosobo",
+            "tag": "PROPN"
+        },
+        {
+            "word": "arah",
+            "tag": "NOUN"
+        },
+        {
+            "word": "Krian",
+            "tag": "PROPN"
         }
     ],
     "merged_tags": [
         [
-            "17.06",
+            "07.42",
             "TIME"
         ],
         [
@@ -163,7 +211,7 @@
             "NUM"
         ],
         [
-            "Jalan Pakal",
+            "Jalan Jakarta",
             "PROPN"
         ],
         [
@@ -171,7 +219,7 @@
             "NOUN"
         ],
         [
-            "Terminal Benowo",
+            "Perak",
             "LOCATION"
         ],
         [
@@ -191,15 +239,15 @@
             "NUM"
         ],
         [
-            "Kawasan Gedangan",
-            "PROPN"
+            "Raya Wiyung",
+            "LOCATION"
         ],
         [
             "arah",
             "NOUN"
         ],
         [
-            "Surabaya",
+            "Gunungsari",
             "LOCATION"
         ],
         [
@@ -207,31 +255,39 @@
             "ADJ"
         ],
         [
+            "merambat",
+            "VERB"
+        ],
+        [
+            "imbas volume",
+            "NOUN"
+        ],
+        [
+            "di",
+            "ADP"
+        ],
+        [
+            "persimpangan",
+            "NOUN"
+        ],
+        [
             ";",
             "PUNCT"
         ],
         [
             "3.",
-            "QUANTITY"
+            "NUM"
         ],
         [
-            "KM",
-            "QUANTITY"
-        ],
-        [
-            "5 200",
-            "QUANTITY"
-        ],
-        [
-            "Tol Dupak",
-            "PROPN"
+            "Lidah Kulon",
+            "LOCATION"
         ],
         [
             "arah",
             "NOUN"
         ],
         [
-            "Satelit",
+            "Simpang Lontar Lidah Kulon",
             "PROPN"
         ],
         [
@@ -251,16 +307,16 @@
             "NUM"
         ],
         [
-            "Jalan Kendangsari",
-            "PROPN"
+            "Raya Waru",
+            "LOCATION"
         ],
         [
             "arah",
             "NOUN"
         ],
         [
-            "Berbek Industri",
-            "PROPN"
+            "Surabaya",
+            "LOCATION"
         ],
         [
             "mac",
@@ -271,8 +327,56 @@
             "ADJ"
         ],
         [
-            ". ()",
+            ";",
             "PUNCT"
+        ],
+        [
+            "5.",
+            "NUM"
+        ],
+        [
+            "Wonokromo",
+            "LOCATION"
+        ],
+        [
+            "arah",
+            "NOUN"
+        ],
+        [
+            "dalam",
+            "ADP"
+        ],
+        [
+            "kota",
+            "NOUN"
+        ],
+        [
+            "padat",
+            "ADJ"
+        ],
+        [
+            "imbas volume",
+            "NOUN"
+        ],
+        [
+            ";",
+            "PUNCT"
+        ],
+        [
+            "6.",
+            "NUM"
+        ],
+        [
+            "Trosobo",
+            "LOCATION"
+        ],
+        [
+            "arah",
+            "NOUN"
+        ],
+        [
+            "Krian",
+            "LOCATION"
         ]
     ]
 }
