@@ -111,7 +111,7 @@ This is after using location to form route of the road closure
 
 ## Related Repository
 
-- Frontend: [FRONTEND_REPOSITORY_URL]
+- Frontend: [[FRONTEND_REPOSITORY_URL](https://github.com/MDhani-F13/mapku_android)]
 
 ## Author
 
