@@ -116,5 +116,6 @@ This is after using location to form route of the road closure
 ## Author
 
 Muhammad Anand Fardhani  
-[LinkedIn Profile URL]
-
+<a href="www.linkedin.com/in/muhammad-anand-fardhani-1b4484170">
+Linkedin Profile
+</a>
